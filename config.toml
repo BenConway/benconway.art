@@ -1,0 +1,32 @@
+baseURL = "https://benconway.art/"
+languageCode = "en-us"
+title = "Ben Conway"
+
+theme = "hugrid"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-XXXXXXXX-Y"
+
+contentdir = "content"
+datadir = "data"
+layoutdir = "layouts"
+publishdir = "public"
+
+[params]
+    # Meta
+    title = "Ben Conway"
+    subtitle = "I'm an illustration student at <a href=\"https://cca.edu\">California College of the Arts</a>, with an interest in scientific illustration."
+    author = "Ben Conway"
+    description = "Hugrid - grid theme for Hugo with an expanding image preview."
+    keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
+
+    # Body background color
+    bodybgcolor = "#f9f9f9"
+
+    # Preview container button text
+    buttontext = "Get the theme"
+
+    # Footer text
+    footertext = "Copyright &copy; 2018 Ben Conway. Theme by [Pavel Kanyshev](https://github.com/aerohub/hugrid) and [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/)."
+
+    # add extra-css
+    # custom_css = ['css/extra1.css', 'css/extra2.css']

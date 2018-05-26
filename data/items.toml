@@ -1,0 +1,20 @@
+[[items]]
+title = "Item 3"
+image = "img/gemini.png"
+thumb = "img/gemini_thumb.png"
+alt = "Gemini"
+description = "Model of the Gemini spacecraft."
+
+[[items]]
+title = "Item 2"
+image = "img/gemini.png"
+thumb = "img/gemini_thumb.png"
+alt = "Gemini"
+description = "Model of the Gemini spacecraft."
+
+[[items]]
+title = "Item"
+image = "img/gemini.png"
+thumb = "img/gemini_thumb.png"
+alt = "Gemini"
+description = "Model of the Gemini spacecraft."
