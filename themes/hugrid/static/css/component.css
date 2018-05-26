@@ -1,7 +1,3 @@
-:root {
-  --img-height: 450px
-}
-
 .og-grid {
 	list-style: none;
 	padding: 20px 0;
@@ -14,7 +10,7 @@
 	display: inline-block;
 	margin: 10px 5px 0 5px;
 	vertical-align: top;
-	height: var(--img-height);
+	height: 250px;
 }
 
 .og-grid li > a,
@@ -23,7 +19,7 @@
 	outline: none;
 	display: block;
 	position: relative;
-  height: var(--img-height)
+	height: 250px;
 }
 
 .og-grid li.og-expanded > a::after {
