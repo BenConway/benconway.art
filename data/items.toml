@@ -1,20 +1,34 @@
 [[items]]
-title = "Item 3"
-image = "img/gemini.png"
-thumb = "img/gemini_thumb.png"
-alt = "Gemini"
-description = "Model of the Gemini spacecraft."
+title = "Airplane"
+image = "img/airplane3.png"
+thumb = "img/airplane3-thumb.png"
+alt = "Airplane"
+description = "Cutaway view of an imaginary airplane, created with Blender."
 
 [[items]]
-title = "Item 2"
-image = "img/gemini.png"
-thumb = "img/gemini_thumb.png"
-alt = "Gemini"
-description = "Model of the Gemini spacecraft."
+title = "Circles"
+image = "img/circles-final.png"
+thumb = "img/circles-thumb.png"
+alt = "Circles"
+description = "Abstract digital painting, created with Krita and a geometric drawing program I wrote myself."
 
 [[items]]
-title = "Item"
-image = "img/gemini.png"
-thumb = "img/gemini_thumb.png"
-alt = "Gemini"
-description = "Model of the Gemini spacecraft."
+title = "Discover the World of Reading"
+image = "img/library.png"
+thumb = "img/library-thumb.png"
+alt = "Library"
+description = "Illustration of the concept of reading, created using Blender with trees produced using Blender's tree generator."
+
+[[items]]
+title = "Tower"
+image = "img/tower-bw.png"
+thumb = "img/tower-thumb.png"
+alt = "Tower"
+description = "Blender image of a tower casting its shadow onto a cloud bank."
+
+[[items]]
+title = "Fog"
+image = "img/fog.png"
+thumb = "img/fog-thumb.png"
+alt = "Fog"
+description = "Digital painting inspired by early morning fog near Daly City."
