@@ -1,7 +1,9 @@
 ---
-title: "About"
-date: 2018-05-25T22:42:06-07:00
-draft: true
+title: About Me 
+date: 2018-05-26T16:34:57-07:00
+type: page
+layout: page
+draft: false
 ---
 
-I'm an illustration student. Lorem ipsum dolor sit amet.
+Lorem ipsum dolor sit amet.
