@@ -1,34 +1,62 @@
 [[items]]
-title = "Airplane"
-image = "img/airplane3.png"
-thumb = "img/airplane3-thumb.png"
-alt = "Airplane"
-description = "Cutaway view of an imaginary airplane, created with Blender."
+title = "Asteroid Environs"
+image = "img/asteroid-environs.png"
+thumb = "img/asteroid-environs-thumb.png"
+alt = "Asteroid Environs"
+description = "3D rendering of a network of space stations tethered to a near-Earth asteroid. Inspired by the randomly-generated phrase 'Vesta Environs.' Groups were used to create different types of space station so each individual station could be implemented as a group instance, making modifications to the different stations easier. Krita was used to create textures for the solar sails and background, as well as part of the asteroid's texture (a procedural noise texture was also added to the asteroid.)"
 
 [[items]]
-title = "Circles"
-image = "img/circles-final.png"
-thumb = "img/circles-thumb.png"
-alt = "Circles"
-description = "Abstract digital painting, created with Krita and a geometric drawing program I wrote myself."
+title = "Eclipse"
+image = "img/eclipse-painted.png"
+thumb = "img/eclipse-painted-thumb.png"
+alt = "Eclipse"
+description = "Starting with a base as a Blender render, this one became mostly a Krita piece. It's inspired by the 2017 total solar eclipse, representing both the actual mechanics of how eclipses work as well as the feeling which the eclipse inspires---the realization that you are standing on a spherical planet with a giant rock orbiting it, realizing the size of the universe, realizing that you yourself are a part of the universe."
 
 [[items]]
-title = "Discover the World of Reading"
-image = "img/library.png"
-thumb = "img/library-thumb.png"
-alt = "Library"
-description = "Illustration of the concept of reading, created using Blender with trees produced using Blender's tree generator."
-
-[[items]]
-title = "Tower"
-image = "img/tower-bw.png"
-thumb = "img/tower-thumb.png"
-alt = "Tower"
-description = "Blender image of a tower casting its shadow onto a cloud bank."
+title = "Orion Drive"
+image = "img/orion.png"
+thumb = "img/orion-thumb.png"
+alt = "Orion Drive"
+description = "3D rendering of a realistic starship using the Orion nuclear-pulse propulsion concept. Careful attention was paid to realism, including referring to Wikipedia articles and George Dyson's book /Project Orion/ to check certain details of the design."
 
 [[items]]
 title = "Fog"
 image = "img/fog.png"
 thumb = "img/fog-thumb.png"
 alt = "Fog"
-description = "Digital painting inspired by early morning fog near Daly City."
+description = "Digital painting inspired by early morning fog near Daly City. Created with Krita. This image required the use of multiple layers to separate the different planes of the image, so their opacity and thus their value could be controlled."
+
+[[items]]
+title = "Abandoned City"
+image = "img/abandoned-city.png"
+thumb = "img/abandoned-city-thumb.png"
+alt = "Abandoned City"
+description = "Experiment with digitally painting over a Blender image. This illustration represents a group of explorers landing in an abandoned ancient city. The buildings, helicopter, and explorers were all rendered with Blender. The plants, fog, and certain details on the explorers and helicopter were all added with Krita."
+
+[[items]]
+title = "Airplane"
+image = "img/airplane3.png"
+thumb = "img/airplane3-thumb.png"
+alt = "Airplane"
+description = "Cutaway view of an imaginary airplane, created with Blender. Thisgives some idea of my technical illustration style. While the details are imaginary, they were all carefully considered to increase the realism of the design."
+
+[[items]]
+title = "Circles"
+image = "img/circles-final.png"
+thumb = "img/circles-thumb.png"
+alt = "Circles"
+description = "Abstract digital painting, created with Krita and a geometric drawing program I wrote myself. The drawing program was intended to make compass-and-straightedge style drawing easier on the computer, and was written using Python and the Pygame display library."
+
+[[items]]
+title = "Discover the World of Reading"
+image = "img/library.png"
+thumb = "img/library-thumb.png"
+alt = "Library"
+description = "Illustration of the concept of reading, created using Blender with trees produced using Blender's tree generator. One of the earlier pieces in my portfolio, created when I was just getting used to the Cycles rendering engine."
+
+[[items]]
+title = "Tower"
+image = "img/tower-bw.png"
+thumb = "img/tower-thumb.png"
+alt = "Tower"
+description = "Blender image of a tower casting its shadow onto a cloud bank. The background vegetation was created using a hair-particle system, with volumetric clouds and a blue tint added to the image in the compositor."
