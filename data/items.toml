@@ -13,13 +13,6 @@ alt = "Eclipse"
 description = "Starting with a base as a Blender render, this one became mostly a Krita piece. It's inspired by the 2017 total solar eclipse, representing both the actual mechanics of how eclipses work as well as the feeling which the eclipse inspires---the realization that you are standing on a spherical planet with a giant rock orbiting it, realizing the size of the universe, realizing that you yourself are a part of the universe."
 
 [[items]]
-title = "Orion Drive"
-image = "img/orion.png"
-thumb = "img/orion-thumb.png"
-alt = "Orion Drive"
-description = "3D rendering of a realistic starship using the Orion nuclear-pulse propulsion concept. Careful attention was paid to realism, including referring to Wikipedia articles and George Dyson's book /Project Orion/ to check certain details of the design."
-
-[[items]]
 title = "Fog"
 image = "img/fog.png"
 thumb = "img/fog-thumb.png"
