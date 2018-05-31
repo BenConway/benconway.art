@@ -22,4 +22,4 @@ interesting and exciting the world really is.
 I work primarily with open-source software including Blender and Krita, but also have experience with
 Adobe Creative Cloud.
 
-You can contact me at [ben@benconway.art](mailto:ben@benconway.art).
+You can contact me at [ben@benconway.art](mailto:ben@benconway.art). 
