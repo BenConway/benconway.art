@@ -6,14 +6,20 @@ layout: page
 draft: false
 ---
 
-I'm currently studying illustration at California College of the
-Arts. I have a specific interest in scientific illustration,
-especially astronomical and space travel subjects.
+I'm an illustrator currently studying at <a href="https://cca.edu" target="_blank">California College of the Arts</a>. I have a specific interest in 3D scientific illustration,
+especially astronomical illustration and space illustration.
 
-I work primarily with open-source software including Blender and
-Krita, but also have experience with Adobe Creative Cloud. I also work
-traditionally with acrylics and watercolors.
+Most of my work consists of 3D renderings. Some of my images are
+created entirely from imagination to convey a new world. Other images
+are created to technical specifications, to produce an accurate
+rendition of a real spacecraft or object. In either case, I try to make my
+images logically consistent so they are believable.
 
-Most of my work consists of 3D renderings, but recently I have begun
-working with 2D techniques and experimenting with integrating 3D and
-2D media.
+My objective with my artwork is to create a sense of wonder
+and to convey knowledge. I want to explain science and show people how
+interesting and exciting the world really is.
+
+I work primarily with open-source software including Blender and Krita, but also have experience with
+Adobe Creative Cloud.
+
+You can contact me at [ben@benconway.art](mailto:ben@benconway.art).

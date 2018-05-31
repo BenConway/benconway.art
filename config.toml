@@ -14,7 +14,7 @@ publishdir = "public"
 [params]
     # Meta
     title = "Ben Conway"
-    subtitle = "I'm an illustration student at <a href=\"https://cca.edu\">California College of the Arts</a>, with an interest in scientific illustration. [Read more.](/about/)"
+    subtitle = "I'm an illustrator currently studying at California College of the Arts, with an interest in scientific illustration. [Read more.](/about/)"
     author = "Ben Conway"
     description = "Hugrid - grid theme for Hugo with an expanding image preview."
     keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
@@ -26,7 +26,7 @@ publishdir = "public"
     buttontext = "Get the theme"
 
     # Footer text
-    footertext = "Copyright &copy; 2018 Ben Conway. Theme by [Pavel Kanyshev](https://github.com/aerohub/hugrid) and [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/)."
+    footertext = "Copyright &copy; 2010-2018 Ben Conway. All rights reserved. Reproduction in whole or in part in any form is strictly forbidden without express written permission. Theme by [Pavel Kanyshev](https://github.com/aerohub/hugrid) and [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/)."
 
     # add extra-css
     # custom_css = ['css/extra1.css', 'css/extra2.css']

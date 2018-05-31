@@ -3,7 +3,7 @@ title = "Asteroid Environs"
 image = "img/asteroid-environs.png"
 thumb = "img/asteroid-environs-thumb.png"
 alt = "Asteroid Environs"
-description = "3D rendering of a network of space stations tethered to a near-Earth asteroid. Inspired by the randomly-generated phrase 'Vesta Environs.' In this image, there are several different types of space station---habitat stations, agriculture stations, solar power stations, and docking stations. They're supported by their solar sails, while remaining connected to the asteroid by tethers. Elsewhere on the asteroid itself, mining and manufacturing stations are visible---and in the distance, free-flying science spacecraft can be seen.
+description = "3D rendering of a network of space stations tethered to a near-Earth asteroid. Inspired by the randomly-generated phrase 'Vesta Environs.' In this image, there are several different types of space station---habitat stations, agriculture stations, solar power stations, and docking stations. They're supported by their solar sails, while remaining connected to the asteroid by tethers. Elsewhere on the asteroid itself, mining and manufacturing stations are visible---and in the distance, free-flying science spacecraft can be seen."
 
 [[items]]
 title = "Eclipse"
