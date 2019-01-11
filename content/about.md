@@ -20,6 +20,7 @@ and to convey knowledge. I want to explain science and show people how
 interesting and exciting the world really is.
 
 I work primarily with open-source software including Blender and Krita, but also have experience with
-Adobe Creative Cloud.
+Adobe Creative Cloud. I also work with traditional media, especially
+ink and acrylic paint.
 
 You can contact me at [ben@benconway.art](mailto:ben@benconway.art). 

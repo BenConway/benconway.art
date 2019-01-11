@@ -1,4 +1,32 @@
 [[items]]
+title = "Escape A"
+image = "img/escape-a.png"
+thumb = "img/escape-a-thumb.png"
+alt = "Escape A"
+description = "This is an experimental piece, combining traditional and digital media. For a long time my traditional and digital practices were separate---this piece represents climbing over the wall that separates things and escaping into a world where combinations are possible. The trees in the foreground were painted with acrylics, as was the wall texture. The grass is a particle system with a digitally-painted texture. The ground behind the wall was made using ink wash, and the background trees were drawn with a brush pen."
+
+[[items]]
+title = "Pioneer"
+image = "img/pioneer.png"
+thumb = "img/pioneer-thumb.png"
+alt = "Pioneer"
+description = "Image of the Pioneer 11 spacecraft, in front of a stylized representation of its mission---crossing the asteroid belt, flying by Jupiter and Saturn, and then exploring the outermost reaches of the Solar System. While modeling the spacecraft, I referred to the NASA publication SP-349 and the article "Pioneer: 40 Years Later." I also used data from JPL Solar System Dynamics to ensure accuracy in the placement of Jupiter's moons."
+
+[[items]]
+title = "Music Lesson"
+image = "img/music-lesson.png"
+thumb = "img/music-lesson-thumb.png"
+alt = "Music Lesson"
+description = "This image shows a human musician taking music lessons from a rather whimsically-designed (but still relatively realistic) robot. It's intended to communicate a story of peaceful and beneficial interaction between humans and robots."
+
+[[items]]
+title = "Hyperion"
+image = "img/hyperion.png"
+thumb = "img/hyperion-thumb.png"
+alt = "Hyperion"
+description = "This image was inspired by Saturn's moon Hyperion, which is suspected to have an elaborate maze of caves below its surface. I referred to various NASA Astronomy Picture of the Day pages to get information on Hyperion's appearance, and then imagined this view of the exploration of moon's interior. The astronauts' space suits and equipment are imagined, but intended to still be realistic."
+
+[[items]]
 title = "Asteroid Environs"
 image = "img/asteroid-environs.png"
 thumb = "img/asteroid-environs-thumb.png"
@@ -17,7 +45,7 @@ title = "Fog"
 image = "img/fog.png"
 thumb = "img/fog-thumb.png"
 alt = "Fog"
-description = "Digital painting inspired by early morning fog near Daly City, which I observed one morning from BART on my way to school. The combination of moonlight and city lights provided interesting illumination for the fog, and the dark hills and tree shapes provided an interesting contrast---the ideal subject for a monochromatic digital painting."
+description = "Digital painting inspired by early morning fog near Daly City, which I observed one morning from BART on my way to school. The combination of moonlight and city lights provided interesting illumination for the fog, and the dark hills and tree shapes provided an interesting contrast---a good subject for a monochromatic digital painting."
 
 [[items]]
 title = "Abandoned City"
@@ -27,18 +55,11 @@ alt = "Abandoned City"
 description = "This illustration represents a group of explorers landing in an abandoned ancient city. My interest in science is evident here with the image's themes of exploration and discovery. The overall mood of the image is intended to be mysterious with a slight sense of wonder: Where is this place? What happened here?"
 
 [[items]]
-title = "Airplane"
-image = "img/airplane3.png"
-thumb = "img/airplane3-thumb.png"
-alt = "Airplane"
-description = "Cutaway view of an imaginary airplane. This gives some idea of my technical illustration style. While the details are imaginary, they were all carefully considered to increase the realism of the design. The engine, the size of the wings, bolts holding elements together, and the shape of the fuselage are all intended to make the image as realistic as possible."
-
-[[items]]
 title = "Circles"
 image = "img/circles-final.png"
 thumb = "img/circles-thumb.png"
 alt = "Circles"
-description = "Abstract digital painting, working with color and shape as well as digital brushwork to convey a feeling."
+description = "Abstract digital painting, working with color and shape as well as digital brushwork. I created the linework using a Python program I wrote myself, and added the colors and brushwork with Krita."
 
 [[items]]
 title = "Discover the World of Reading"
