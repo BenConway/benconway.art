@@ -17,7 +17,7 @@ publishdir = "public"
     subtitle = "I'm an illustrator currently studying at California College of the Arts, with an interest in scientific illustration. [Read more.](/about/)"
     author = "Ben Conway"
     description = "Illustrator, primarily of science and space-related subjects."
-    keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
+    keywords = "illustration, science, space, spacecraft, art"
 
     # Body background color
     bodybgcolor = "#f9f9f9"
