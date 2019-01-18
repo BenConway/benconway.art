@@ -20,7 +20,7 @@ publishdir = "public"
     keywords = "illustration, science, space, spacecraft, art"
 
     # Body background color
-    bodybgcolor = "#5a5a5a"
+    bodybgcolor = "#505050"
 
     # Preview container button text
     buttontext = "Get the theme"
