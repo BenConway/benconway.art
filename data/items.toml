@@ -10,7 +10,7 @@ title = "Pioneer"
 image = "img/pioneer.png"
 thumb = "img/pioneer-thumb.png"
 alt = "Pioneer"
-description = "Image of the Pioneer 11 spacecraft, in front of a stylized representation of its mission---crossing the asteroid belt, flying by Jupiter and Saturn, and then exploring the outermost reaches of the Solar System. While modeling the spacecraft, I referred to the NASA publication SP-349 and the article \"Pioneer: 40 Years Later.\" I also used data from JPL Solar System Dynamics to ensure accuracy in the placement of the planets' moons."
+description = "Image of the Pioneer 11 spacecraft, in front of a stylized representation of its mission---crossing the asteroid belt, flying by Jupiter and Saturn, and then exploring the outermost reaches of the Solar System. While modeling the spacecraft, I referred to the NASA publication SP-349 and the article \"Pioneer: 40 Years Later.\" I also used data from JPL Solar System Dynamics to ensure accuracy in the placement and size of the planets' moons."
 
 [[items]]
 title = "Music Lesson"
