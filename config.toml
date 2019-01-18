@@ -1,4 +1,4 @@
-baseURL = "https://benconway.art/"
+baseURL = "https://www.benconway.art/"
 languageCode = "en-us"
 title = "Ben Conway"
 
@@ -16,7 +16,7 @@ publishdir = "public"
     title = "Ben Conway"
     subtitle = "I'm an illustrator currently studying at California College of the Arts, with an interest in scientific illustration. [Read more.](/about/)"
     author = "Ben Conway"
-    description = "Hugrid - grid theme for Hugo with an expanding image preview."
+    description = "Illustrator, primarily of science and space-related subjects."
     keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
 
     # Body background color
