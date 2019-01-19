@@ -6,7 +6,7 @@ layout: page
 draft: false
 ---
 
-I'm an illustrator currently studying at <a href="https://cca.edu" target="_blank">California College of the Arts</a>. I have a specific interest in 3D scientific illustration,
+I'm an illustrator currently studying at <a href="https://cca.edu" target="_blank">California College of the Arts</a>. I have a specific interest in scientific illustration,
 especially astronomical illustration and space illustration.
 
 Most of my work consists of 3D renderings. Some of my images are
