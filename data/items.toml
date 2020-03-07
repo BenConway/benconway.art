@@ -1,4 +1,88 @@
 [[items]]
+title = "Robot Animal"
+image = "img/pillow-example-low.png"
+thumb = "img/pillow-example-thumb.png"
+alt = "Robot Animal"
+description = "This is a development of a CCA surface design project. It's a fabric pattern for making a pillow. The fabric for making the pillow will soon be available on Spoonflower. It shows two animals and their whimsical robotic counterparts. Both robots are designed to have rather unusual designs---the deer is modeled after the aesthetics of classic cameras, the rabbit is modeled after 1960s electronics lab equipment."
+
+[[items]]
+title = "Spacejunk"
+image = "img/spacejunk.png"
+thumb = "img/spacejunk-thumb.png"
+alt = "Spacejunk"
+description = "For my senior thesis project I developed a board game. This image shows the entire game set up the way it would be played."
+
+[[items]]
+title = "Spacejunk Box"
+image = "img/Box-low.png"
+thumb = "img/Box-thumb.png"
+alt = "Spacejunk Box"
+description = "This is another image from the Spacejunk project, showing the box that the game comes in."
+
+[[items]]
+title = "Spacejunk Ion Propulsion"
+image = "img/IonPropulsion-low.png"
+thumb = "img/IonPropulsion-thumb.png"
+alt = "Spacejunk Ion Propulsion"
+description = "This is one of the images from the Spacejunk project. It shows an ion engine, which is a type of spacecraft propulsion system. This illustration was created using a hybrid process involving both 3D rendering and traditional acrylic painting."
+
+[[items]]
+title = "Spacejunk Scanner"
+image = "img/Scanner-low.jpg"
+thumb = "img/Scanner-thumb.jpg"
+alt = "Spacejunk Scanner"
+description = "This is another Spacejunk image, showing a scanning device that can be used to search for parts."
+
+[[items]]
+title = "Spacejunk Story 1"
+image = "img/Story1-lowres.jpg"
+thumb = "img/Story1-thumb.jpg"
+alt = "Spacejunk Story 1"
+description = "This Spacejunk image represents the monotony of life in an asteroid habitat surrounded by a junkyard."
+
+[[items]]
+title = "Spacejunk Story 2"
+image = "img/Story2-lowres.jpg"
+thumb = "img/Story2-thumb.jpg"
+alt = "Spacejunk Story 2"
+description = "This Spacejunk image represents the hope that space exploration can give to people."
+
+[[items]]
+title = "Spacejunk Hazard"
+image = "img/hazard.jpg"
+thumb = "img/hazard-thumb.jpg"
+alt = "Spacejunk Hazard"
+description = "This Spacejunk image depicts the hazards that one might encounter when digging for spacecraft parts in a junkyard."
+
+[[items]]
+title = "Spacejunk Radio"
+image = "img/Radio.jpg"
+thumb = "img/Radio-thumb.jpg"
+alt = "Spacejunk Radio"
+description = "This is a Spacejunk card showing a communication module you can install on your spacecraft."
+
+[[items]]
+title = "Spacejunk Lander"
+image = "img/Landing-Legs.jpg"
+thumb = "img/Landing-Legs-thumb.jpg"
+alt = "Spacejunk Lander"
+description = "This is a Spacejunk module that allows your spacecraft to land on things."
+
+[[items]]
+title = "Spacejunk Payload"
+image = "img/Core3-low.jpg"
+thumb = "img/Core3-thumb.jpg"
+alt = "Spacejunk Payload"
+description = "This is a Spacejunk payload module. The payload of a spacecraft is all of the equipment that the spacecraft carries to perform its mission once it reaches its destination."
+
+[[items]]
+title = "Spacejunk Board"
+image = "img/Board-lowres.jpg"
+thumb = "img/Board-thumb.jpg"
+alt = "Spacejunk Board"
+description = "This is the board from Spacejunk, showing the asteroid junkyard where the story takes place."
+
+[[items]]
 title = "Escape A"
 image = "img/escape-a.png"
 thumb = "img/escape-a-thumb.png"
