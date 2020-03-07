@@ -14,15 +14,15 @@ description = "For my senior thesis project I developed a board game. This image
 
 [[items]]
 title = "Spacejunk Box"
-image = "img/Box-low.png"
-thumb = "img/Box-thumb.png"
+image = "img/Box-low.jpg"
+thumb = "img/Box-thumb.jpg"
 alt = "Spacejunk Box"
 description = "This is another image from the Spacejunk project, showing the box that the game comes in."
 
 [[items]]
 title = "Spacejunk Ion Propulsion"
-image = "img/IonPropulsion-low.png"
-thumb = "img/IonPropulsion-thumb.png"
+image = "img/IonPropulsion-low.jpg"
+thumb = "img/IonPropulsion-thumb.jpg"
 alt = "Spacejunk Ion Propulsion"
 description = "This is one of the images from the Spacejunk project. It shows an ion engine, which is a type of spacecraft propulsion system. This illustration was created using a hybrid process involving both 3D rendering and traditional acrylic painting."
 
