@@ -29,8 +29,4 @@ publishdir = "public"
     footertext = "Copyright &copy; 2010-2020 Ben Conway. All rights reserved. Reproduction in whole or in part in any form is strictly forbidden without express written permission. Theme by [Pavel Kanyshev](https://github.com/aerohub/hugrid) and [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/)."
 
     # add extra-css
-body {
-    font-family: 'Varela Round', sans-serif;
-
-}
     # custom_css = ['css/extra1.css', 'css/extra2.css']
