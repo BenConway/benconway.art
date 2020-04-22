@@ -56,9 +56,9 @@ a {
 	padding: 0 30px 50px 30px;
 }
 /*60 30 50*/
-/*Top margin.*/
+/*Top title.*/
 .container > header {
-	padding: 30px 15px 25px;
+	padding: 15px 15px 50px;
 	text-align: center;
 }
 
