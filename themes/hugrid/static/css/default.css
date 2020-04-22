@@ -56,8 +56,9 @@ a {
 	padding: 0 30px 50px 30px;
 }
 /*60 30 50*/
+/*Top margin.*/
 .container > header {
-	padding: 120px 60px 100px;
+	padding: 30px 15px 25px;
 	text-align: center;
 }
 
