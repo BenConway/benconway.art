@@ -80,13 +80,13 @@ a {
 }
 
 /* Begin weird stuff from Ben */
-
+/* Padding was 5px.*/
 footer { padding: 5px}
 
 .page-content {
     max-width: 900px;
     text-align: justify;
-    padding: 5px;
+    padding: 50px;
     position: relative;
     margin: auto;
 }
