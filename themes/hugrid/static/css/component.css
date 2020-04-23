@@ -1,15 +1,15 @@
 .og-grid {
-    /* maybe here?*/
+    /* This sets margin for the whole grid.*/
 	list-style: none;
 	padding: 20px 0;
-	margin: 25%;
+	margin: 0 auto;
 	text-align: center;
 	width: 100%;
 }
-
+/* margin 10px 5px 0 5px;*/
 .og-grid li {
 	display: inline-block;
-	margin: 10px 5px 0 5px;
+	margin: 20px 10px 0 10px;
 	vertical-align: top;
 	height: 250px;
 }
