@@ -32,13 +32,13 @@ body {
     font-family: 'Varela Round', sans-serif;
     font-weight: 300;
     font-size: 15px;
-    color: #111;
+    color: #555;
     overflow: scroll;
     overflow-x: hidden;
 }
 
 a {
-	color: #002a5b;
+	color: #6595ff;
 	text-decoration: none;
 }
 
@@ -47,7 +47,6 @@ a {
 	position: relative;
 }
 
-/*NO*/
 .container > header {
 	width: 90%;
 	max-width: 1240px;
