@@ -55,10 +55,9 @@ a {
 	position: relative;
 	padding: 0 30px 50px 30px;
 }
-/*60 30 50*/
 /*Top title.*/
 .container > header {
-	padding: 15px 15px 50px;
+	padding: 50px 15px 20px;
 	text-align: center;
 }
 
