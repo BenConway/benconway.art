@@ -70,7 +70,7 @@
 	width: 100%;
 	top: 50%;
 	height: 1px;
-	background: #888;
+	background: #333;
 	-webkit-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
 	transform: rotate(45deg);
