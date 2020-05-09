@@ -10,7 +10,7 @@ title = "Orrery"
 image = "img/Orrery-low.png"
 thumb = "img/Orrery-thumb.png"
 alt = "Orrery"
-description = "This is an illustration depicting the environment of my short story, \"The Orrery.\""
+description = "This is an illustration depicting the environment of my short story, \"The Orrery.\" You can read the story [here.](/fiction/orrery)"
 
 [[items]]
 title = "Spacejunk"
