@@ -6,6 +6,13 @@ alt = "Robot Animal"
 description = "This is a development of a CCA surface design project. It's a fabric pattern for making a pillow. The fabric for making the pillow will soon be available on Spoonflower. It shows two animals and their whimsical robotic counterparts. Both robots are designed to have rather unusual designs---the deer is modeled after the aesthetics of classic cameras, the rabbit is modeled after 1960s electronics lab equipment."
 
 [[items]]
+title = "Orrery"
+image = "img/Orrery-low.png"
+thumb = "img/Orrery-thumb.png"
+alt = "Orrery"
+description = "This is an illustration depicting the environment of my short story, "The Orrery." You can read the story [here.](/fiction/orrery/)"
+
+[[items]]
 title = "Spacejunk"
 image = "img/spacejunk.png"
 thumb = "img/spacejunk-thumb.png"
