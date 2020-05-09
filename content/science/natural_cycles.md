@@ -5,8 +5,14 @@ type: page
 layout: page
 draft: false
 ---
+<style type="text/css" rel="stylesheet">
+IMG.centered {
+display: block;
+margin-left: auto;
+margin-right: auto }
+</style>
 
-<img src="https://www.benconway.art/img/NaturalCycles-low.png"
+<img class="centered" src="https://www.benconway.art/img/NaturalCycles-low.png"
 width=500 align="center"></img>
 
 This is an illustration of the Earth's nitrogen, water, and carbon

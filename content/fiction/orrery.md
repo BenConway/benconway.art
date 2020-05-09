@@ -5,8 +5,16 @@ type: page
 layout: page
 draft: false
 ---
-<img src="https://www.benconway.art/img/Orrery-low.png"></img>
-<audio controls src="orrery.wav"></audio>
+<style type="text/css" rel="stylesheet">
+IMG.centered {
+display: block;
+margin-left: auto;
+margin-right: auto }
+</style>
+
+<img class = "centered"
+src="https://www.benconway.art/img/Orrery-low.png" align="center"></img>
+<audio controls src="https://www.benconway.art/orrery.wav"></audio>
 
 The sun rose over the mountain, illuminating the light fog that filled the valley.
 
