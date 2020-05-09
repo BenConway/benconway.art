@@ -6,10 +6,28 @@
     <description>Recent content on Ben Conway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2020 16:38:00 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2020 21:24:00 -0800</lastBuildDate>
     
 	<atom:link href="https://www.benconway.art/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Natural Cycles</title>
+      <link>https://www.benconway.art/science/natural_cycles/</link>
+      <pubDate>Fri, 08 May 2020 21:24:00 -0800</pubDate>
+      
+      <guid>https://www.benconway.art/science/natural_cycles/</guid>
+      <description>This is an illustration of the Earth&amp;rsquo;s nitrogen, water, and carbon cycles. Reservoirs (places where material accumulates) are indicated with letters, processes that exchange material between reservoirs are indicated with numbers.
+Nitrogen:
+A. Atmosphere.
+ Nitrogen fixation by bacteria.
+ Nitrogen fixation by lightning.
+ Nitrification by bacteria.
+  D. Soil.
+ Denitrification by bacteria.
+ Assimilation of nitrogen into plants (B.)
+ Nitrogen return to soil through decomposition.</description>
+    </item>
     
     <item>
       <title>The Orrery</title>

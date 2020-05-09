@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.benconway.art/science/natural_cycles/</loc>
+    <lastmod>2020-05-08T21:24:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.benconway.art/fiction/orrery/</loc>
     <lastmod>2020-05-08T16:38:00-08:00</lastmod>
   </url>
@@ -14,7 +19,7 @@
   
   <url>
     <loc>https://www.benconway.art/</loc>
-    <lastmod>2020-05-08T16:38:00-08:00</lastmod>
+    <lastmod>2020-05-08T21:24:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -26,6 +31,12 @@
   <url>
     <loc>https://www.benconway.art/fiction/</loc>
     <lastmod>2020-05-08T16:38:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.benconway.art/science/</loc>
+    <lastmod>2020-05-08T21:24:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   

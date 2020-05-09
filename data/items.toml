@@ -1,4 +1,11 @@
 [[items]]
+title = "Natural Cycles"
+image = "img/NaturalCycles-low.png"
+thumb = "img/NaturalCycles-thumb.png"
+alt = "Natural Cycles"
+description = "This is an illustration of the Earth's nitrogen, water, and carbon cycles. You can read more <a href = 'science/natural_cycles/'> here.</a>"
+
+[[items]]
 title = "Robot Animal"
 image = "img/pillow-example-low.png"
 thumb = "img/pillow-example-thumb.png"

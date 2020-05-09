@@ -6,6 +6,8 @@ layout: page
 draft: false
 ---
 <img src="https://www.benconway.art/img/Orrery-low.png"></img>
+<audio controls src="orrery.wav"></audio>
+
 The sun rose over the mountain, illuminating the light fog that filled the valley.
 
 Ramet and Seja walked along the path that led up the hill, whistling together. They were pulling a small wagon filled with vegetables---the way they'd been doing, five days a week, for the past six years.
