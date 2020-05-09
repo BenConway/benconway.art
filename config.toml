@@ -8,7 +8,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 
 contentdir = "content"
 datadir = "data"
-layoutdir = "themes/hugrid/layouts"
+layoutdir = "layouts"
 publishdir = "public"
 
 [params]
