@@ -46,6 +46,7 @@ Seja looked at it for a long moment. She saw what was wrong.
 "We'll have time after that, though," Seja said. "Let's try it."
 
 ---
+<br/>
 
 After they had sold all the vegetables, they picked up a wagonload of books at the library.
 
@@ -58,6 +59,7 @@ Then they returned to the monument. They climbed the hill and navigated through 
 "Cool. Let's get to work!" Seja was already climbing up one of the columns to get a closer look at the orrery. Ramet was more hesitant, but gradually gained the confidence to climb up with her.
 
 ---
+<br/>
 
 "OK, I see the problem." Ramet bent over the mechanism. "This gear shaft has worn out completely."
 
@@ -68,6 +70,7 @@ Then they returned to the monument. They climbed the hill and navigated through 
 "I bet we could make a replacement part out of a coathanger. Go get one."
 
 ---
+<br/>
 
 It still didn't work.
 
@@ -90,6 +93,7 @@ Seja stopped and took a closer look.
 Seja got down on her hands and knees and began looking. _It can't have gotten too far, it must have just fallen out right here somewhere..._ After about ten minutes she found it---unfortunately it had gotten stepped on at some point, and the delicate metal had been mangled beyond repair.
 
 ---
+<br/>
 
 The next day, they took another wagonload of vegetables from their neighbors into Town for the market.
 
@@ -98,6 +102,7 @@ Then they went back to the Monument. They couldn't really figure out what to do 
 _If only gears grew in this garden instead of carrots_, he thought.
 
 ---
+<br/>
 
 The day after that, Ramet went out early in the morning. He left a note for Seja: _I'll be back at noon. I know how to fix the orrery._
 
@@ -128,6 +133,7 @@ They walked to the Consolidated Universal Gear Company, Inc.
 "Exactly. Combine the two things you're ignoring and you'll get a solution."
 
 ---
+<br/>
 
 They installed the gear and started the orrery. It worked.
 
