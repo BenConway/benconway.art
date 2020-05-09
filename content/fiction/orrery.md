@@ -9,12 +9,17 @@ draft: false
 IMG.centered {
 display: block;
 margin-left: auto;
-margin-right: auto }
+margin-right: auto}
 </style>
 
 <img class = "centered"
-src="https://www.benconway.art/img/Orrery-low.png" align="center"></img>
-<audio controls src="https://www.benconway.art/orrery.wav"></audio>
+src="https://www.benconway.art/img/Orrery-low.png"></img>
+<br/>
+<div style="margin: 0 auto; display: table;">
+	<audio controls class = "centered"
+	src="https://www.benconway.art/orrery.wav" align="center"></audio>
+	</div>
+<br/>
 
 The sun rose over the mountain, illuminating the light fog that filled the valley.
 
