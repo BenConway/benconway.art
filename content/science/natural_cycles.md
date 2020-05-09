@@ -17,91 +17,83 @@ indicated with numbers.
 ---
 Nitrogen:
 
-A. Atmosphere.
+A: Atmosphere.
 
-1. Nitrogen fixation by bacteria.
+1: Nitrogen fixation by bacteria.
 
-2. Nitrogen fixation by lightning.
+2: Nitrogen fixation by lightning.
 
-3. Nitrification by bacteria.
+3: Nitrification by bacteria.
 
-D. Soil.
+D: Soil.
 
-{:start="4"}
-4. Denitrification by bacteria.
+4: Denitrification by bacteria.
 
-5. Assimilation of nitrogen into plants (B.)
+5: Assimilation of nitrogen into plants (B.)
 
-6. Nitrogen return to soil through decomposition.
+6: Nitrogen return to soil through decomposition.
 
-7. Nitrogen consumption by animals (C.)
+7: Nitrogen consumption by animals (C.)
 
-8. Nitrogen return to soil through decomposition.
+8: Nitrogen return to soil through decomposition.
 
-9. Ammonification.
+9: Ammonification.
 
 ---
 
 Carbon:
 
-{:start="10"}
-10. Exchange of carbon between the ocean (F) and the atmosphere (A.)
+10: Exchange of carbon between the ocean (F) and the atmosphere (A.)
 
-11. Photosynthesis.
+11: Photosynthesis.
 
-B. Plants.
+B: Plants.
 
-{:start="12"}
-12. Plant respiration.
+12: Plant respiration.
 
-13. Decomposition.
+13: Decomposition.
 
-14. Carbon consumption by animals (C.)
+14: Carbon consumption by animals (C.)
 
-15. Animal respiration.
+15: Animal respiration.
 
-16. Decomposition.
+16: Decomposition.
 
-D. Soil.
+D: Soil.
 
-{:start="17"}
-17. Microbial respiration.
+17: Microbial respiration.
 
 ---
 
 Water:
 
-A. Atmosphere.
+A: Atmosphere.
 
-{:start="18"}
-18. Precipitation.
+18: Precipitation.
 
-19. Uptake into plants (B.)
+19: Uptake into plants (B.)
 
-20. Evapotranspiration.
+20: Evapotranspiration.
 
-21. Groundwater infiltration.
+21: Groundwater infiltration.
 
-G. Groundwater.
+G: Groundwater.
 
-{:start="22"}
-22. Surface runoff.
+22: Surface runoff.
 
-F. Oceans, lakes, and streams.
+F: Oceans, lakes, and streams.
 
-E. Snowpack.
+E: Snowpack.
 
-{:start="23"}
-23. Snowmelt runoff.
+23: Snowmelt runoff.
 
-24. Groundwater flow.
+24: Groundwater flow.
 
-25. Evaporation.
+25: Evaporation.
 
-A. Atmosphere.
+A: Atmosphere.
 
-{:start="26"}
-26. Condensation.
+26: Condensation.
 
 ---
 ---
