@@ -7,7 +7,7 @@ draft: false
 ---
 
 <img src="https://www.benconway.art/img/NaturalCycles-low.png"
-width=500 align=center></img>
+width=500 align="center"></img>
 
 This is an illustration of the Earth's nitrogen, water, and carbon
 cycles. Reservoirs (places where material accumulates) are indicated
