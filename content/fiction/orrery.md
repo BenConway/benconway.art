@@ -1,7 +1,7 @@
 ---
 title: The Orrery
 date: 2020-05-08T16:38:00-08:00
-type: page
+type: single
 layout: single
 draft: false
 ---
