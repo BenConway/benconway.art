@@ -15,9 +15,9 @@ indicated with numbers.
 
 
 ---
-   Nitrogen:
+Nitrogen:
 
-   A. Atmosphere.
+A. Atmosphere.
 
 1. Nitrogen fixation by bacteria.
 
@@ -25,8 +25,9 @@ indicated with numbers.
 
 3. Nitrification by bacteria.
 
-   D. Soil.
+D. Soil.
 
+{:start="4"}
 4. Denitrification by bacteria.
 
 5. Assimilation of nitrogen into plants (B.)
@@ -39,16 +40,18 @@ indicated with numbers.
 
 9. Ammonification.
 
+---
 
+Carbon:
 
-   Carbon:
-
+{:start="10"}
 10. Exchange of carbon between the ocean (F) and the atmosphere (A.)
 
 11. Photosynthesis.
 
-   B. Plants.
+B. Plants.
 
+{:start="12"}
 12. Plant respiration.
 
 13. Decomposition.
@@ -59,16 +62,18 @@ indicated with numbers.
 
 16. Decomposition.
 
-   D. Soil.
+D. Soil.
 
+{:start="17"}
 17. Microbial respiration.
 
+---
 
+Water:
 
-   Water:
+A. Atmosphere.
 
-   A. Atmosphere.
-
+{:start="18"}
 18. Precipitation.
 
 19. Uptake into plants (B.)
@@ -77,22 +82,25 @@ indicated with numbers.
 
 21. Groundwater infiltration.
 
-   G. Groundwater.
+G. Groundwater.
 
+{:start="22"}
 22. Surface runoff.
 
-   F. Oceans, lakes, and streams.
+F. Oceans, lakes, and streams.
 
-   E. Snowpack.
+E. Snowpack.
 
+{:start="23"}
 23. Snowmelt runoff.
 
 24. Groundwater flow.
 
 25. Evaporation.
 
-   A. Atmosphere.
+A. Atmosphere.
 
+{:start="26"}
 26. Condensation.
 
 ---
