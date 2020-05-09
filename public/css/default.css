@@ -1,0 +1,106 @@
+/* General Demo Style */
+/* This is the live version. */
+@import url(//fonts.googleapis.com/css?family=Varela+Round:300,400,700);
+
+html { height: 100%; }
+
+*,
+*:after,
+*:before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+/* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+body {
+    font-family: 'Varela Round', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    color: #ddf;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+a {
+	color: #77a0ff;
+	text-decoration: none;
+}
+
+.container {
+	width: 100%;
+	position: relative;
+}
+
+.container > header {
+	width: 90%;
+	max-width: 1240px;
+	margin: 0 auto;
+	position: relative;
+	padding: 0 30px 50px 30px;
+}
+/*Top title.*/
+.container > header {
+	padding: 50px 15px 10px;
+	text-align: center;
+}
+/* Top title.*/
+.container > header h1, .container > header h1 > a {
+	font-size: 34px;
+	line-height: 38px;
+	margin: 0 auto;
+	font-weight: 700;
+	color: #ddf;
+}
+
+.container > header h1 span {
+	display: block;
+	font-size: 20px;
+	font-weight: 300;
+}
+
+.main > p {
+	text-align: center;
+	padding: 50px 20px;
+}
+
+/* Begin weird stuff from Ben */
+footer { padding: 5px}
+
+.page-content {
+    max-width: 900px;
+    text-align: justify;
+    padding: 5px;
+    position: relative;
+    margin: auto;
+}
+
+.page-content p {
+    padding-bottom: 10px;
+}
+
+footer {
+    text-align: justify;
+    padding: 5px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto:
+    margin-top: 40px;
+    font-size: 9pt;
+}
