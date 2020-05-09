@@ -1,8 +1,8 @@
 ---
 title: The Orrery
 date: 2020-05-08T16:38:00-08:00
-type: single
-layout: single
+type: page
+layout: page
 draft: false
 ---
 The sun rose over the mountain, illuminating the light fog that filled the valley.
