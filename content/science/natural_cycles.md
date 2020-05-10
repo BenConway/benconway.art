@@ -114,15 +114,20 @@ A: Atmosphere.
 ---
 <br/>
 References:
-
+The Fundamentals of the Water Cycle (US Geological Survey, retrieved 5/8/2020.)
 https://www.usgs.gov/special-topic/water-science-school/science/fundamentals-water-cycle?qt-science_center_objects=0#qt-science_center_objects
 
+Diagram of the Nitrogen Cycle (US Geological Survey, retrieved 5/8/2020.)
 https://www.usgs.gov/media/images/diagram-nitrogen-cycle
 
+Basics of the Carbon Cycle and the Greenhouse Effect (NOAA Global
+Monitoring Laboratory, retrieved 5/8/2020.)
 https://www.esrl.noaa.gov/gmd/education/carbon_toolkit/basics.html
 
+The Hydrologic Cycle (National Weather Service, retrieved 5/8/2020.)
 https://www.weather.gov/jetstream/hydro
 
+Biology 2e (OpenStax, retrieved 5/8/2020.) Section 22.3, Prokaryotic Metabolism.
 https://openstax.org/books/biology-2e/pages/22-3-prokaryotic-metabolism
 
 Environmental Science for a Changing World (W. H. Freeman and Company,
