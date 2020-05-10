@@ -113,7 +113,9 @@ A: Atmosphere.
 ---
 ---
 <br/>
+<p style="text-align: center;">
 References:
+</p>
 
 The Fundamentals of the Water Cycle (US Geological Survey, retrieved 5/8/2020.)
 https://www.usgs.gov/special-topic/water-science-school/science/fundamentals-water-cycle?qt-science_center_objects=0#qt-science_center_objects
