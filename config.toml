@@ -14,7 +14,7 @@ publishdir = "public"
 [params]
     # Meta
     title = "Ben Conway"
-    subtitle = "I'm an illustrator currently studying at California College of the Arts, with an interest in scientific illustration. [Read more.](/about/)"
+    subtitle = "I'm an illustrator based in the San Francisco Bay Area, with an interest in scientific illustration. [Read more.](/about/)"
     author = "Ben Conway"
     description = "Illustrator, primarily of science and space-related subjects."
     keywords = "illustration, science, space, spacecraft, art"

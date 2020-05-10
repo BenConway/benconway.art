@@ -5,14 +5,21 @@ type: page
 layout: page
 draft: false
 ---
-I'm an illustrator specializing in scientific and technical illustration.
+<style type="text/css" rel="stylesheet">
+IMG.centered {
+display: block;
+margin-left: auto;
+margin-right: auto }
+</style>
 
-My objective with my artwork is to create a sense of wonder
-and to convey knowledge. I want to explain science and show people how
-interesting and exciting the world really is.
+<img class="centered" src="https://www.benconway.art/img/SelfPortrait_Final.png"
+width=500></img>
+<br/>
 
-Some of my images are created entirely from imagination to convey a new world. Other images are created to exact technical specifications, to produce an accurate rendition of a real spacecraft or object. In either case, I try to make my images logically consistent so they are believable.
+Ben Conway is an illustrator, skilled at using 3D modeling and traditional media to create visually interesting and scientifically accurate images of a variety of subjects, including spacecraft and astronomical objects.
 
-Most of my work consists of 3D renderings. I primarily use open-source software such as <a href="https://blender.org" target="_blank">Blender</a>, and I try to find ways to combine this with traditional media such as acrylic painting.
+Ben has had an illustration-related internship at Caltech's Jet Propulsion Laboratory. He has also participated in the <a href="https://psyche.asu.edu/get-involved/psyche-inspired/psyche-inspired-ben-conway/"> Psyche Inspired </a> internship program run by Arizona State University in connection with NASA's Psyche mission.
+
+In addition to illustrating, Ben likes to create electronic ambient music, write science fiction stories, and go hiking.
 
 You can contact me at [ben@benconway.art](mailto:ben@benconway.art). 
