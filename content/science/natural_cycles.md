@@ -14,6 +14,7 @@ margin-right: auto }
 
 <img class="centered" src="https://www.benconway.art/img/NaturalCycles-low.png"
 width=500></img>
+<br/>
 
 This is an illustration of the Earth's nitrogen, water, and carbon
 cycles. Reservoirs (places where material accumulates) are indicated
@@ -22,7 +23,10 @@ indicated with numbers.
 
 
 ---
+<br/>
+<p style="text-align: center;">
 Nitrogen:
+</p>
 
 A: Atmosphere.
 
@@ -47,8 +51,10 @@ D: Soil.
 9: Ammonification.
 
 ---
-
+<br/>
+<p style="text-align: center;">
 Carbon:
+</p>
 
 10: Exchange of carbon between the ocean (F) and the atmosphere (A.)
 
@@ -71,8 +77,10 @@ D: Soil.
 17: Microbial respiration.
 
 ---
-
+<br/>
+<p style="text-align: center;">
 Water:
+</p>
 
 A: Atmosphere.
 
@@ -104,8 +112,8 @@ A: Atmosphere.
 
 ---
 ---
-
-Sources:
+<br/>
+References:
 
 https://www.usgs.gov/special-topic/water-science-school/science/fundamentals-water-cycle?qt-science_center_objects=0#qt-science_center_objects
 
