@@ -12,39 +12,39 @@ margin-left: auto;
 margin-right: auto }
 </style>
 
-<img class="centered" src="http://www.benconway.art/img/report2.png"
+<img class="centered" src="https://www.benconway.art/img/report2.png"
 width=500></img>
 <br/>
-<img class="centered" src="http://www.benconway.art/img/Plant5b-video.png"
+<img class="centered" src="https://www.benconway.art/img/Plant5b-video.png"
 width=500></img>
 <br/>
-<img class="centered" src="http://www.benconway.art/img/Plant5-low.png"
+<img class="centered" src="https://www.benconway.art/img/Plant5-low.png"
 width=500></img>
 <br/>
-<img class="centered" src="http://www.benconway.art/img/report1.png"
+<img class="centered" src="https://www.benconway.art/img/report1.png"
 width=500></img>
 <br/>
-<img class="centered" src="http://www.benconway.art/img/Plant1-low.png"
+<img class="centered" src="https://www.benconway.art/img/Plant1-low.png"
 width=500></img>
 <br/>
-<img class="centered" src="http://www.benconway.art/img/Plant2-low.png"
+<img class="centered" src="https://www.benconway.art/img/Plant2-low.png"
 width=500></img>
 <br/>
-<img class="centered" src="http://www.benconway.art/img/report3.png"
+<img class="centered" src="https://www.benconway.art/img/report3.png"
 width=500></img>
 <br/>
-<img class="centered" src="http://www.benconway.art/img/Plant3-low.png"
+<img class="centered" src="https://www.benconway.art/img/Plant3-low.png"
 width=500></img>
 <br/>
-<img class="centered" src="http://www.benconway.art/img/Plant4-low.png"
+<img class="centered" src="https://www.benconway.art/img/Plant4-low.png"
 width=500></img>
 <br/>
-<img class="centered" src="http://www.benconway.art/img/report4.png"
+<img class="centered" src="https://www.benconway.art/img/report4.png"
 width=500></img>
 <br/>
-<img class="centered" src="http://www.benconway.art/img/Plant6-low.png"
+<img class="centered" src="https://www.benconway.art/img/Plant6-low.png"
 width=500></img>
 <br/>
-<img class="centered" src="http://www.benconway.art/img/Plant7-low.png"
+<img class="centered" src="https://www.benconway.art/img/Plant7-low.png"
 width=500></img>
 <br/>
