@@ -22,4 +22,6 @@ Ben has had an illustration-related internship at Caltech's Jet Propulsion Labor
 
 In addition to illustrating, Ben likes to create electronic ambient music, write science fiction stories, and go hiking.
 
-You can contact me at [ben@benconway.art](mailto:ben@benconway.art). 
+You can contact Ben at [ben@benconway.art](mailto:ben@benconway.art)
+
+Ben's Instagram: [benconwayart](instagram.com/benconwayart/)

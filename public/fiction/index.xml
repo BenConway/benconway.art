@@ -6,10 +6,19 @@
     <description>Recent content in Fictions on Ben Conway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2020 16:38:00 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2020 08:54:13 -0700</lastBuildDate>
     
 	<atom:link href="https://www.benconway.art/fiction/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Chiron Expedition</title>
+      <link>https://www.benconway.art/fiction/chiron/</link>
+      <pubDate>Sun, 10 May 2020 08:54:13 -0700</pubDate>
+      
+      <guid>https://www.benconway.art/fiction/chiron/</guid>
+      <description>IMG.centered { display: block; margin-left: auto; margin-right: auto }</description>
+    </item>
     
     <item>
       <title>The Orrery</title>
@@ -17,11 +26,10 @@
       <pubDate>Fri, 08 May 2020 16:38:00 -0800</pubDate>
       
       <guid>https://www.benconway.art/fiction/orrery/</guid>
-      <description>The sun rose over the mountain, illuminating the light fog that filled the valley.
+      <description>IMG.centered { display: block; margin-left: auto; margin-right: auto}      
+The sun rose over the mountain, illuminating the light fog that filled the valley.
 Ramet and Seja walked along the path that led up the hill, whistling together. They were pulling a small wagon filled with vegetables&amp;mdash;the way they&amp;rsquo;d been doing, five days a week, for the past six years.
-&amp;ldquo;There&amp;rsquo;s the monument,&amp;rdquo; Seja said. &amp;ldquo;We&amp;rsquo;re halfway to Town.&amp;rdquo;
-&amp;ldquo;It looks different,&amp;rdquo; said Ramet.
-Seja looked at it for a long moment.</description>
+&amp;ldquo;There&amp;rsquo;s the monument,&amp;rdquo; Seja said. &amp;ldquo;We&amp;rsquo;re halfway to Town.</description>
     </item>
     
   </channel>

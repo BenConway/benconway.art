@@ -6,10 +6,19 @@
     <description>Recent content on Ben Conway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2020 21:24:00 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2020 08:54:13 -0700</lastBuildDate>
     
 	<atom:link href="https://www.benconway.art/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Chiron Expedition</title>
+      <link>https://www.benconway.art/fiction/chiron/</link>
+      <pubDate>Sun, 10 May 2020 08:54:13 -0700</pubDate>
+      
+      <guid>https://www.benconway.art/fiction/chiron/</guid>
+      <description>IMG.centered { display: block; margin-left: auto; margin-right: auto }</description>
+    </item>
     
     <item>
       <title>Natural Cycles</title>
@@ -17,11 +26,9 @@
       <pubDate>Fri, 08 May 2020 21:24:00 -0800</pubDate>
       
       <guid>https://www.benconway.art/science/natural_cycles/</guid>
-      <description>IMG.centered { display: block; margin-left: auto; margin-right: auto; margin-bottom: 50px }
-
+      <description>IMG.centered { display: block; margin-left: auto; margin-right: auto }   
 This is an illustration of the Earth&amp;rsquo;s nitrogen, water, and carbon cycles. Reservoirs (places where material accumulates) are indicated with letters, processes that exchange material between reservoirs are indicated with numbers.
-Nitrogen:
-A: Atmosphere.
+ Nitrogen: A: Atmosphere.
 1: Nitrogen fixation by bacteria.
 2: Nitrogen fixation by lightning.
 3: Nitrification by bacteria.
@@ -36,11 +43,10 @@ D: Soil.
       <pubDate>Fri, 08 May 2020 16:38:00 -0800</pubDate>
       
       <guid>https://www.benconway.art/fiction/orrery/</guid>
-      <description>The sun rose over the mountain, illuminating the light fog that filled the valley.
+      <description>IMG.centered { display: block; margin-left: auto; margin-right: auto}      
+The sun rose over the mountain, illuminating the light fog that filled the valley.
 Ramet and Seja walked along the path that led up the hill, whistling together. They were pulling a small wagon filled with vegetables&amp;mdash;the way they&amp;rsquo;d been doing, five days a week, for the past six years.
-&amp;ldquo;There&amp;rsquo;s the monument,&amp;rdquo; Seja said. &amp;ldquo;We&amp;rsquo;re halfway to Town.&amp;rdquo;
-&amp;ldquo;It looks different,&amp;rdquo; said Ramet.
-Seja looked at it for a long moment.</description>
+&amp;ldquo;There&amp;rsquo;s the monument,&amp;rdquo; Seja said. &amp;ldquo;We&amp;rsquo;re halfway to Town.</description>
     </item>
     
     <item>
@@ -49,9 +55,9 @@ Seja looked at it for a long moment.</description>
       <pubDate>Sat, 07 Mar 2020 09:13:00 -0800</pubDate>
       
       <guid>https://www.benconway.art/about/</guid>
-      <description>I&amp;rsquo;m an illustrator specializing in scientific and technical illustration.
-My objective with my artwork is to create a sense of wonder and to convey knowledge. I want to explain science and show people how interesting and exciting the world really is.
-Some of my images are created entirely from imagination to convey a new world. Other images are created to exact technical specifications, to produce an accurate rendition of a real spacecraft or object.</description>
+      <description>IMG.centered { display: block; margin-left: auto; margin-right: auto }   
+Ben Conway is an illustrator, skilled at using 3D modeling and traditional media to create visually interesting and scientifically accurate images of a variety of subjects, including spacecraft and astronomical objects.
+Ben has had an illustration-related internship at Caltech&amp;rsquo;s Jet Propulsion Laboratory. He has also participated in the Psyche Inspired  internship program run by Arizona State University in connection with NASA&amp;rsquo;s Psyche mission.</description>
     </item>
     
   </channel>

@@ -1,4 +1,25 @@
 [[items]]
+title = "Better Future"
+image = "img/BetterFuture.png"
+thumb = "img/BetterFuture-thumb.png"
+alt = "Better Future"
+description = "This image shows positive things that can be done to solve the environmental crisis, including: <br/>+ Renewable electricity generation.<br/>+ Green infrastructure and distributed agriculture.<br/>+ Public transit.<br/>+ Improved insulation of buildings.<br/>+ Permeable pavement.<br/>+ Rainwater collection and improved drainage.<br/>+ Remote work.<br/>+ Repairing broken things instead of replacing them.<br/>+ Increased adoption of plant-based diets.<br/>The main information source for this image was the Intergovernmental Panel on Climate Change's 2014 Synthesis Report Summary for Policymakers. Some additional information was obtained from the article <a href='https://iopscience.iop.org/article/10.1088/1748-9326/aa7541#erlaa7541r22'> The Climate Mitigation Gap.</a>"
+
+[[items]]
+title = "Chess for Dogs"
+image = "img/AlbumCover-low.png"
+thumb = "img/AlbumCover-thumb.png"
+alt = "Chess for Dogs Album Cover"
+description = "This is the cover for my first album of ambient music, Chess for Dogs, which I will release online in late May. The objects in the cabinet reflect my musical process and the things that inspire me: travel and nature. The pieces of paper pinned to the back wall of the cabinet include snippets of Csound code, Csound is the audio programming environment that I create most of my music with. The chess piece, musical note, and metronome represent the fact that I create music by arranging sounds in a carefully planned fashion as opposed to improvising. The Erlenmeyer flask represents the process of experimenting with new sounds. The vehicle in the top center is the pop-top camper van that my family traveled in when I was growing up."
+
+[[items]]
+title = "The Chiron Expedition"
+image = "img/Plant4-low.png"
+thumb = "img/Plant4-thumb.png"
+alt = "The Chiron Expedition"
+description = "This is a piece from a series representing the fictional expedition of the Interstellar Exploration Vehicle Chiron. This is a hard science fiction story that I'm creating. The story follows an expedition to the exoplanet Kapteyn b, and the alien plants that the expedition discovers there. You can see the rest of the series <a href='fiction/chiron/'> here.</a> This is a work-in-progress, I intend to periodically revisit this fictional universe and further develop the story of the Chiron through images and writing and possibly even music."
+
+[[items]]
 title = "Natural Cycles"
 image = "img/NaturalCycles-low.png"
 thumb = "img/NaturalCycles-thumb.png"
@@ -88,13 +109,6 @@ image = "img/Core3-low.jpg"
 thumb = "img/Core3-thumb.jpg"
 alt = "Spacejunk Payload"
 description = "This is a Spacejunk payload module. The payload of a spacecraft is all of the equipment that the spacecraft carries to perform its mission once it reaches its destination."
-
-[[items]]
-title = "Spacejunk Board"
-image = "img/Board-lowres.jpg"
-thumb = "img/Board-thumb.jpg"
-alt = "Spacejunk Board"
-description = "This is the board from Spacejunk, showing the asteroid junkyard where the story takes place."
 
 [[items]]
 title = "Escape A"
