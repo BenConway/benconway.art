@@ -38,7 +38,14 @@ title = "Orrery"
 image = "img/Orrery-low.png"
 thumb = "img/Orrery-thumb.png"
 alt = "Orrery"
-description = "This is an illustration depicting the environment of my short story, <a href = 'fiction/orrery/'>'The Orrery.'</a>"
+description = "This is an illustration depicting the environment of my short story, The Orrery. The story is <a href = 'fiction/orrery/'> here,</a> along with the piece of music I wrote to go with it."
+
+[[items]]
+title = "Still Life"
+image = "img/StillLife-low.png"
+thumb = "img/StillLife-thumb.png"
+alt = "Still Life"
+description = "This is an illustration from my botanical observation class. The assignment was to create a still life showing our personality, and including some plants. I created an image of my art studio space, featuring a lemon and a leaf of miner's lettuce."
 
 [[items]]
 title = "Spacejunk"
