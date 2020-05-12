@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.benconway.art/making/pillows/</loc>
+    <lastmod>2020-05-12T15:54:23-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.benconway.art/fiction/chiron/</loc>
     <lastmod>2020-05-10T08:54:13-07:00</lastmod>
   </url>
@@ -24,7 +29,7 @@
   
   <url>
     <loc>https://www.benconway.art/</loc>
-    <lastmod>2020-05-10T08:54:13-07:00</lastmod>
+    <lastmod>2020-05-12T15:54:23-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,6 +41,12 @@
   <url>
     <loc>https://www.benconway.art/fiction/</loc>
     <lastmod>2020-05-10T08:54:13-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.benconway.art/making/</loc>
+    <lastmod>2020-05-12T15:54:23-07:00</lastmod>
     <priority>0</priority>
   </url>
   

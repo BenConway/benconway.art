@@ -6,10 +6,19 @@
     <description>Recent content on Ben Conway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2020 08:54:13 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2020 15:54:23 -0700</lastBuildDate>
     
 	<atom:link href="https://www.benconway.art/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pillows</title>
+      <link>https://www.benconway.art/making/pillows/</link>
+      <pubDate>Tue, 12 May 2020 15:54:23 -0700</pubDate>
+      
+      <guid>https://www.benconway.art/making/pillows/</guid>
+      <description>IMG.centered { display: block; margin-left: auto; margin-right: auto }</description>
+    </item>
     
     <item>
       <title>The Chiron Expedition</title>

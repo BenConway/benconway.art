@@ -31,7 +31,7 @@ title = "Robot Animal"
 image = "img/pillow-example-low.png"
 thumb = "img/pillow-example-thumb.png"
 alt = "Robot Animal"
-description = "This is a development of a CCA surface design project. It's a fabric pattern for making a pillow. The fabric for making the pillow will soon be available on Spoonflower. It shows two animals and their whimsical robotic counterparts. Both robots are designed to have rather unusual designs---the deer is modeled after the aesthetics of classic cameras, the rabbit is modeled after 1960s electronics lab equipment."
+description = "This is a development of a CCA surface design project. It's a fabric pattern for making a pillow. The fabric for making the pillow will soon be available on Spoonflower. It shows two animals and their whimsical robotic counterparts. Both robots are designed to have rather unusual designs---the deer is modeled after the aesthetics of classic cameras, the rabbit is modeled after 1960s electronics lab equipment. You can see the pillows I made <a href='making/pillows/'>here.</a>"
 
 [[items]]
 title = "Orrery"
@@ -39,6 +39,20 @@ image = "img/Orrery-low.png"
 thumb = "img/Orrery-thumb.png"
 alt = "Orrery"
 description = "This is an illustration depicting the environment of my short story, The Orrery. The story is <a href = 'fiction/orrery/'> here,</a> along with the piece of music I wrote to go with it."
+
+[[items]]
+title = "Clock"
+image = "img/Clock-low.png"
+thumb = "img/Clock-thumb.png"
+alt = "Clock"
+description = "This is a clock made from laser-cut wood, with LED lighting. I am planning to make a larger one in the future."
+
+[[items]]
+title = "Whimsy"
+image = "img/Whimsy-low.png"
+thumb = "img/Whimsy-thumb.png"
+alt = "Whimsy"
+description = "This is an experimental piece. I've done a lot of pieces in this style, basically the idea is to begin with a rough idea of what I want the picture to look like and then keep adding humorous details until I run out of good places to put them. The clock was developed in a similar fashion."
 
 [[items]]
 title = "Still Life"
@@ -49,8 +63,8 @@ description = "This is an illustration from my botanical observation class. The 
 
 [[items]]
 title = "Spacejunk"
-image = "img/spacejunk.png"
-thumb = "img/spacejunk-thumb.png"
+image = "img/Spacejunk-low.png"
+thumb = "img/Spacejunk-thumb.png"
 alt = "Spacejunk"
 description = "For my senior thesis project I developed a board game. This photo shows the entire game set up the way it would be played."
 
