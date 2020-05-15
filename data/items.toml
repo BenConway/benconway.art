@@ -10,7 +10,7 @@ title = "Chess for Dogs"
 image = "img/AlbumCover-low.png"
 thumb = "img/AlbumCover-thumb.png"
 alt = "Chess for Dogs Album Cover"
-description = "This is the cover for my first album of ambient music, Chess for Dogs, which I will release online in late May. The objects in the cabinet reflect my musical process and the things that inspire me: travel and nature. The pieces of paper pinned to the back wall of the cabinet include snippets of Csound code, Csound is the audio programming environment that I create most of my music with. The chess piece, musical note, and metronome represent the fact that I create music by arranging sounds in a carefully planned fashion as opposed to improvising. The Erlenmeyer flask represents the process of experimenting with new sounds. The vehicle in the top center is the pop-top camper van that my family traveled in when I was growing up."
+description = "This is the cover for my first album of ambient music, Chess for Dogs, which I will release online in late May. The objects in the cabinet reflect my musical process and the things that inspire me: travel and nature. The pieces of paper pinned to the back wall of the cabinet include snippets of Csound code. (Csound is the audio programming environment that I create most of my music with.) The chess piece, musical note, and metronome represent the fact that I create music by arranging sounds in a carefully planned fashion as opposed to improvising. The Erlenmeyer flask represents the process of experimenting with new sounds. The vehicle in the top center is the pop-top camper van that my family traveled in when I was growing up."
 
 [[items]]
 title = "The Chiron Expedition"
@@ -31,7 +31,7 @@ title = "Robot Animal"
 image = "img/pillow-example-low.png"
 thumb = "img/pillow-example-thumb.png"
 alt = "Robot Animal"
-description = "This is a development of a CCA surface design project. It's a fabric pattern for making a pillow. The fabric for making the pillow will soon be available on Spoonflower. It shows two animals and their whimsical robotic counterparts. Both robots are designed to have rather unusual designs---the deer is modeled after the aesthetics of classic cameras, the rabbit is modeled after 1960s electronics lab equipment. You can see the pillows I made <a href='making/pillows/'>here.</a>"
+description = "This is a development of a CCA surface design project. It's a fabric pattern for making a pillow, showing two animals and their whimsical robotic counterparts. Both robots have rather unusual designs---the deer is modeled after the aesthetics of classic cameras, the rabbit is modeled after 1960s electronics lab equipment. You can see the pillows I made <a href='making/pillows/'>here.</a> The fabric for making the pillows will soon be available on Spoonflower."
 
 [[items]]
 title = "Orrery"
@@ -39,6 +39,7 @@ image = "img/Orrery-low.png"
 thumb = "img/Orrery-thumb.png"
 alt = "Orrery"
 description = "This is an illustration depicting the environment of my short story, The Orrery. The story is <a href = 'fiction/orrery/'> here,</a> along with the piece of music I wrote to go with it."
+
 
 [[items]]
 title = "Clock"
@@ -59,35 +60,35 @@ title = "Still Life"
 image = "img/StillLife-low.png"
 thumb = "img/StillLife-thumb.png"
 alt = "Still Life"
-description = "This is an illustration from my botanical observation class. The assignment was to create a still life showing our personality, and including some plants. I created an image of my art studio space, featuring a lemon and a leaf of miner's lettuce."
+description = "This is an illustration from my botanical observation class. The assignment was to create a still life showing our personality, and including some plants. I created an image of my studio, featuring a lemon and a leaf of miner's lettuce."
 
 [[items]]
 title = "Spacejunk"
 image = "img/Spacejunk-low.png"
 thumb = "img/Spacejunk-thumb.png"
 alt = "Spacejunk"
-description = "For my senior thesis project I developed a board game. This photo shows the entire game set up the way it would be played."
+description = "For my senior thesis project I developed a board game. This photo shows the game set up the way it would be played."
 
 [[items]]
 title = "Spacejunk Box"
 image = "img/Box-low.jpg"
 thumb = "img/Box-thumb.jpg"
 alt = "Spacejunk Box"
-description = "This is another image from the Spacejunk project, showing the box that the game comes in."
+description = "This is another image from the Spacejunk project, showing the box that the game is stored in."
 
 [[items]]
 title = "Spacejunk Ion Propulsion"
 image = "img/IonPropulsion-low.jpg"
 thumb = "img/IonPropulsion-thumb.jpg"
 alt = "Spacejunk Ion Propulsion"
-description = "This is one of the images from the Spacejunk project. It shows an ion engine, which is a type of spacecraft propulsion system. This illustration was created using a hybrid process involving both 3D rendering and traditional acrylic painting."
+description = "This is another image from the Spacejunk project. It shows an ion engine, which is a type of spacecraft propulsion system. This illustration was created using a hybrid process involving 3D rendering and traditional acrylic painting."
 
 [[items]]
 title = "Spacejunk Scanner"
 image = "img/Scanner-low.jpg"
 thumb = "img/Scanner-thumb.jpg"
 alt = "Spacejunk Scanner"
-description = "This is another Spacejunk image, showing a scanning device that can be used to search for parts."
+description = "This is a Spacejunk image showing a scanning device that can be used to search for parts."
 
 [[items]]
 title = "Spacejunk Story 1"
@@ -132,13 +133,6 @@ alt = "Spacejunk Payload"
 description = "This is a Spacejunk payload module. The payload of a spacecraft is all of the equipment that the spacecraft carries to perform its mission once it reaches its destination."
 
 [[items]]
-title = "Escape A"
-image = "img/escape-a.png"
-thumb = "img/escape-a-thumb.png"
-alt = "Escape A"
-description = "This is an experimental piece, combining traditional and digital media. For a long time my traditional and digital practices were separate---this piece represents climbing over the wall that separates things and escaping into a world where combinations are possible. The trees in the foreground were painted with acrylics, as was the wall texture. The grass is a particle system with a digitally-painted texture. The ground behind the wall was made using ink wash, and the background trees were drawn with a brush pen."
-
-[[items]]
 title = "Pioneer"
 image = "img/pioneer.png"
 thumb = "img/pioneer-thumb.png"
@@ -146,18 +140,25 @@ alt = "Pioneer"
 description = "Image of the Pioneer 11 spacecraft, in front of a stylized representation of its mission---crossing the asteroid belt, flying by Jupiter and Saturn, and then exploring the outermost reaches of the Solar System. While modeling the spacecraft, I referred to the NASA publication SP-349 and the article \"NASA Celebrates Four Decades of Plucky Pioneer 11.\" I also used data from JPL Solar System Dynamics to ensure accuracy in the placement and size of the planets' moons."
 
 [[items]]
+title = "Escape A"
+image = "img/escape-a.png"
+thumb = "img/escape-a-thumb.png"
+alt = "Escape A"
+description = "This is an experimental piece, combining traditional and digital media. For a long time my traditional and digital practices were separate---this piece represents climbing over the wall that separates things and escaping into a world where combinations are possible. The trees in the foreground were painted with acrylics, as was the wall texture. The grass is a particle system with a digitally-painted texture. The ground behind the wall was made using ink wash, and the background trees were drawn with a brush pen."
+
+[[items]]
 title = "Music Lesson"
 image = "img/music-lesson.png"
 thumb = "img/music-lesson-thumb.png"
 alt = "Music Lesson"
-description = "This image shows a human musician taking music lessons from a rather whimsically-designed (but still relatively realistic) robot. It's intended to communicate a story of peaceful and beneficial interaction between humans and robots."
+description = "This image shows a human musician taking music lessons from a whimsically-designed (but still relatively realistic) robot. It's intended to communicate a story of peaceful and beneficial interaction between humans and machines."
 
 [[items]]
 title = "Hyperion"
 image = "img/hyperion.png"
 thumb = "img/hyperion-thumb.png"
 alt = "Hyperion"
-description = "This image was inspired by Saturn's moon Hyperion, which is suspected to have an elaborate maze of caves below its surface. I referred to various NASA Astronomy Picture of the Day pages to get information on Hyperion's appearance, and then imagined this view of the exploration of moon's interior. The astronauts' space suits and equipment are imagined, but intended to still be realistic."
+description = "This image was inspired by Saturn's moon Hyperion, which is suspected to have an elaborate maze of caves below its surface. I referred to various NASA Astronomy Picture of the Day pages to get information on Hyperion's appearance, and then imagined this view of the exploration of moon's interior. The astronauts' space suits and equipment are imagined, but intended to be realistic."
 
 [[items]]
 title = "Asteroid Environs"
@@ -178,7 +179,7 @@ title = "Fog"
 image = "img/fog.png"
 thumb = "img/fog-thumb.png"
 alt = "Fog"
-description = "Digital painting inspired by early morning fog near Daly City, which I observed one morning from BART on my way to school. The combination of moonlight and city lights provided interesting illumination for the fog, and the dark hills and tree shapes provided an interesting contrast---a good subject for a monochromatic digital painting."
+description = "This piece was inspired by early morning fog near Daly City, which I observed one morning from BART on my way to school. The combination of moonlight and city lights provided interesting illumination for the fog, and the dark hills and tree shapes provided an interesting contrast---a good subject for a monochromatic digital painting."
 
 [[items]]
 title = "Abandoned City"
@@ -192,14 +193,14 @@ title = "Circles"
 image = "img/circles-final.png"
 thumb = "img/circles-thumb.png"
 alt = "Circles"
-description = "Abstract digital painting, working with color and shape as well as digital brushwork. I created the linework using a Python program I wrote myself, and added the colors and brushwork with Krita."
+description = "Abstract digital painting, working with color and shape as well as digital brushwork. I created the linework using a Python program I wrote myself, and added the colors and brushwork with the open-source digital painting program Krita."
 
 [[items]]
 title = "Discover the World of Reading"
 image = "img/library.png"
 thumb = "img/library-thumb.png"
 alt = "Library"
-description = "Illustration of the concept of reading. Books fly off the shelves, begin glowing, and carry ideas away to other places. On the table, paper and a pencil await the viewer's own story. This is a 3D rendering created in Blender, with trees from Blender's tree generator."
+description = "Illustration of the concept of reading. Books fly off the shelves, begin glowing, and carry ideas away to other places. On the table, paper and a pencil await the viewer's own story. This is a 3D rendering created in Blender, with trees produced by Blender's tree generator."
 
 [[items]]
 title = "Tower"
