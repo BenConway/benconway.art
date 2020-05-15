@@ -137,7 +137,7 @@ title = "Pioneer"
 image = "img/pioneer.png"
 thumb = "img/pioneer-thumb.png"
 alt = "Pioneer"
-description = "Image of the Pioneer 11 spacecraft, in front of a stylized representation of its mission---crossing the asteroid belt, flying by Jupiter and Saturn, and then exploring the outermost reaches of the Solar System. While modeling the spacecraft, I referred to the NASA publication SP-349 and the article \"NASA Celebrates Four Decades of Plucky Pioneer 11.\" I also used data from JPL Solar System Dynamics to ensure accuracy in the placement and size of the planets' moons."
+description = "Image of the Pioneer 11 spacecraft, in front of a stylized representation of its mission---crossing the asteroid belt, flying by Jupiter and Saturn, and then exploring the outermost reaches of the Solar System. While modeling the spacecraft, I referred to the NASA publication <a href='https://history.nasa.gov/SP-349/contents.htm'>SP-349</a> and the article <a href='https://www.nasa.gov/centers/ames/news/2013/pioneer11-40-years.html'>NASA Celebrates Four Decades of Plucky Pioneer 11.</a> I also used data from <a href='https://ssd.jpl.nasa.gov/?satellites'>JPL Solar System Dynamics</a> to ensure accuracy in the placement and size of the planets' moons."
 
 [[items]]
 title = "Escape A"
