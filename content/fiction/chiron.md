@@ -47,3 +47,14 @@ width=750></img>
 <img class="centered" src="https://www.benconway.art/img/Plant7-low.png"
 width=750></img>
 <br/>
+---
+---
+<br/>
+<p style="text-align: center;">
+References:
+</p>
+Proxima Centauri b Likely a Desert World. (Sky and Telescope, 2017.)
+https://skyandtelescope.org/astronomy-news/proxima-centauri-b-likely-a-desert-world/
+
+From Tree to Shining Tree. (Radiolab, 2016.)
+https://www.wnycstudios.org/podcasts/radiolab/articles/from-tree-to-shining-tree

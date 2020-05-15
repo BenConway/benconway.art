@@ -74,7 +74,7 @@ title = "Spacejunk Box"
 image = "img/Box-low.jpg"
 thumb = "img/Box-thumb.jpg"
 alt = "Spacejunk Box"
-description = "This is another image from the Spacejunk project, showing the box that the game is stored in."
+description = "This is another image from the Spacejunk project, showing the box that the game is stored in. It shows a Spacejunk spacecraft along with the historical, real spacecraft <a href='https://history.nasa.gov/SP-349/contents.htm'>Pioneer 11</a> and <a href='https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1964-077A'>Mariner 4.</a>"
 
 [[items]]
 title = "Spacejunk Ion Propulsion"
@@ -158,7 +158,7 @@ title = "Hyperion"
 image = "img/hyperion.png"
 thumb = "img/hyperion-thumb.png"
 alt = "Hyperion"
-description = "This image was inspired by Saturn's moon Hyperion, which is suspected to have an elaborate maze of caves below its surface. I referred to various NASA Astronomy Picture of the Day pages to get information on Hyperion's appearance, and then imagined this view of the exploration of moon's interior. The astronauts' space suits and equipment are imagined, but intended to be realistic."
+description = "This image was inspired by Saturn's moon Hyperion, which is suspected to have an elaborate maze of caves below its surface. I referred to various NASA Astronomy Picture of the Day pages (including <a href='https://apod.nasa.gov/apod/ap180514.html'>this one</a>) to get information on Hyperion's appearance, and then imagined this view of the exploration of moon's interior. The astronauts' space suits and equipment are imagined, but intended to be realistic."
 
 [[items]]
 title = "Asteroid Environs"
