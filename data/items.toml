@@ -67,7 +67,7 @@ title = "Spacejunk"
 image = "img/Spacejunk-low.png"
 thumb = "img/Spacejunk-thumb.png"
 alt = "Spacejunk"
-description = "For my senior thesis project I developed a board game. This photo shows the game set up the way it would be played."
+description = "For my senior thesis project I developed a board game. This photo shows the game set up the way it would be played. I used <a href='https://www.jpl.nasa.gov/edu/teach/activity/build-a-satellite/'> this article</a> as a source for information during the development process."
 
 [[items]]
 title = "Spacejunk Box"
@@ -81,7 +81,7 @@ title = "Spacejunk Ion Propulsion"
 image = "img/IonPropulsion-low.jpg"
 thumb = "img/IonPropulsion-thumb.jpg"
 alt = "Spacejunk Ion Propulsion"
-description = "This is another image from the Spacejunk project. It shows an ion engine, which is a type of spacecraft propulsion system. This illustration was created using a hybrid process involving 3D rendering and traditional acrylic painting."
+description = "This is another image from the Spacejunk project. It shows an ion engine, which is a type of spacecraft propulsion system. This illustration was created using a hybrid process involving 3D rendering and traditional acrylic painting. Information about ion propulsion was obtained from <a href='https://psyche.asu.edu/2018/01/19/electric-thrusters-psyche-spacecraft-work/'> this source.</a>"
 
 [[items]]
 title = "Spacejunk Scanner"
