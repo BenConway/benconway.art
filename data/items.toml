@@ -27,6 +27,13 @@ alt = "Natural Cycles"
 description = "This is an illustration of the Earth's nitrogen, water, and carbon cycles. You can read more <a href = 'science/natural_cycles/'> here.</a>"
 
 [[items]]
+title = "Peripheral Vision"
+image = "img/Interfaces-low.png"
+thumb = "img/Interfaces-thumb.png"
+alt = "Peripheral Vision"
+description = "This piece is based on the effects that the urban environment has on animals. It's set in a fictional world not much different from our own, in which the animals start to become more intelligent due to the effects of the city. Signs of intelligence include tool use, collaboration, use of public transit, and literacy (shown here by a squirrel reading a newspaper over someone's shoulder.)</br></br>\"The animals are adapting to the city environment. They're making tools from trash and learning to communicate. Despite toxic chemicals and other hazards, they're thriving. At the edges, in the forgotten and worn-down patches of green space, a new civilization is emerging.\""
+
+[[items]]
 title = "Robot Animal"
 image = "img/pillow-example-low.png"
 thumb = "img/pillow-example-thumb.png"
