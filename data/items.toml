@@ -38,7 +38,7 @@ title = "Robot Animal"
 image = "img/pillow-example-low.png"
 thumb = "img/pillow-example-thumb.png"
 alt = "Robot Animal"
-description = "This is a development of a CCA surface design project. It's a fabric pattern for making a pillow, showing two animals and their whimsical robotic counterparts. Both robots have rather unusual designs---the deer is modeled after the aesthetics of classic cameras, the rabbit is modeled after 1960s electronics lab equipment. You can see the pillows I made <a href='making/pillows/'>here.</a> The fabric for making the pillows will soon be available on Spoonflower."
+description = "This is a development of a CCA surface design project. It's a fabric pattern for making a pillow, showing two animals and their whimsical robotic counterparts. Both robots have rather unusual designs---the deer is modeled after the aesthetics of classic cameras, the rabbit is modeled after 1960s electronics lab equipment. You can see the pillows I made <a href='making/pillows/'>here.</a> The fabric for making the pillows is available <a href='https://www.spoonflower.com/designs/9738353-robot-animal-diy-pillow-by-benconwayart'> on Spoonflower,</a> if you order it make sure you choose Lightweight Cotton Twill as the fabric type so it will be the right size."
 
 [[items]]
 title = "Orrery"

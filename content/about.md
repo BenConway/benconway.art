@@ -24,4 +24,4 @@ In addition to illustrating, Ben likes to create electronic ambient music, write
 
 You can contact Ben at [ben@benconway.art](mailto:ben@benconway.art)
 
-Ben's Instagram: [benconwayart](instagram.com/benconwayart/)
+Ben's Instagram: [benconwayart](https://www.instagram.com/benconwayart/)
