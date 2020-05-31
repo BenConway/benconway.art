@@ -17,7 +17,10 @@
       <pubDate>Sun, 10 May 2020 08:54:13 -0700</pubDate>
       
       <guid>https://www.benconway.art/fiction/chiron/</guid>
-      <description>IMG.centered { display: block; margin-left: auto; margin-right: auto }</description>
+      <description>body{background: #6E564A;} IMG.centered { display: block; margin-left: auto; margin-right: auto }                                
+  References: Proxima Centauri b Likely a Desert World. (Sky and Telescope, 2017.) https://skyandtelescope.org/astronomy-news/proxima-centauri-b-likely-a-desert-world/
+From Tree to Shining Tree. (Radiolab, 2016.) https://www.wnycstudios.org/podcasts/radiolab/articles/from-tree-to-shining-tree
+George Dyson. Project Orion: The True Story of the Atomic Spaceship.</description>
     </item>
     
     <item>
@@ -26,10 +29,10 @@
       <pubDate>Fri, 08 May 2020 16:38:00 -0800</pubDate>
       
       <guid>https://www.benconway.art/fiction/orrery/</guid>
-      <description>IMG.centered { display: block; margin-left: auto; margin-right: auto}      
+      <description>body{background: #6E564A;} body{color: #EEEEEE;} IMG.centered { display: block; margin-left: auto; margin-right: auto}      
 The sun rose over the mountain, illuminating the light fog that filled the valley.
 Ramet and Seja walked along the path that led up the hill, whistling together. They were pulling a small wagon filled with vegetables&amp;mdash;the way they&amp;rsquo;d been doing, five days a week, for the past six years.
-&amp;ldquo;There&amp;rsquo;s the monument,&amp;rdquo; Seja said. &amp;ldquo;We&amp;rsquo;re halfway to Town.</description>
+&amp;ldquo;There&amp;rsquo;s the monument,&amp;rdquo; Seja said.</description>
     </item>
     
   </channel>

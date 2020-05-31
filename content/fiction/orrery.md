@@ -6,6 +6,8 @@ layout: page
 draft: false
 ---
 <style type="text/css" rel="stylesheet">
+body{background: #6E564A;}
+body{color: #EEEEEE;}
 IMG.centered {
 display: block;
 margin-left: auto;

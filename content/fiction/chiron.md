@@ -6,15 +6,24 @@ layout: page
 draft: false
 ---
 <style type="text/css" rel="stylesheet">
+body{background: #6E564A;}
 IMG.centered {
 display: block;
 margin-left: auto;
 margin-right: auto }
 </style>
 
-<img class="centered" src="https://www.benconway.art/img/report2.png" width=750></img>
+<img class="centered" src="/img/beginning-low.png" width=750></img>
 <br/>
-<img class="centered" src="https://www.benconway.art/img/Plant5b-video.png"
+<img class="centered" src="/img/lifeless-low.png" width=750></img>
+<br/>
+<img class="centered" src="/img/life-low.png" width=750></img>
+<br/>
+<img class="centered" src="/img/departure-low.png" width=750></img>
+<br/>
+<img class="centered" src="/img/report2.png" width=750></img>
+<br/>
+<img class="centered" src="/img/Plant5b-video.png"
 width=750></img>
 <br/>
 <img class="centered" src="https://www.benconway.art/img/Plant5-low.png"
@@ -58,3 +67,5 @@ https://skyandtelescope.org/astronomy-news/proxima-centauri-b-likely-a-desert-wo
 
 From Tree to Shining Tree. (Radiolab, 2016.)
 https://www.wnycstudios.org/podcasts/radiolab/articles/from-tree-to-shining-tree
+
+George Dyson. _Project Orion: The True Story of the Atomic Spaceship._ Holt Paperbacks, 2002. ISBN 0805072845.
