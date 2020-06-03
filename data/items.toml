@@ -55,18 +55,13 @@ alt = "Arrival"
 description = "This is one of the pieces I did during my internship at the Jet Propulsion Laboratory in 2019, in connection with the Psyche mission. The Psyche mission is a NASA mission to the asteroid 16 Psyche, which is a unique asteroid believed to be composed largely of metal. The image shows the Psyche space vehicle arriving at its destination. You can learn more about the mission <a href = 'https://psyche.asu.edu/mission/'> here.</a>"
 
 [[items]]
-title = "Deep Space Optical Communications"
-image = "img/DSOC-low.png"
-thumb = "img/DSOC-thumb.png"
-alt = "Deep Space Optical Communications"
-description = "This image shows the Deep Space Optical Communications (DSOC) system that will be carried aboard the Psyche vehicle. DSOC uses lasers to communicate between the vehicle and Earth at a higher bandwidth than is possible using radio-based communication. You can read more about DSOC <a href = 'https://www.jpl.nasa.gov/news/news.php?feature=6967'> here.</a>"
-
-[[items]]
 title = "Eclipse"
 image = "img/eclipse-low.png"
 thumb = "img/eclipse-thumb.png"
 alt = "Eclipse"
 description = "This illustration shows the Psyche space vehicle orbiting 16 Psyche."
+
+
 
 [[items]]
 title = "16 Psyche"
