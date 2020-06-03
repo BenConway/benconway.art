@@ -61,7 +61,12 @@ thumb = "img/eclipse-thumb.png"
 alt = "Eclipse"
 description = "This illustration shows the Psyche space vehicle orbiting 16 Psyche."
 
-
+[[items]]
+title = "Deep Space Optical Communications"
+image = "img/DSOC-low.png"
+thumb = "img/DSOC-thumb.png"
+alt = "Deep Space Optical Communications"
+description = "This image shows the Deep Space Optical Communications (DSOC) system that will be carried aboard the Psyche vehicle. DSOC uses lasers to communicate between the vehicle and Earth at a higher bandwidth than is possible using radio-based communication. You can read more about DSOC <a href = 'https://www.jpl.nasa.gov/news/news.php?feature=6967'> here.</a>"
 
 [[items]]
 title = "16 Psyche"
