@@ -47,6 +47,61 @@ thumb = "img/Orrery-thumb.png"
 alt = "Orrery"
 description = "This is an illustration depicting the environment of my short story, The Orrery. The story is <a href = 'fiction/orrery/'> here,</a> along with the piece of music I wrote to go with it."
 
+[[items]]
+title = "Arrival"
+image = "img/arrival-low.png"
+thumb = "img/arrival-thumb.png"
+alt = "Arrival"
+description = "This is one of the pieces I did during my internship at the Jet Propulsion Laboratory in 2019, in connection with the Psyche mission. The Psyche mission is a NASA mission to the asteroid 16 Psyche, which is a unique asteroid believed to be composed largely of metal. The image shows the Psyche space vehicle arriving at its destination. You can learn more about the mission <a href = 'https://psyche.asu.edu/mission/'> here.</a>"
+
+[[items]]
+title = "Deep Space Optical Communications"
+image = "img/DSOC-low.png"
+thumb = "img/DSOC-thumb.png"
+alt = "Deep Space Optical Communications"
+description = "This image shows the Deep Space Optical Communications (DSOC) system that will be carried aboard the Psyche vehicle. DSOC uses lasers to communicate between the vehicle and Earth at a higher bandwidth than is possible using radio-based communication. You can read more about DSOC <a href = 'https://www.jpl.nasa.gov/news/news.php?feature=6967'> here.</a>"
+
+[[items]]
+title = "Eclipse"
+image = "img/eclipse-low.png"
+thumb = "img/eclipse-thumb.png"
+alt = "Eclipse"
+description = "This illustration shows the Psyche space vehicle orbiting 16 Psyche."
+
+[[items]]
+title = "16 Psyche"
+image = "img/16Psyche-low.png"
+thumb = "img/16Psyche-thumb.png"
+alt = "16 Psyche"
+description = "This illustration shows 16 Psyche itself. I referred to <a href='arxiv.org/abs/1810.02771'> Viikinkoski et. al.,</a> <a href='https://echo.jpl.nasa.gov/asteroids/shepard.etal.2016.psyche.pdf'> Shepard et. al.,</a> and work by the mission's principle investigator Lindy Elkins-Tanton. I also had JPL scientist Carol Polanskey review the image for accuracy"
+
+[[items]]
+title = "Road Trip"
+image = "img/Roadtrip-low.png"
+thumb = "img/Roadtrip-thumb.png"
+alt = "Road Trip"
+description = "This image shows the journey of the Psyche space probe as if it were a road trip. In reality, the vehicle is planned to launch in 2022, fly past Mars in 2023, and arrive at 16 Psyche in 2026. You can see the mission timeline <a href='https://psyche.asu.edu/timeline/'> here.</a>"
+
+[[items]]
+title = "Delta-DOR"
+image = "img/Delta-DOR-low.png"
+thumb = "img/Delta-DOR-thumb.png"
+alt = "Delta-DOR"
+description = "This illustration shows the delta differential one-way range technique for spacecraft navigation, which was explained to me by Sarah Bairstow of the Jet Propulsion Laboratory. Delta DOR involves measuring the space vehicle's position from two ground stations, and calibrating these measurements by also measuring the radio emissions from a quasar. There isn't much information on Delta-DOR available online but there is a brief discussion of in on page 3 of <a href='https://www.jpl.nasa.gov/nmp/ds1/DS1_conclusion.pdf'> this PDF about a different mission.</a>"
+
+[[items]]
+title = "Doppler"
+image = "img/doppler-low.png"
+thumb = "img/doppler-thumb.png"
+alt = "Doppler"
+description = "This image explains the Doppler technique for spacecraft navigation, which was explained to me by Sarah Bairstow of JPL. An Earth-based ground station transmits a signal which is then retransmitted by the space vehicle. The vehicle's motion towards or away from the ground station shifts the radio frequency higher or lower because of the Doppler effect. By measuring this frequency shift the vehicle's motion can be tracked."
+
+[[items]]
+title = "Ranging"
+image = "img/ranging-low.png"
+thumb = "img/ranging-thumb.png"
+alt = "Ranging"
+description = "This image illustrates the spacecraft navigation technique of pseudonoise ranging. Sarah Bairstow explained this technique to me: a ground station transmits a pseudorandom noise signal, which is relayed back by the space vehicle. The ground station receives the retransmitted signal. By comparing the time a particular waveform was transmitted to the time it was received, the distance between the ground station and the vehicle can be determined."
 
 [[items]]
 title = "Clock"
