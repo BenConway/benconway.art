@@ -9,7 +9,7 @@
 				{{ partial "header_full.html" . }}
 			<div class="main">
 				<ul id="og-grid" class="og-grid">
-					{{ range $.Site.Data.items.items }}
+					{{ range $.Site.Data.science_items.items }}
 					<li>
 						<a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{.description }}" data-buttontext="{{.buttontext}}">
 							<img src="{{.thumb}}" alt="{{.alt}}"/>
@@ -22,4 +22,4 @@
 		</div>
 		{{ partial "scripts.html" . }}
 	</body>
-</html>q
+</html>

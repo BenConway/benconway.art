@@ -6,46 +6,11 @@ alt = "Better Future"
 description = "This image shows positive things that can be done to solve the environmental crisis, including: <br/>+ Renewable electricity generation.<br/>+ Green infrastructure and distributed agriculture.<br/>+ Public transit.<br/>+ Improved insulation of buildings.<br/>+ Permeable pavement.<br/>+ Rainwater collection and improved drainage.<br/>+ Remote work.<br/>+ Repairing broken things instead of replacing them.<br/>+ Increased adoption of plant-based diets.<br/>The main information source for this image was the Intergovernmental Panel on Climate Change's 2014 Synthesis Report Summary for Policymakers. Some additional information was obtained from the article <a href='https://iopscience.iop.org/article/10.1088/1748-9326/aa7541#erlaa7541r22'> The Climate Mitigation Gap.</a>"
 
 [[items]]
-title = "Chess for Dogs"
-image = "/img/AlbumCover-low.png"
-thumb = "/img/AlbumCover-thumb.png"
-alt = "Chess for Dogs Album Cover"
-description = "This is the cover for my first album of ambient music, Chess for Dogs, which can be purchased on <a href='https://benconway.bandcamp.com/album/chess-for-dogs'>Bandcamp.</a> The objects in the cabinet reflect my musical process and the things that inspire me: travel and nature. The pieces of paper pinned to the back wall of the cabinet include snippets of Csound code. (Csound is the audio programming environment that I create most of my music with.) The chess piece, musical note, and metronome represent the fact that I create music by arranging sounds in a carefully planned fashion as opposed to improvising. The Erlenmeyer flask represents the process of experimenting with new sounds. The vehicle in the top center is the pop-top camper van that my family traveled in when I was growing up."
-
-[[items]]
-title = "The Chiron Expedition"
-image = "/img/Plant4-low.png"
-thumb = "/img/Plant4-thumb.png"
-alt = "The Chiron Expedition"
-description = "This is a piece from a series representing the fictional expedition of the Interstellar Exploration Vehicle Chiron. This is a hard science fiction story that I'm creating. The story follows an expedition to the exoplanet Kapteyn b, and the alien plants that the expedition discovers there. You can see the rest of the series <a href='fiction/chiron/'> here.</a> This is a work-in-progress, I intend to periodically revisit this fictional universe and further develop the story of the Chiron through images and writing and possibly even music."
-
-[[items]]
 title = "Natural Cycles"
 image = "/img/NaturalCycles-low.png"
 thumb = "/img/NaturalCycles-thumb.png"
 alt = "Natural Cycles"
 description = "This is an illustration of the Earth's nitrogen, water, and carbon cycles. These natural processes are important to the entire ecosystem. Most images only show one of these cycles, so I decided to create an image that showed all three together. You can read more <a href = 'science/natural_cycles/'> here.</a>"
-
-[[items]]
-title = "Peripheral Vision"
-image = "/img/Interfaces-low.png"
-thumb = "/img/Interfaces-thumb.png"
-alt = "Peripheral Vision"
-description = "This piece is based on the effects that the urban environment has on animals. It's set in a fictional world not much different from our own, in which the animals start to become more intelligent due to the effects of the city. Signs of intelligence include tool use, collaboration, use of public transit, and literacy (shown here by a squirrel reading a newspaper over someone's shoulder.)</br></br>\"The animals are adapting to the city environment. They're making tools from trash and learning to communicate. Despite toxic chemicals and other hazards, they're thriving. At the edges, in the forgotten and worn-down patches of green space, a new civilization is emerging.\""
-
-[[items]]
-title = "Robot Animal"
-image = "/img/pillow-example-low.png"
-thumb = "/img/pillow-example-thumb.png"
-alt = "Robot Animal"
-description = "This is a development of a CCA surface design project. It's a fabric pattern for making a pillow, showing two animals and their whimsical robotic counterparts. Both robots have rather unusual designs---the deer is modeled after the aesthetics of classic cameras, the rabbit is modeled after 1960s electronics lab equipment. You can see the pillows I made <a href='making/pillows/'>here.</a> The fabric for making the pillows is available <a href='https://www.spoonflower.com/designs/9738353-robot-animal-diy-pillow-by-benconwayart'> on Spoonflower,</a> if you order it make sure you choose Lightweight Cotton Twill as the fabric type so it will be the right size."
-
-[[items]]
-title = "Orrery"
-image = "/img/Orrery-low.png"
-thumb = "/img/Orrery-thumb.png"
-alt = "Orrery"
-description = "This is an illustration depicting the environment of my short story, The Orrery. The story is <a href = '/fiction/orrery/'> here,</a> along with the piece of music I wrote to go with it. The music was created using the Csound audio programming environment. I've been interested in the possibility of combining visual art, music, and writing for a long time. This is my first significant foray in that direction, I intend to do more projects like this."
 
 [[items]]
 title = "Arrival"
@@ -104,27 +69,6 @@ alt = "Ranging"
 description = "This image illustrates the spacecraft navigation technique of pseudonoise ranging. Sarah Bairstow explained this technique to me: a ground station transmits a pseudorandom noise signal, which is relayed back by the space vehicle. The ground station receives the retransmitted signal. By comparing the time a particular waveform was transmitted to the time it was received, the distance between the ground station and the vehicle can be determined."
 
 [[items]]
-title = "Clock"
-image = "/img/Clock-low.png"
-thumb = "/img/Clock-thumb.png"
-alt = "Clock"
-description = "This is a clock made from laser-cut wood, with LED lighting. I am planning to make a larger one in the future. The imagery on the clock is in a more whimsical style that's different from most of the other images on this page, but it's a style that I have worked with previously and plan to keep working with in the future."
-
-[[items]]
-title = "Whimsy"
-image = "/img/Whimsy-low.png"
-thumb = "/img/Whimsy-thumb.png"
-alt = "Whimsy"
-description = "This is an experimental piece. Basically the idea is to begin with a rough idea of what I want the picture to look like and then keep adding humorous details until I run out of good places to put them. The clock was developed in a similar fashion."
-
-[[items]]
-title = "Still Life"
-image = "/img/StillLife-low.png"
-thumb = "/img/StillLife-thumb.png"
-alt = "Still Life"
-description = "This is an illustration from my botanical observation class. The assignment was to create a still life showing our personality, and including some plants. I created an image of my studio, featuring a lemon and a leaf of miner's lettuce."
-
-[[items]]
 title = "Spacejunk"
 image = "/img/Spacejunk-low.png"
 thumb = "/img/Spacejunk-thumb.png"
@@ -144,27 +88,6 @@ image = "/img/IonPropulsion-low.jpg"
 thumb = "/img/IonPropulsion-thumb.jpg"
 alt = "Spacejunk Ion Propulsion"
 description = "This is another image from the Spacejunk project. It shows an ion engine, which is a type of spacecraft propulsion system. This illustration was created using a hybrid process involving 3D rendering and traditional acrylic painting. Information about ion propulsion was obtained from <a href='https://psyche.asu.edu/2018/01/19/electric-thrusters-psyche-spacecraft-work/'> this source.</a>"
-
-[[items]]
-title = "Spacejunk Scanner"
-image = "/img/Scanner-low.jpg"
-thumb = "/img/Scanner-thumb.jpg"
-alt = "Spacejunk Scanner"
-description = "This is a Spacejunk image showing a scanning device that can be used to search for parts. In the game, this works by allowing the player to look under more tiles per turn. This image was also created using the acrylic painting and 3D rendering process---first creating a 3D model for reference, making a painting based on it, photographing the painting, and then overlaying 3D modeled elements."
-
-[[items]]
-title = "Spacejunk Story 1"
-image = "/img/Story1-lowres.jpg"
-thumb = "/img/Story1-thumb.jpg"
-alt = "Spacejunk Story 1"
-description = "This Spacejunk image represents the monotony of life in an asteroid habitat surrounded by a junkyard. For this image I carefully manipulated Blender's Cycles rendering engine to produce a grainy effect---rather unusual, because that's generally the opposite of what one is trying to do."
-
-[[items]]
-title = "Spacejunk Story 2"
-image = "/img/Story2-lowres.jpg"
-thumb = "/img/Story2-thumb.jpg"
-alt = "Spacejunk Story 2"
-description = "This Spacejunk image represents the hope that space exploration can give to people. The background is an acrylic painting that was photographed and brought into the 3D modeling program. The astronaut figure was then added digitally."
 
 [[items]]
 title = "Spacejunk Hazard"
@@ -202,27 +125,6 @@ alt = "Pioneer"
 description = "Image of the Pioneer 11 spacecraft, in front of a stylized representation of its mission---crossing the asteroid belt, flying by Jupiter and Saturn, and then exploring the outermost reaches of the Solar System. While modeling the spacecraft, I referred to the NASA publication <a href='https://history.nasa.gov/SP-349/contents.htm'>SP-349</a> and the article <a href='https://www.nasa.gov/centers/ames/news/2013/pioneer11-40-years.html'>NASA Celebrates Four Decades of Plucky Pioneer 11.</a> I also used data from <a href='https://ssd.jpl.nasa.gov/?satellites'>JPL Solar System Dynamics</a> to ensure accuracy in the placement and size of the planets' moons."
 
 [[items]]
-title = "Escape A"
-image = "/img/escape-a.png"
-thumb = "/img/escape-a-thumb.png"
-alt = "Escape A"
-description = "This is an experimental piece, combining traditional and digital media. For a long time my traditional and digital practices were separate---this piece represents climbing over the wall that separates things and escaping into a world where combinations are possible. The trees in the foreground were painted with acrylics, as was the wall texture. The grass is a particle system with a digitally-painted texture. The ground behind the wall was made using ink wash, and the background trees were drawn with a brush pen."
-
-[[items]]
-title = "Music Lesson"
-image = "/img/music-lesson.png"
-thumb = "/img/music-lesson-thumb.png"
-alt = "Music Lesson"
-description = "This image shows a human musician taking music lessons from a whimsically-designed (but still relatively realistic) robot. It's intended to communicate a story of peaceful and beneficial interaction between humans and machines."
-
-[[items]]
-title = "Hyperion"
-image = "/img/hyperion.png"
-thumb = "/img/hyperion-thumb.png"
-alt = "Hyperion"
-description = "This image was inspired by Saturn's moon Hyperion, which is suspected to have an elaborate maze of caves below its surface. I referred to various NASA Astronomy Picture of the Day pages (including <a href='https://apod.nasa.gov/apod/ap180514.html'>this one</a>) to get information on Hyperion's appearance, and then imagined this view of the exploration of moon's interior. The astronauts' space suits and equipment are imagined, but intended to be realistic."
-
-[[items]]
 title = "Asteroid Environs"
 image = "/img/asteroid-environs.png"
 thumb = "/img/asteroid-environs-thumb.png"
@@ -235,38 +137,3 @@ image = "/img/eclipse-painted.png"
 thumb = "/img/eclipse-painted-thumb.png"
 alt = "Eclipse"
 description = "This piece is inspired by the 2017 total solar eclipse. It represents both the actual mechanics of how eclipses work as well as the feeling which the eclipse inspires---the realization that you are standing on a spherical planet with a giant rock orbiting it, realizing the size of the universe, realizing that you yourself are a part of the universe."
-
-[[items]]
-title = "Fog"
-image = "/img/fog.png"
-thumb = "/img/fog-thumb.png"
-alt = "Fog"
-description = "This piece was inspired by early morning fog near Daly City, which I observed one morning from BART on my way to school. The combination of moonlight and city lights provided interesting illumination for the fog, and the dark hills and tree shapes provided an interesting contrast---a good subject for a monochromatic digital painting."
-
-[[items]]
-title = "Abandoned City"
-image = "/img/abandoned-city.png"
-thumb = "/img/abandoned-city-thumb.png"
-alt = "Abandoned City"
-description = "This illustration represents a group of explorers landing in an abandoned ancient city. My interest in science is evident here with the image's themes of exploration and discovery. The overall mood of the image is intended to be mysterious with a slight sense of wonder: Where is this place? What happened here?"
-
-[[items]]
-title = "Circles"
-image = "/img/circles-final.png"
-thumb = "/img/circles-thumb.png"
-alt = "Circles"
-description = "Abstract digital painting, working with color and shape as well as digital brushwork. I created the linework using a Python program I wrote myself, and added the colors and brushwork with the open-source digital painting program Krita."
-
-[[items]]
-title = "Discover the World of Reading"
-image = "/img/library.png"
-thumb = "/img/library-thumb.png"
-alt = "Library"
-description = "Illustration of the concept of reading. Books fly off the shelves, begin glowing, and carry ideas away to other places. On the table, paper and a pencil await the viewer's own story. This is a 3D rendering created in Blender, with trees produced by Blender's tree generator."
-
-[[items]]
-title = "Tower"
-image = "/img/tower-bw.png"
-thumb = "/img/tower-thumb.png"
-alt = "Tower"
-description = "3D image of a tower casting its shadow onto a cloud bank. This was created as a study of lighting and cloud effects, and was inspired by a storm I observed near Mono Lake. The tower was intended to give a type of retro-futuristic appearance, while the blue tint suggests a more contemplative mood for the piece and creates more of a focus on value and shadow."
