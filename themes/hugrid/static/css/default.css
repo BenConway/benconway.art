@@ -14,6 +14,21 @@ html { height: 100%; }
 	margin: 0;
 }
 
+a img:hover {
+    filter: opacity(75%) brightness(1.1) saturate(1.1);
+}
+
+.topnav {
+    background-color: #555;
+    overflow: hidden;
+    padding: 5px;
+}
+
+.topnav a {
+    float: right;
+    padding: 10px;
+}
+
 /* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
 .clearfix:before,
 .clearfix:after {

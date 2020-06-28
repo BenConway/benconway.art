@@ -11,9 +11,12 @@ datadir = "data"
 layoutdir = "layouts"
 publishdir = "public"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
     # Meta
-    title = "Ben Conway"
+    title = "<img src=\"/logo.png\" width=\"75px\"></img><br/>Ben Conway"
     subtitle = "I'm an illustrator based in the San Francisco Bay Area, specializing in scientific illustration. <br/>[Read more.](/about/)"
     author = "Ben Conway"
     description = "Illustrator, primarily of science and space-related subjects."
