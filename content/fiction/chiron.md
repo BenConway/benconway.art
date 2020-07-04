@@ -13,51 +13,20 @@ margin-left: auto;
 margin-right: auto }
 </style>
 
-<img class="centered" src="/img/beginning-low.png" width=750></img>
+<img class="centered" src="/img/chiron-blueprints-low.png" width=750></img>
 <br/>
-<img class="centered" src="/img/lifeless-low.png" width=750></img>
+
+This is the fictional story of the Interstellar Exploration Vehicle _Chiron_ and its expedition to Kapteyn's Star. New installments of the story will be released periodically and added to this page.
+
+[The IEV Chiron: Its Construction and Launch](/fiction/chiron2)
+
+[First Report on Kapteynian Botany](/fiction/chiron1)
+
 <br/>
-<img class="centered" src="/img/life-low.png" width=750></img>
-<br/>
-<img class="centered" src="/img/departure-low.png" width=750></img>
-<br/>
-<img class="centered" src="/img/report2.png" width=750></img>
-<br/>
-<img class="centered" src="/img/Plant5b-video.png"
-width=750></img>
-<br/>
-<img class="centered" src="https://www.benconway.art/img/Plant5-low.png"
-width=750></img>
-<br/>
-<img class="centered" src="https://www.benconway.art/img/report1.png"
-width=750></img>
-<br/>
-<img class="centered" src="https://www.benconway.art/img/Plant1-low.png"
-width=750></img>
-<br/>
-<img class="centered" src="https://www.benconway.art/img/Plant2-low.png"
-width=750></img>
-<br/>
-<img class="centered" src="https://www.benconway.art/img/report3.png"
-width=750></img>
-<br/>
-<img class="centered" src="https://www.benconway.art/img/Plant3-low.png"
-width=750></img>
-<br/>
-<img class="centered" src="https://www.benconway.art/img/Plant4-low.png"
-width=750></img>
-<br/>
-<img class="centered" src="https://www.benconway.art/img/report4.png"
-width=750></img>
-<br/>
-<img class="centered" src="https://www.benconway.art/img/Plant6-low.png"
-width=750></img>
-<br/>
-<img class="centered" src="https://www.benconway.art/img/Plant7-low.png"
-width=750></img>
-<br/>
+
 ---
 ---
+
 <br/>
 <p style="text-align: center;">
 References:

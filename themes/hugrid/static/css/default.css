@@ -19,7 +19,7 @@ a img:hover {
 }
 
 .topnav {
-    background-color: #555;
+    background-color: #444;
     overflow: hidden;
     padding: 5px;
 }
@@ -27,6 +27,8 @@ a img:hover {
 .topnav a {
     float: right;
     padding: 10px;
+    font-size: 20px;
+    color: #ddf
 }
 
 /* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
@@ -95,8 +97,7 @@ a {
 	padding: 50px 20px;
 }
 
-/* Begin weird stuff from Ben */
-footer { padding: 5px}
+
 
 .page-content {
     max-width: 900px;
@@ -111,7 +112,7 @@ footer { padding: 5px}
 }
 
 footer {
-    text-align: justify;
+    text-align: center;
     padding: 5px;
     position: relative;
     margin-left: auto;

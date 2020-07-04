@@ -48,6 +48,20 @@ alt = "Orrery"
 description = "This is an illustration depicting the environment of my short story, The Orrery. The story is <a href = '/fiction/orrery/'> here,</a> along with the piece of music I wrote to go with it. The music was created using the Csound audio programming environment. I've been interested in the possibility of combining visual art, music, and writing for a long time. This is my first significant foray in that direction, I intend to do more projects like this."
 
 [[items]]
+title = "Whimsy Mug"
+image = "/img/mug-anim.gif"
+thumb = "/img/mug-thumb.png"
+alt = "Whimsy Mug"
+description = "This is another CCA surface design class project. It's another project in my more whimsical style, though a bit less complex than some of the other whimsy projects I've done. See if you can spot the Erlenmeyer flask and the person wearing a hat."
+
+[[items]]
+title = "Theobroma Box"
+image = "/img/theobroma-1.png"
+thumb = "/img/theobroma-1-thumb.png"
+alt = "Theobroma Box"
+description = "This was a CCA surface design class assignment to create a packaging design for fair-trade chocolate. I based my design off of the chemical structure of theobromine, the main chemical constituent of the flavor of chocolate---the hexagon-pentagon shape all over the package is the <a href='https://pubchem.ncbi.nlm.nih.gov/compound/theobromine'>theobromine molecule.</a> Also featured on the package is the shape of <a href='http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:320783-2'>the cacao pod and the cacao leaf.</a> The edge of each package features some subtle elements related to the flavor of chocolate in the package. You can see other images of this project <a href='/surface/theobroma'>here.</a>"
+
+[[items]]
 title = "Arrival"
 image = "/img/arrival-low.png"
 thumb = "/img/arrival-thumb.png"

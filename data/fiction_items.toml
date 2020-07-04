@@ -1,4 +1,11 @@
 [[items]]
+title = "Chiron Installment 2"
+image = "/img/chiron-blueprints-low.png"
+thumb = "/img/chiron-blueprints-thumb.png"
+alt = "Chiron 2"
+description = "<a href='chiron2/'>Prequel</a> to the <a href='chiron/'>Chiron Expedition</a>, explaining how the starship Chiron came to be and why it went on a mission to Kapteyn's Star."
+
+[[items]]
 title = "The Chiron Expedition"
 image = "/img/Plant4-low.png"
 thumb = "/img/Plant4-thumb.png"

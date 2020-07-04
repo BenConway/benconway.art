@@ -11,8 +11,8 @@ margin-left: auto;
 margin-right: auto }
 </style>
 
-<img class="centered" src="https://www.benconway.art/img/SelfPortrait_Final.png"
+<img class="centered" src="/img/SelfPortrait_Final.png"
 width=500></img>
 <br/>
 
-I'm currently available for freelance work. The best way to contact me is by email: [ben@benconway.art](mailto:ben@benconway.art)
+I'm currently available for freelance work. I do primarily scientific illustration and surface design. The best way to contact me is by email: [ben@benconway.art](mailto:ben@benconway.art)

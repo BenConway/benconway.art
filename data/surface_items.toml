@@ -11,3 +11,17 @@ image = "/img/Clock-low.png"
 thumb = "/img/Clock-thumb.png"
 alt = "Clock"
 description = "This is a clock made from laser-cut wood, with LED lighting. I am planning to make a larger one in the future. The imagery on the clock is in a more whimsical style that's different from most of the other images on this page, but it's a style that I have worked with previously and plan to keep working with in the future."
+
+[[items]]
+title = "Whimsy Mug"
+image = "/img/mug-anim.gif"
+thumb = "/img/mug-thumb.png"
+alt = "Whimsy Mug"
+description = "This is another CCA surface design class project. It's another project in my more whimsical style, though a bit less complex than some of the other whimsy projects I've done. See if you can spot the Erlenmeyer flask and the person wearing a hat."
+
+[[items]]
+title = "Theobroma Box"
+image = "/img/theobroma-1.png"
+thumb = "/img/theobroma-1-thumb.png"
+alt = "Theobroma Box"
+description = "This was a CCA surface design class assignment to create a packaging design for fair-trade chocolate. I based my design off of the chemical structure of theobromine, the main chemical constituent of the flavor of chocolate---the hexagon-pentagon shape all over the package is the <a href='https://pubchem.ncbi.nlm.nih.gov/compound/theobromine'>theobromine molecule.</a> Also featured on the package is the shape of <a href='http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:320783-2'>the cacao pod and the cacao leaf.</a> The edge of each package features some subtle elements related to the flavor of chocolate in the package. You can see other images of this project <a href='/surface/theobroma'>here.</a>"
