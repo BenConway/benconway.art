@@ -10,7 +10,7 @@ title = "Natural Cycles"
 image = "/img/NaturalCycles-low.png"
 thumb = "/img/NaturalCycles-thumb.png"
 alt = "Natural Cycles"
-description = "This is an illustration of the Earth's nitrogen, water, and carbon cycles. These natural processes are important to the entire ecosystem. Most images only show one of these cycles, so I decided to create an image that showed all three together. You can read more <a href = 'science/natural_cycles/'> here.</a>"
+description = "This is an illustration of the Earth's nitrogen, water, and carbon cycles. These natural processes are important to the entire ecosystem. Most images only show one of these cycles, so I decided to create an image that showed all three together. You can read more <a href = '/science/natural_cycles/'> here.</a>"
 
 [[items]]
 title = "Arrival"
