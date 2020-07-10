@@ -1,4 +1,11 @@
 [[items]]
+title = "Chiron Installment 3"
+image = "/img/workshop-open-web.png"
+thumb = "/img/workshop-open-thumb.png"
+alt = "Chiron 3"
+description = "<a href='chiron3/'>New installment</a> in the <a href='chiron/'>Chiron Expedition series</a>, taking us on a tour of the starship."
+
+[[items]]
 title = "Chiron Installment 2"
 image = "/img/chiron-blueprints-low.png"
 thumb = "/img/chiron-blueprints-thumb.png"

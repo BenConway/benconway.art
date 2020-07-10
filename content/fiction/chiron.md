@@ -20,6 +20,8 @@ This is the fictional story of the Interstellar Exploration Vehicle _Chiron_ and
 
 [The IEV Chiron: Its Construction and Launch](/fiction/chiron2)
 
+[Leaving Home: A Tour of the IEV Chiron](/fiction/chiron3)
+
 [First Report on Kapteynian Botany](/fiction/chiron1)
 
 <br/>
