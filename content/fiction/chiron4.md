@@ -3,7 +3,7 @@ title: "Chiron4"
 date: 2020-08-21T09:28:45-07:00
 type: page
 layout: page
-draft: true
+draft: false
 ---
 
 <style type="text/css" rel="stylesheet">
@@ -16,9 +16,16 @@ margin-right: auto}
 
 <div style="margin: 0 auto; display: table;">
 	<audio controls class = "centered"
-	src="chiron_I4.wav" align="center"></audio>
+	src="/chiron_I4.wav" align="center"></audio>
 	</div>
+<br/>
 
+<img class="centered" src="/img/Installment4/report1.png" width=800></img>
+<br/>
+<img class="centered" src="/img/Installment4/report2.png" width=800></img>
+<br/>
+<img class="centered" src="/img/Installment4/report3.png" width=800></img>
+<br/>
 <img class="centered" src="/img/Installment4/0.png" width=800></img>
 <br/>
 <img class="centered" src="/img/Installment4/1.png" width=800></img>
@@ -42,8 +49,6 @@ margin-right: auto}
 <img class="centered" src="/img/Installment4/10.png" width=800></img>
 <br/>
 <img class="centered" src="/img/Installment4/11.png" width=800></img>
-<br/>
-<img class="centered" src="/img/Installment4/12.png" width=800></img>
 <br/>
 <img class="centered" src="/img/Installment4/12.png" width=800></img>
 <br/>

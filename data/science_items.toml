@@ -1,4 +1,11 @@
 [[items]]
+title = "Better Future 2"
+image = "/img/BetterFuture2-web.png"
+thumb = "/img/BetterFuture2-thumb.png"
+alt = "Better Future 2"
+description = "We can choose a better future. This is what that future could look like. Climate change is a big problem, but if we make the right decisions now we can fix it.<br/><br/>This image was inspired by the Intergovernmental Panel on Climate Change's 2014 Synthesis Report Summary for Policymakers, and by information from the <a href='http://www.fao.org/conservation-agriculture/en/'>United Nations Food and Agriculture Organization.</a>"
+
+[[items]]
 title = "Better Future"
 image = "/img/BetterFuture.png"
 thumb = "/img/BetterFuture-thumb.png"
