@@ -1,4 +1,11 @@
 [[items]]
+title = "Robot Animal Squirrel"
+image = "/img/Squirrel-web.png"
+thumb = "/img/Squirrel-thumb.png"
+alt = "Squirrel"
+description = "This is the latest installment in the Robot Animal series, featuring a Mars-rover-inspired robot squirrel on one side and a regular squirrel on the other. It's available on <a href='https://www.zazzle.com/white_lunchbox-256958280394114733'>lunchboxes</a> and <a href='https://www.zazzle.com/robot_squirrel_tote_bag-149569353935518416'>tote bags.</a><br/><br/>Information for the Mars rover design was obtained from <a href='https://commons.m.wikimedia.org/wiki/File:Mars_Science_Laboratory_wheels.jpg'>this image</a> and <a href='https://space.stackexchange.com/questions/18270/planetary-rovers-six-wheels-vs-four/18271#18271'>this Stack Exchange answer.</a>"
+
+[[items]]
 title = "Robot Animal"
 image = "/img/pillow-example-low.png"
 thumb = "/img/pillow-example-thumb.png"

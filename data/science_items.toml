@@ -6,6 +6,34 @@ alt = "Better Future 2"
 description = "We can choose a better future. This is what that future could look like. Climate change is a big problem, but if we make the right decisions now we can fix it.<br/><br/>This image was inspired by the Intergovernmental Panel on Climate Change's 2014 Synthesis Report Summary for Policymakers, and by information from the <a href='http://www.fao.org/conservation-agriculture/en/'>United Nations Food and Agriculture Organization.</a>"
 
 [[items]]
+title = "Deep Canvassing"
+image = "/img/DeepCanvassing-web.png"
+thumb = "/img/DeepCanvassing-thumb.png"
+alt = "Deep Canvassing"
+description = "This is an image based on the psychological concept of deep canvassing. This is a technique for reducing bias and increasing empathy, by having individuals compare other people's experiences and perspectives with their own. <br/><br/>Inspired by information from <a href='https://www.happinesslab.fm/season-2-episodes/episode-9-the-war-for-kindness'>The Happiness Lab</a> and the paper <a href='https://science.sciencemag.org/content/352/6282/220'>Durably Reducing Transphobia: A field experiment on door-to-door canvassing.</a>"
+
+[[items]]
+title = "Longitude"
+image = "/img/Longitude-web.png"
+thumb = "/img/Longitude-thumb.png"
+alt = "Longitude"
+description = "This image is based on the concept of determining longitude at sea. In the 18th century this was a very difficult problem, since it required an accurate clock and the clocks of that era were inaccurate under shipboard conditions. Clockmaker John Harrison solved this problem by developing a series of advanced 'marine chronometers.' This image shows a stylized representation of the calculation of longitude, with visual elements inspired by the design of Harrison's clock H4.<br/><br/>Information from <a href='https://www.rmg.co.uk/discover/explore/longitude-found-john-harrison'>Royal Museuma Greenwich</a> and the book Longitude by Dava Sobel."
+
+[[items]]
+title = "Neutrinos"
+image = "/img/Neutrinos-web.png"
+thumb = "/img/Neutrinos-thumb.png"
+alt = "Neutrinos"
+description = "This image represents neutrinos, a type of fundamental particle. Neutrinos pass right through normal matter because they are largely unaffected by the forces that block other particles. This image was also intended to counter common misconceptions about fundamental particles. Fundamental particles have no size, they are simply points in space which interact with certain forces---so they are represented here as diffuse lights.<br/><br/>This image was inspired by the episode <a href='https://www.iheart.com/podcast/105-daniel-and-jorge-explain-t-29862087/episode/what-is-a-neutrino-30262518/'>'What is a Neutrino?'</a> from the podcast Daniel and Jorge Explain the Universe."
+
+[[items]]
+title = "Scientific Method"
+image = "/img/ScientificMethod-web.png"
+thumb = "/img/ScientificMethod-thumb.png"
+alt = "Scientific Method"
+description = "This illustration shows the steps of the scientific method. The Thinker observes a ball falling. They form an idea based on this---that heavier objects will fall faster. They test this hypothesis with an experiment---dropping two balls. They both fall at the same speed, prompting a revision of the hypothesis. The Thinker then observes a leaf falling in an unexpected way, leading to further questions. (Objects like leaves and feathers fall more slowly on Earth due to air resistance. If you drop a hammer and feather in an airless environment, <a href='https://apod.nasa.gov/apod/ap111101.html'>as astronaut David Scott did during the Apollo 15 mission,</a> they will fall at the same speed.)"
+
+[[items]]
 title = "Better Future"
 image = "/img/BetterFuture.png"
 thumb = "/img/BetterFuture-thumb.png"
