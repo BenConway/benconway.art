@@ -22,6 +22,8 @@ This is the fictional story of the Interstellar Exploration Vehicle _Chiron_ and
 
 [Leaving Home: A Tour of the IEV Chiron](/fiction/chiron3)
 
+[The Chiron Leaves the Solar System](/fiction/chiron4)
+
 [First Report on Kapteynian Botany](/fiction/chiron1)
 
 <br/>
