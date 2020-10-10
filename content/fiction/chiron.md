@@ -24,6 +24,12 @@ This is the fictional story of the Interstellar Exploration Vehicle _Chiron_ and
 
 [The Chiron Leaves the Solar System](/fiction/chiron4)
 
+---
+<br/>
+(The following section is the original artwork that started the story. It's not a part of the current series, but everything in there will show up in the series eventually.)
+<br/>
+<br/>
+
 [First Report on Kapteynian Botany](/fiction/chiron1)
 
 <br/>
