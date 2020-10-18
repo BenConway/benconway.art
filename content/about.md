@@ -24,8 +24,18 @@ In addition to illustrating, Ben likes to create electronic ambient music, write
 
 Ben is currently available for freelance work.
 
+---
+<br/>
+
 You can contact Ben at [ben@benconway.art](mailto:ben@benconway.art)
 
-Ben's Instagram: [benconwayart](https://www.instagram.com/benconwayart/)
+Ben's portfolio Instagram (nonfiction illustration and surface design): [benconway_portfolio](https://www.instagram.com/benconway_portfolio/)
+
+Ben's other Instagram (music, science fiction, and things Ben has built): [benconwayart](https://www.instagram.com/benconwayart/)
 
 Ben's Bandcamp: [benconway](https://benconway.bandcamp.com/releases)
+
+----
+
+<br/>
+All pages on this website with a brown background are works of fiction.
