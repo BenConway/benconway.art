@@ -1,4 +1,18 @@
 [[items]]
+title = "Roger and Deer"
+image = "/img/RogerAndDeer_web.png"
+thumb = "/img/RogerAndDeer_web.png"
+alt = "Roger and Deer"
+description = "<a href = '/fiction/roger-and-deer/'>This</a> is a short story about a person named Roger whose roommate is a deer who likes electronic dance music."
+
+[[items]]
+title = "Better Future 3"
+image = "/img/BetterFuture3.png"
+thumb = "/img/BetterFuture3-thumb.png"
+alt = "Better Future 3"
+description = "This piece was inspired by Comet NEOWISE. Observing the sky makes me think about the fact that we're all a part of the same universe: the sky is there for everyone. It's something that we all have in common. I think that's an important thing to remember in times like this."
+
+[[items]]
 title = "Better Future 2"
 image = "/img/BetterFuture2-web.png"
 thumb = "/img/BetterFuture2-thumb.png"
@@ -17,7 +31,7 @@ title = "Longitude"
 image = "/img/Longitude-web.png"
 thumb = "/img/Longitude-thumb.png"
 alt = "Longitude"
-description = "This image is based on the concept of determining longitude at sea. In the 18th century this was a very difficult problem, since it required an accurate clock and the clocks of that era were inaccurate under shipboard conditions. Clockmaker John Harrison solved this problem by developing a series of advanced 'marine chronometers.' This image shows a stylized representation of the calculation of longitude, with visual elements inspired by the design of Harrison's clock H4.<br/><br/>Information from <a href='https://www.rmg.co.uk/discover/explore/longitude-found-john-harrison'>Royal Museuma Greenwich</a> and the book Longitude by Dava Sobel."
+description = "This image is based on the concept of determining longitude at sea. In the 18th century this was a very difficult problem, since it required an accurate clock and the clocks of that era were inaccurate under shipboard conditions. Clockmaker John Harrison solved this problem by developing a series of advanced 'marine chronometers.' This image shows a stylized representation of the calculation of longitude, with visual elements inspired by the design of Harrison's clock H4.<br/><br/>Information from <a href='https://www.rmg.co.uk/discover/explore/longitude-found-john-harrison'>Royal Museums Greenwich</a> and the book Longitude by Dava Sobel."
 
 [[items]]
 title = "Neutrinos"
