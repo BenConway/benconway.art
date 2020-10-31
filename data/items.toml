@@ -1,4 +1,11 @@
 [[items]]
+title = "Desert Gardens"
+image = "/img/DesertGardens_Cover-web.png"
+thumb = "/img/DesertGardens_Cover-thumb.png"
+alt = "Desert Gardens"
+description = "<a href='/fiction/desert-gardens'>Flash fiction piece</a> about wind-powered robots, and plants. It's also got some music to go with it, which is available <a href='https://benconway.bandcamp.com/track/desert-gardens'>on Bandcamp.</a>"
+
+[[items]]
 title = "Roger and Deer"
 image = "/img/RogerAndDeer_web.png"
 thumb = "/img/RogerAndDeer_web.png"
