@@ -1,4 +1,11 @@
 [[items]]
+title = "Unicorn Spacecraft"
+image = "/img/UnicornSpacecraft/Cover-reworked-web.png"
+thumb = "/img/UnicornSpacecraft/Cover-reworked-thumb.png"
+alt = "Unicorn Spacecraft"
+description = "<a href='/fiction/unicorn-spacecraft'>Hard science fiction story</a> with unicorns in it. It's fairly grounded in actual science. The story focuses on the construction of solar sails---these are real and several have been launched. It also involves space elevators---these could exist in the future, if we can figure out how to make strong enough materials. Most science fiction writers just hand-wave through the 'making strong enough materials' part, so I figured I'd use unicorn hair in this story since unicorns are cool."
+
+[[items]]
 title = "Earth Observation"
 image = "/img/EarthObservation_web.png"
 thumb = "/img/EarthObservation_thumb.png"

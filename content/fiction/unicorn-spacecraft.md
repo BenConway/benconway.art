@@ -12,6 +12,10 @@ margin-left: auto;
 margin-right: auto }
 </style>
 
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1307406384/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://benconway.bandcamp.com/track/unicorn-spacecraft">Unicorn Spacecraft by Ben Conway</a></iframe>
+<br/>
+<br/>
+
 <img class="centered" src="/img/UnicornSpacecraft/Cover-reworked-web.png" width=900></img>
 <br/>
 
@@ -19,7 +23,7 @@ Sunlight is powerful. Whenever light shines on something, it creates pressure.
 
 And you can use that pressure to move a spacecraft.
 
-The process of making a spacecraft begins with the unicorns. You can make a solar sail out of anything lightweight and reflective enough, but unicorn hair is the best material. We have six unicorns at our ranch---Viduria, Sabelia, Sarustia, Aenarian, Salorsia, and Vinosion. There are a few different types of unicorn hair, graded by its coarseness---different types are useful for different things. Salorsia's a type D, for instance. You use that for structural support and reflective parts.
+The process of making a spacecraft begins with the unicorns. You can make a solar sail out of anything lightweight and reflective enough, but unicorn hair is the best material. We have six unicorns at our ranch---Viduria, Sabelia, Sarustia, Aenarian, Salorsia, and Vidosion. There are a few different types of unicorn hair, graded by its coarseness---different types are useful for different things. Salorsia's a type D, for instance. You use that for structural support and reflective parts.
 <br/>
 <br/>
 
