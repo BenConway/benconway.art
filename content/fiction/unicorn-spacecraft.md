@@ -84,7 +84,7 @@ There it is, coming over the horizon. The power of the sunlight is blowing it ou
 What's Real:
 </p>
 
-Solar sails are real and several have been launched. They use the force produced by photons reflecting off of objects. This force is small, but with a large and reflective object you can get enough of it to be useful. A notable recent solar sail is [LightSail 2](https://www.planetary.org/sci-tech/lightsail), launched in 2019 by the Planetary Society.
+Solar sails are real and several have been launched. They use the force produced by photons reflecting off of objects. This force is small, but with a large and reflective object you can get enough of it to be useful. A notable recent solar sail is [LightSail 2,](https://www.planetary.org/sci-tech/lightsail) launched in 2019 by the Planetary Society.
 
 Space elevators are based on the idea of having a vehicle climb some sort of cable from Earth's surface into space, instead of launching things with a rocket. They could exist in the future, if we can figure out how to make strong enough materials. Most science fiction writers just hand-wave through the 'making strong enough materials' part, so I figured I'd use unicorn hair in this story since unicorns are cool. You can learn more about space elevators [here.](https://science.nasa.gov/science-news/science-at-nasa/2000/ast07sep_1/)
 
