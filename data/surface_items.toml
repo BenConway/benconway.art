@@ -1,4 +1,11 @@
 [[items]]
+title = "Windmill Card"
+image = "/img/WindmillCard-web.png"
+thumb = "/img/WindmillCard-thumb.png"
+alt = "Windmill Card"
+description = "This is the first in a series of holiday cards I'm releasing. Just the Moon, stars, and a windmill. It's intended to work for whatever holidays you celebrate. They're available from my <a href='https://www.zazzle.com/store/benconwayart/products'>Zazzle store.</a>"
+
+[[items]]
 title = "Robot Animal Squirrel"
 image = "/img/Squirrel-web.png"
 thumb = "/img/Squirrel-thumb.png"
