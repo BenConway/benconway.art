@@ -17,7 +17,7 @@ width=500></img>
 <br/>
 
 This is an illustration of the Earth's nitrogen, water, and carbon
-cycles. Reservoirs (places where material accumulates) are indicated
+cycles. These natural processes are important to the entire ecosystem. Most images only show one of these cycles, so I decided to create an image that showed all three together. Reservoirs (places where material accumulates) are indicated
 with letters, processes that exchange material between reservoirs are
 indicated with numbers.
 
