@@ -1,4 +1,18 @@
 [[items]]
+title = "Seek Wonder"
+image = "/img/SeekWonder-web.png"
+thumb = "/img/SeekWonder-thumb.png"
+alt = "A bunch of natural objects and scientific instruments."
+description = "Why discover new things? I think it has to do with seeking wonder. Finding new things out there that aren't what we're used to, and getting a new perspective on things we see every day. From fundamental particles, to coral reefs, to stars and distant galaxies---there's so much out there to see.<br/><br/>References:<br/><a href='https://deepseacoraldata.noaa.gov/gallery/southern-california-bight'>NOAA Deep Sea Coral Data</a><br/><a href='https://oceanexplorer.noaa.gov/technology/subs/kraken2/kraken2.html'>Kraken 2</a><br/><a href='https://oceanexplorer.noaa.gov/technology/subs/alvin/alvin.html'>Alvin</a><br/><a href='https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells'>OpenStax Biology 2e</a><br/><a href='https://photojournal.jpl.nasa.gov/gallery/universe?subselect=Target%3AGalaxy+NGC+3310%3A'>Starburst Galaxy NGC3310</a>"
+
+[[items]]
+title = "Discovery of DNA Structure"
+image = "/img/DNA-web.png"
+thumb = "/img/DNA-thumb.png"
+alt = "A double helix on top of a stack of blue metal blocks with symbols on them."
+description = "This is an illustration about the discovery of the structure of DNA, and all of the evidence that had to be built up to make that discovery. It wasn't just a simple matter of one or two people figuring something out. First, Oswald Avery discovered that genetic information was carried by DNA---this was the foundational discovery that others built on. Then Alexander Todd discovered that the DNA molecule had a repeating structure of sugar and phosphate compounds. Erwin Chargaff discovered that certain components of the DNA molecule occurred at the same proportions relative to each other. Wilkins and Franklin discovered that the molecule was a helix or spiral. Models were proposed to explain the DNA structure but didn't fit the data, Linus Pauling's proposed model can be seen lying in the background. Finally, scientist Jerry Donohue suggested an alternate form of the molecules to use in the model, at which point Watson and Crick discovered the now-famous double helix structure. This image was inspired by <a href ='https://www.americanscientist.org/article/random-paths-to-frequency-hopping'>this article about a different subject.</a> For a list of references, click <a href='/science/dna/'>here.</a>"
+
+[[items]]
 title = "Snowflake Card"
 image = "/img/SnowflakeCard-web.png"
 thumb = "/img/SnowflakeCard-thumb.png"
