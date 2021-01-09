@@ -6,7 +6,7 @@ draft: false
 ---
 
 <style type="text/css" rel="stylesheet">
-body{background: #6E564A;}
+body{background: #666666;}
 IMG.centered {
 display: block;
 margin-left: auto;
@@ -23,3 +23,7 @@ Here's an example, using the waveform above and a 1000Hz low-pass filter to smoo
 <div style="margin: 0 auto; display: table;">
 	<audio controls class = "centered" src="/200-filtered.wav" align="center"></audio>
 </div>
+	<br/>
+
+Here's the link to my Bandcamp page, so you can hear more music I've made. Follow me to get notified when Physics for Squirrels gets released:
+https://benconway.bandcamp.com
