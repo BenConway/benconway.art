@@ -16,7 +16,7 @@ margin-right: auto }
 <br/>
 <br/>
 
-<img class="centered" src="/img/DesertGardens_Expanded/City-web.jpg" width=750></img>
+<img class="centered" src="/img/DesertGardens_Expanded/City-web.jpg" width=85%></img>
 <br/>
 
 The Complex was near the center of the desert. The old concrete buildings were crumbling from decades of sand and harsh sun. Some of them were inhabited---it was hard to tell which ones.
@@ -43,7 +43,7 @@ That wasn't a cloud. It was an airship.
 ---
 <br/>
 
-<img class="centered" src="/img/DesertGardens_Expanded/Airship-web.jpg" width=750></img>
+<img class="centered" src="/img/DesertGardens_Expanded/Airship-web.jpg" width=85%></img>
 <br/>
 
 The airship landed gently in the park. Two people got out, carrying a little vehicle---a wind-powered cart with a clay pot in the middle. There was a tiny plant growing in the clay pot, with a glass dome over it to protect it.
@@ -64,7 +64,7 @@ A few days later the vehicle made its first successful test run. It made it all 
 <br/>
 <br/>
 
-<img class="centered" src="/img/DesertGardens_Expanded/Vehicle-web.jpg" width=750></img>
+<img class="centered" src="/img/DesertGardens_Expanded/Vehicle-web.jpg" width=85%></img>
 <br/>
 
 So they started building another one.
@@ -85,7 +85,7 @@ But then the wind blew. Hesitantly, the vehicles started to move. Some of them r
 <br/>
 <br/>
 
-<img class="centered" src="/img/DesertGardens_Expanded/Herd-web.jpg" width=750></img>
+<img class="centered" src="/img/DesertGardens_Expanded/Herd-web.jpg" width=85%></img>
 <br/>
 
 And one of them fell into a hole and broke apart. Sam found it a short while later. Its plant had just blossomed---the flower was smaller than his fingernail.
@@ -96,7 +96,7 @@ For the first time in his life, he felt a sense of peace.
 <br/>
 <br/>
 
-<img class="centered" src="/img/DesertGardens_Expanded/Window-web.jpg" width=750></img>
+<img class="centered" src="/img/DesertGardens_Expanded/Window-web.jpg" width=85%></img>
 <br/>
 
 ---
