@@ -1,4 +1,11 @@
 [[items]]
+title = "Laser Interferometer Gravity Observatory"
+image = "/img/LIGO-web.jpg"
+thumb = "/img/LIGO-thumb.JPG"
+alt = "A wavy image of two sets of crossed laser beams."
+description = "This is an illustration of the Laser Interferometer Gravity Observatory, or LIGO. LIGO detects gravitational waves, which are (very) subtle changes in space itself. These waves are emitted by powerful events like collisions between black holes and neutron stars, and cause space to expand and contract in a predictable pattern. LIGO's detectors are sensitive enough to measure these extremely small changes, and thus observe amazing astronomical events in a completely different way from conventional telescopes.<br/>References:<br/><a href='https://www.ligo.caltech.edu/page/ligos-ifo'>LIGO's Interferometer</a><br/><a href='https://www.ligo.caltech.edu/news/ligo20200623'>LIGO Finds Mystery Object In Mass Gap</a><br/><a href='https://www.ligo.caltech.edu/page/what-is-ligo'>What is LIGO?</a><br/><a href='https://www.ligo.caltech.edu/page/what-is-interferometer'>What is an Interferometer?</a><br/><a href='https://www.ligo.caltech.edu/page/ligo-detectors'>LIGO Detectors</a><br/><a href='https://www.ligo.caltech.edu/page/laser'>LIGO's Laser</a><br/><a href='https://www.ligo.caltech.edu/system/media_files/binaries/303/original/ligo-educators-guide.pdf?1455165573'>LIGO Educator's Guide (PDF)</a>"
+
+[[items]]
 title = "Seek Wonder"
 image = "/img/SeekWonder-web.jpg"
 thumb = "/img/SeekWonder-thumb.JPG"
