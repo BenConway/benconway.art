@@ -1,4 +1,18 @@
 [[items]]
+title = "Physics for Squirrels"
+image = "/img/PhysicsForSquirrels-modified-web.jpg"
+thumb = "/img/PhysicsForSquirrels-modified-thumb.JPG"
+alt = "A drawing of a squirrel, surrounded by equations and physics experiments."
+description = "Album cover for my latest album of ambient music, <a href='https://benconway.bandcamp.com/album/physics-for-squirrels' target=blank>Physics for Squirrels.</a> The music was created over several months in 2020, primarily using the Csound audio programming language. The general intent of this music is to explore new approaches to sound creation while also moving the listener to a calmer state of mind. Most of the pieces on this album began as experiments with different aspects of the Csound language, which were then expanded into full tracks. For instance, Skyline began as an experiment with wave-terrain synthesis. Resilience and Rustic began as different ways to process recordings of a children's accordion. Other tracks on this album (in particular Blue and Winter Garden) were experiments in creating <a href='/wavetables/'>new waveforms based on the shapes of leaves and trees.</a>"
+
+[[items]]
+title = "Mars 2020"
+image = "/img/Mars2020-web.jpg"
+thumb = "/img/Mars2020-thumb.JPG"
+alt = "A rover being lowered onto a red planet, with a curved line connecting it to a blue planet."
+description = "Happy landing, Perseverance! And congratulations to everyone who worked on that project!"
+
+[[items]]
 title = "Laser Interferometer Gravity Observatory"
 image = "/img/LIGO-web.jpg"
 thumb = "/img/LIGO-thumb.JPG"

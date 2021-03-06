@@ -1,4 +1,11 @@
 [[items]]
+title = "Mars 2020"
+image = "/img/Mars2020-web.jpg"
+thumb = "/img/Mars2020-thumb.JPG"
+alt = "A rover being lowered onto a red planet, with a curved line connecting it to a blue planet."
+description = "Happy landing, Perseverance! And congratulations to everyone who worked on that project!"
+
+[[items]]
 title = "Laser Interferometer Gravity Observatory"
 image = "/img/LIGO-web.jpg"
 thumb = "/img/LIGO-thumb.JPG"
@@ -108,7 +115,7 @@ title = "16 Psyche"
 image = "/img/16Psyche-low.png"
 thumb = "/img/16Psyche-thumb.png"
 alt = "16 Psyche"
-description = "This illustration shows 16 Psyche itself. I referred to <a href='arxiv.org/abs/1810.02771'> Viikinkoski et. al.,</a> <a href='https://echo.jpl.nasa.gov/asteroids/shepard.etal.2016.psyche.pdf'> Shepard et. al.,</a> and work by the mission's principle investigator Lindy Elkins-Tanton. I also had JPL scientist Carol Polanskey review the image for accuracy"
+description = "This illustration shows 16 Psyche itself. I referred to <a href='arxiv.org/abs/1810.02771'> Viikinkoski et. al.,</a> <a href='https://echo.jpl.nasa.gov/asteroids/shepard.etal.2016.psyche.pdf'> Shepard et. al.,</a> and work by the mission's principle investigator Lindy Elkins-Tanton. I also had JPL scientist Carol Polanskey review the image for accuracy."
 
 [[items]]
 title = "Road Trip"
