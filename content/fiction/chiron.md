@@ -16,7 +16,7 @@ margin-right: auto }
 <img class="centered" src="/img/chiron-blueprints-low.png" width=750></img>
 <br/>
 
-This is the fictional story of the Interstellar Exploration Vehicle _Chiron_ and its expedition to Kapteyn's Star. New installments of the story will be released periodically and added to this page.
+This is the fictional story of the Interstellar Exploration Vehicle _Chiron_ and its expedition to Kapteyn's Star. It's currently on hiatus while I work on some other projects, but it will return in some form eventually.
 
 [The IEV Chiron: Its Construction and Launch](/fiction/chiron2)
 
