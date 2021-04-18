@@ -10,7 +10,7 @@ title = "Earthshine"
 image = "/img/Earthshine-Ink-web.jpg"
 thumb = "/img/Earthshine-Ink-thumb.JPG"
 alt = "The Earth and the Moon, with rays of light reflecting between them."
-description = "This is an illustration of a very cool and easy-to-observe astronomical phenomenon called Earthshine. When the Moon is in a crescent phase and the angles are just right, if you look closely (binoculars will help) you can faintly see the dark part of the Moon illuminated by a bluish light. This is caused by sunlight reflecting off of Earth, illuminating the Moon, and reflecting back to your eyes. So if you get a chance---go look at the Moon, and think about how part of what you're seeing is the light of the Earth shining back at you.<br/><a href='https://earthobservatory.nasa.gov/images/83782/earthshine' target=blank>More information.</a>"
+description = "This is an illustration of a very cool and easy-to-observe astronomical phenomenon called Earthshine. When the Moon is in a crescent phase, if the angles are just right and you look closely (binoculars will help) you can faintly see the dark part of the Moon illuminated by a bluish light. This is caused by sunlight reflecting off of Earth, illuminating the Moon, and reflecting back to your eyes. So if you get a chance---go look at the Moon, and see if you can spot the Earth's light reflecting back at you.<br/><a href='https://earthobservatory.nasa.gov/images/83782/earthshine' target=blank>More information.</a>"
 
 [[items]]
 title = "Physics for Squirrels"
