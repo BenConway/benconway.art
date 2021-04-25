@@ -1,4 +1,11 @@
 [[items]]
+title = "Robot Sheep"
+image = "/img/RobotSheep_Combined-web.jpg"
+thumb = "/img/RobotSheep_Combined-thumb.JPG"
+alt = "A robotic sheep and a normal sheep."
+description = "This is the latest installment in the Robot Animal series, featuring a farm-equipment-style robot sheep on one side and a regular sheep on the other. It's currently available on <a href='https://www.zazzle.com/robot_sheep_tote_bag-149233464764028787' target=blank>tote bags.</a>"
+
+[[items]]
 title = "Lucy Mission"
 image = "/img/LucyMission-web.jpg"
 thumb = "/img/LucyMission-thumb.JPG"
