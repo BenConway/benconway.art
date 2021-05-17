@@ -20,41 +20,6 @@ alt = "Roger and Deer"
 description = "<a href = '/fiction/roger-and-deer/'>This</a> is a short story about a person named Roger whose roommate is a deer who likes electronic dance music."
 
 [[items]]
-title = "Chiron Installment 5"
-image = "/img/Installment5/4-web.png"
-thumb = "/img/Installment5/4-thumb.png"
-alt = "Chiron 5"
-description = "<a href='chiron5/'>New installment</a> in the <a href='chiron/'>Chiron Expedition series.</a> In this installment, the Chiron arrives at Kapteyn b---but there are some strange things going on."
-
-[[items]]
-title = "Chiron Installment 4"
-image = "/img/Installment4/0.png"
-thumb = "/img/Installment4/0-thumb.png"
-alt = "Chiron 4"
-description = "<a href='chiron4/'>New installment</a> in the <a href='chiron/'>Chiron Expedition series.</a> In this installment, the Captain of the Chiron walks through the ship one last time before going into suspended animation for the trip to Kapteyn b."
-
-[[items]]
-title = "Chiron Installment 3"
-image = "/img/workshop-open-web.png"
-thumb = "/img/workshop-open-thumb.png"
-alt = "Chiron 3"
-description = "<a href='chiron3/'>New installment</a> in the <a href='chiron/'>Chiron Expedition series</a>, taking us on a tour of the starship. This image shows us the hatchway that the crew enters the starship through."
-
-[[items]]
-title = "Chiron Installment 2"
-image = "/img/chiron-blueprints-low.png"
-thumb = "/img/chiron-blueprints-thumb.png"
-alt = "Chiron 2"
-description = "<a href='chiron2/'>Prequel</a> to the <a href='chiron/'>Chiron Expedition</a>, explaining how the starship Chiron came to be and why it went on a mission to Kapteyn's Star."
-
-[[items]]
-title = "The Chiron Expedition"
-image = "/img/Plant4-low.png"
-thumb = "/img/Plant4-thumb.png"
-alt = "The Chiron Expedition"
-description = "This is a piece from a series representing the fictional expedition of the Interstellar Exploration Vehicle Chiron. This is a hard science fiction story that I'm creating. The story follows an expedition to the exoplanet Kapteyn b, and the alien plants that the expedition discovers there. You can see the rest of the series <a href='chiron/'> here.</a> This is a work-in-progress, I intend to periodically revisit this fictional universe and further develop the story of the Chiron through images and writing and possibly even music."
-
-[[items]]
 title = "Peripheral Vision"
 image = "/img/Interfaces-low.png"
 thumb = "/img/Interfaces-thumb.png"

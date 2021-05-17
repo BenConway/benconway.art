@@ -167,13 +167,6 @@ alt = "Chess for Dogs Album Cover"
 description = "This is the cover for my first album of ambient music, Chess for Dogs, which can be purchased on <a href='https://benconway.bandcamp.com/album/chess-for-dogs'>Bandcamp.</a> The objects in the cabinet reflect my musical process and the things that inspire me: travel and nature. The pieces of paper pinned to the back wall of the cabinet include snippets of Csound code. (Csound is the audio programming environment that I create most of my music with.) The chess piece, musical note, and metronome represent the fact that I create music by arranging sounds in a carefully planned fashion as opposed to improvising. The Erlenmeyer flask represents the process of experimenting with new sounds. The vehicle in the top center is the pop-top camper van that my family traveled in when I was growing up."
 
 [[items]]
-title = "The Chiron Expedition"
-image = "/img/Plant4-low.png"
-thumb = "/img/Plant4-thumb.png"
-alt = "The Chiron Expedition"
-description = "This is a piece from a series representing the fictional expedition of the Interstellar Exploration Vehicle Chiron. This is a hard science fiction story that I'm creating. The story follows an expedition to the exoplanet Kapteyn b, and the alien plants that the expedition discovers there. You can see the rest of the series <a href='fiction/chiron/'> here.</a> This is a work-in-progress, I intend to periodically revisit this fictional universe and further develop the story of the Chiron through images and writing and possibly even music."
-
-[[items]]
 title = "Natural Cycles"
 image = "/img/NaturalCycles-low.png"
 thumb = "/img/NaturalCycles-thumb.png"
