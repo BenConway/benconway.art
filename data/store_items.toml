@@ -1,9 +1,23 @@
 [[items]]
+title = "Earth Looking Out"
+image = "/img/EarthLookingOut-web.jpg"
+thumb = "/img/EarthLookingOut-thumb.JPG"
+alt = "Earth surrounded by planets and stars and galaxies and comets."
+description = "We're a part of the universe.<br/>There's a lot of wonder out there in the universe---comets, planets, stars, galaxies. There's also a lot of wonder right here on Earth---plants, animals, mountains, the human condition. And it's all a part of the same thing---we're produced by the same fundamental physical forces. The universe is beautifully big and complex and intricate, and we're a part of it. <br>Poster available <a href='https://www.zazzle.com/earth_looking_out_poster-228154753694117729' target=blank>here.</a>"
+
+[[items]]
 title = "Seek Wonder"
 image = "/img/SeekWonder-web.jpg"
 thumb = "/img/SeekWonder-thumb.JPG"
 alt = "A bunch of natural objects and scientific instruments."
 description = "Why discover new things? I think it has to do with seeking wonder. Finding new things out there that aren't what we're used to, and getting a new perspective on things we see every day. From fundamental particles, to coral reefs, to stars and distant galaxies---there's so much out there to see. This image is available as a poster from <a href='https://www.zazzle.com/print_value_poster_paper_matte-228825113765701999' target=blank>Zazzle.</a><br/><br/>References:<br/><a href='https://deepseacoraldata.noaa.gov/gallery/southern-california-bight'>NOAA Deep Sea Coral Data</a><br/><a href='https://oceanexplorer.noaa.gov/technology/subs/kraken2/kraken2.html'>Kraken 2</a><br/><a href='https://oceanexplorer.noaa.gov/technology/subs/alvin/alvin.html'>Alvin</a><br/><a href='https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells'>OpenStax Biology 2e</a><br/><a href='https://photojournal.jpl.nasa.gov/gallery/universe?subselect=Target%3AGalaxy+NGC+3310%3A'>Starburst Galaxy NGC3310</a><br/><a href='https://www.missionjuno.swri.edu/junocam/processing?source=junocam'>JunoCam</a>"
+
+[[items]]
+title = "Photosynthesis"
+image = "/img/Photosynthesis_Color-web.jpg"
+thumb = "/img/Photosynthesis_Color-thumb.JPG"
+alt = "A sunburst on a black background, surrounded by molecules."
+description = "The Story of Energy.<br/>This story starts inside the Sun, where hydrogen atoms (the oldest atoms in the universe) combine in a powerful fusion reaction to release energy. The energy then spends the next 170,000 years or so (!) making its way to the surface of the Sun. Once it reaches the surface, the light crosses the 93-million-mile void to Earth in about eight minutes. Upon arriving on Earth, some of that energy is captured by plants using chlorophyll and chemically stored as glucose, which then powers much of the planet's biosphere directly or indirectly.<br/>Poster available <a href='https://www.zazzle.com/story_of_energy_poster-228038394904112230' target=blank>here.</a><br/><br/>References:<br/><a href='https://solarsystem.nasa.gov/solar-system/sun/in-depth/' target=blank>Sun In Depth</a><br/><a href='https://www.nasa.gov/specials/ocean-worlds/' target=blank>Ocean Worlds</a><br/><a href='https://apod.nasa.gov/apod/ap160125.html' target=blank>Astronomy Picture of the Day</a><br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/16667503' target=blank>Chlorophyll</a><br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/5793' target=blank>Glucose</a><br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/280' target=blank>Carbon dioxide</a><br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/977' target=blank>Oxygen</a><br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/962' target=blank>Water</a><br/><a href='https://ssec.si.edu/stemvisions-blog/what-photosynthesis' target=blank>What Is Photosynthesis?</a>"
 
 [[items]]
 title = "Robot Sheep"
