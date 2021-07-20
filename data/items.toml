@@ -1,4 +1,11 @@
 [[items]]
+title = "Europa"
+image = "/img/Europa-web.jpg"
+thumb = "/img/Europa-thumb.JPG"
+alt = "An icy moon and Jupiter and a spacecraft on a wavy background."
+description = "This is an illustration about Jupiter's moon Europa. Europa's center is a rocky core that may have active volcanoes. Its surface is icy, with strange geological formations and occasional geysers. And below the ice, there's an ocean---an ocean that may contain life. NASA is currently preparing to send the robotic Europa Clipper probe to investigate further. Getting approval to build Europa Clipper was an adventure in itself. I recommend David Brown's book The Mission for a look inside the intense world of planetary science and mission planning. The concept of a Europa mission has been around for decades, and it's taken this long for the plan to be revised, cancelled, revised, cancelled, revised, and finally approved through some impressive political maneuvering. I have to congratulate the scientists who planned this mission for their fortitude and courage in seeing the mission through those difficult times. And now Europa Clipper is under construction, and scheduled for launch in 2024. I look forward to seeing what it discovers.<br/><br/>References:<br/><a href='https://europa.nasa.gov/spacecraft/meet-europa-clipper/'>Meet Europa Clipper</a><br/><a href='https://photojournal.jpl.nasa.gov/catalog/PIA23809'>PIA23809</a><br/><a href='https://photojournal.jpl.nasa.gov/catalog/PIA19048'>PIA19048</a><br/><a href='https://photojournal.jpl.nasa.gov/catalog/PIA21443'>PIA21443</a><br/><a href='https://europa.nasa.gov/news/29/nasas-europa-clipper-builds-hardware-moves-toward-assembly/'>Europa Clipper Builds Hardware, Moves Toward Assembly</a><br/><a href='https://europa.nasa.gov/news/31/potential-plumes-on-europa-could-come-from-water-in-the-crust/'>Potential Plumes on Europa Could Come From Water In The Crust</a><br/><a href='https://europa.nasa.gov/news/32/europas-interior-may-be-hot-enough-to-fuel-seafloor-volcanoes/'>Europa's Interior May Be Hot Enough To Fuel Seafloor Volcanoes.</a><br/>The Mission. David Brown, 2021."
+
+[[items]]
 title = "Earth Looking Out"
 image = "/img/EarthLookingOut-web.jpg"
 thumb = "/img/EarthLookingOut-thumb.JPG"

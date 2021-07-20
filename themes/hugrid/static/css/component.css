@@ -43,10 +43,10 @@
 	top: auto;
 	left: 0;
 	width: 100%;
+	height: 75%;
 	margin-top: 10px;
 	text-align: left;
-	height: 0;
-	overflow: hidden;
+	overflow: scroll;
 }
 
 .og-expander-inner {
@@ -92,7 +92,7 @@
 	width: 50%;
 	float: left;
 	height: 100%;
-	overflow: hidden;
+	overflow: scroll;
 	position: relative;
 }
 
