@@ -1,4 +1,11 @@
 [[items]]
+title = "Prejudice Reduction"
+image = "/img/CategoryCombination-finish-web.jpg"
+thumb = "/img/CategoryCombination-finish-thumb.JPG"
+alt = "An outline of a person in profile, with two boxes and a bridge inside their head."
+description = "Lately I've been reading up on the psychological concept of prejudice reduction. There is strong evidence that various psychological exercises can have a powerful effect on reducing prejudice. <a href='/science/psychology/'>This article</a> summarizes my understanding of some scientific papers I've read about prejudice reduction."
+
+[[items]]
 title = "Electric Moose"
 image = "/img/ElectricMooseCover-web.jpg"
 thumb = "/img/ElectricMooseCover-thumb.JPG"

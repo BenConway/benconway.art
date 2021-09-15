@@ -24,7 +24,7 @@ _These articles have been peer-reviewed, but science is a process of change and 
 <br/>
 A certain amount of psychological research has been performed in search of a one-shot intervention that reduces bias for extended periods of time ("bias vaccine.") It seems unlikely to me that such an intervention could be found, because other skills and abilities usually don't work like this. If someone learned to play an instrument and then went for months or years without practicing, they would be unlikely to perform well in a concert.
 
-I suggest searching for prejudice reduction activities that can be self-applied repeatedly ("anti-bias exercise.") Then, even if the exercise's individual components only reduce bias for short time periods they will still add up to a long-term effect. Even short-term bias reduction could be a powerful tool if used properly, such as performing a bias-reduction exercise before making a hiring or promotion decision.
+I suggest searching for prejudice reduction activities that can be self-applied repeatedly ("anti-bias exercise.") Then, even if the exercise's individual components only reduce bias for short time periods, they will still add up to a long-term effect. Even short-term bias reduction could be a powerful tool if used properly, such as performing a bias-reduction exercise before making a hiring or promotion decision.
 <br/>
 <br/>
 
