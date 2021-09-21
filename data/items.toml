@@ -1,4 +1,11 @@
 [[items]]
+title = "Philosophy for Dolphins"
+image = "/img/PhilosophyForDolphins-web.jpg"
+thumb = "/img/PhilosophyForDolphins-thumb.JPG"
+alt = "A message in a bottle, floating in the ocean."
+description = "This is my latest collection of experimental ambient music, <a href='https://benconway.bandcamp.com/album/philosophy-for-dolphins'>Philosophy for Dolphins.</a> It was written mostly in the spring of 2021. It kind of ended up having a travel theme, though that wasn't really intentional, and it may not feel travel-like to anyone but me. Music is like that. You're certainly welcome to find your own meaning in these sounds.<br/>Some of the tracks on this album grew out of experiments with Csound's non-linear filter. This is a software audio processing unit which is only partially documented---the Csound manual gives only a brief explanation of it. I explored the filter's settings in a partially systematic way, producing some new sounds that are heard (along with many others) on this album.<br/>Emerald Tower was a continuation of my previous experiments in making waveforms based on visual shapes---turns out there are a lot of different uses for the shapes of trees and plants. Who knew?<br/>Existence was an experiment of a different kind---writing a piece primarily for non-software instruments. It's still processed and assembled with Csound, but most of the sound was produced with physical instruments (lap harp/dulcimer, Hammond organ, child's accordion.) I plan to use this method more in the future.<br/>So now this batch of experiments is complete, and it's time to move on to the next one. I hope you enjoy the results of my auditory wanderings."
+
+[[items]]
 title = "Prejudice Reduction"
 image = "/img/CategoryCombination-finish-web.jpg"
 thumb = "/img/CategoryCombination-finish-thumb.JPG"
