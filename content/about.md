@@ -16,9 +16,9 @@ margin-right: auto }
 width=500></img>
 <br/>
 
-Ben Conway is an illustrator, skilled at using 3D modeling and traditional media to create visually interesting and scientifically accurate images of a variety of subjects, including spacecraft and astronomical objects. Ben's subject matter expertise allows him to communicate advanced concepts accurately and understandably to a variety of audiences. Ben's 3D modeling skills also allow him to adjust images easily to ensure all the details look as good as possible. (For more on the advantages of 3D modeling as a medium, see [here.](/3d_intro))
+Ben Conway is an illustrator with the mind of a scientist. During his internship at the Jet Propulsion Laboratory, he was able to clarify technical discussions between members of the mission team several times, and his understanding of Hall-effect thrusters was good enough that someone asked if he had a physics background.
 
-Ben has had an illustration-related internship at Caltech's Jet Propulsion Laboratory. He has also participated in the <a href="https://psyche.asu.edu/get-involved/psyche-inspired/psyche-inspired-ben-conway/"> Psyche Inspired </a> internship program run by Arizona State University in connection with NASA's Psyche mission.
+Ben spends a lot of his spare time reading up on new scientific results and trying to develop a working knowledge of fields that he's unfamiliar with. This can range from reading books to gain a better understanding of advanced physics, to conducting his own chemistry experiments to develop a new photographic process. With this knowledge of science and technology, Ben can interpret information and develop ways of depicting complex concepts---either to the general public, or to experts in different fields.
 
 In addition to illustrating, Ben likes to create electronic ambient music, write science fiction stories, and go hiking.
 
@@ -38,4 +38,4 @@ Ben's Bandcamp: [benconway](https://benconway.bandcamp.com/releases)
 ----
 
 <br/>
-All pages on this website with a brown background are works of fiction.
+All pages with a brown background on this website are works of fiction.
