@@ -1,4 +1,11 @@
 [[items]]
+title = "Synchrotron Palimpsest"
+image = "/img/SynchrotronPalimpsestFinal-web.jpg"
+thumb = "/img/SynchrotronPalimpsestFinal-thumb.JPG"
+alt = "A beam of light shining from a glowing glass ring onto an old document."
+description = "Using the X-rays from relativistic electrons to unlock hidden secrets in ancient manuscripts!<br/>In ancient times, writing material (usually parchment) was expensive and hard to come by. So frequently it got reused---someone would scrape the writing off of an old document and write over it. This type of overwritten document is known as a palimpsest. Many historically-significant documents were lost in this way---but they weren't quite gone.<br/>Electrons moving at close to the speed of light produce powerful blasts of X-rays under certain conditions. Scientists working with particle accelerators thought this was a nuisance at first, but then they realized that the intense X-rays could actually be useful.<br/>And one use turned out to be retrieving the original, lost text from palimpsests. The X-rays can cause the remnants of the erased ink to fluoresce, thus allowing the missing text to be recovered. The SLAC National Accelerator Laboratory has used this technique to study a variety of ancient documents, including ones by the Greek scientist Archimedes and the Roman doctor Galen.<br/><br/>References:<br/><a href='https://www6.slac.stanford.edu/news/2018-03-22-hidden-medical-text-read-first-time-thousand-years.aspx'>Hidden Medical Text Read for the First Time in a Thousand Years.</a><br/><a href='https://www.slac.stanford.edu/gen/com/slac_pr.html'>Archimedes Palimpsest.</a><br/>Special thanks to SLAC scientist Sam Webb for his presentation on synchrotron radiation, which I saw while touring SLAC with a group from California College of the Arts."
+
+[[items]]
 title = "SETI"
 image = "/img/SETI-web.jpg"
 thumb = "/img/SETI-thumb.JPG"
