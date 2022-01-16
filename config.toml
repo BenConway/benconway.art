@@ -17,7 +17,7 @@ unsafe= true
 [params]
     # Meta
     title = "<img src=\"/logo.png\" width=\"75px\"></img><br/>Ben Conway"
-    subtitle = "I'm a freelance illustrator specializing in scientific illustration and surface design. <br/>[Read more.](/about/)"
+    subtitle = "I'm a freelance illustrator specializing in scientific illustration and surface design. Click on any image below for more information. <br/>[About Me.](/about/)"
     author = "Ben Conway"
     description = "Illustrator, primarily of science and space-related subjects."
     keywords = "illustration, science, space, spacecraft, art"
