@@ -6,10 +6,12 @@ draft: false
 ---
 <style type="text/css" rel="stylesheet">
 body{background: #6E564A;}
+body{color: #EEEEEE;}
+img{margin-left: 5px;}
 IMG.centered {
 display: block;
 margin-left: auto;
-margin-right: auto }
+margin-right: auto}
 </style>
 
 <iframe class="centered" style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2203451030/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://benconway.bandcamp.com/album/desert-gardens-expanded">Desert Gardens (Expanded) by Ben Conway</a></iframe>
