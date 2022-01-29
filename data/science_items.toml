@@ -1,4 +1,13 @@
 [[items]]
+title = "Tide Visualizations"
+image = "/img/TideProfile-0-web.jpg"
+thumb = "/img/TideProfile-0-thumb.JPG"
+alt = "A jagged line on a blue background."
+description = "Lately I've been experimenting with data visualization. I also recently read Rachel Carson's classic book, The Sea Around Us, which inspired me to try visualizing the tides. <a href='/science/data-visualization/'>This page</a> is a collection of some of my experiments. I'll update the page whenever I finish a new visualization.<br/>Data from <a href='https://tidesandcurrents.noaa.gov' target=blank>NOAA.</a>"
+
+
+
+[[items]]
 title = "Synchrotron Palimpsest"
 image = "/img/SynchrotronPalimpsestFinal-web.jpg"
 thumb = "/img/SynchrotronPalimpsestFinal-thumb.JPG"
