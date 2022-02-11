@@ -1,4 +1,18 @@
 [[items]]
+title = "Buckeye Day"
+image = "/img/Buckeye_Day-web.jpg"
+thumb = "/img/Buckeye_Day-thumb.JPG"
+alt = "Three houses and two trees by a lake."
+description = "This image was inspired by a recent trip to Buckeye Lake State Park in central Ohio. It's not really a literal depiction of a specific place, it's more of an impression of what the place feels like."
+
+[[items]]
+title = "Interstate at Night"
+image = "/img/InterstateAtNight-web.jpg"
+thumb = "/img/InterstateAtNight-thumb.JPG"
+alt = "Some buildings in a field at night."
+description = "This is another image from my trip to central Ohio, based off of the landscape at night under an overcast sky. Like the other image, it's not a specific place---it's a composite of a few different scenes I observed while traveling on the interstate at night."
+
+[[items]]
 title = "Tide Visualizations"
 image = "/img/TideProfile-0-web.png"
 thumb = "/img/TideProfile-0-thumb.png"
@@ -6,18 +20,18 @@ alt = "A jagged line on a blue background."
 description = "Lately I've been experimenting with data visualization. I also recently read Rachel Carson's classic book, The Sea Around Us, which inspired me to try visualizing the tides. <a href='/science/data-visualization/'>This page</a> is a collection of some of my experiments. I'll update the page whenever I finish a new visualization.<br/>Data from <a href='https://tidesandcurrents.noaa.gov' target=blank>NOAA.</a>"
 
 [[items]]
-title = "Navigation"
-image = "/img/NavigationCover-web.jpg"
-thumb = "/img/NavigationCover-thumb.JPG"
-alt = "A signpost on a grassy hill, with the Moon in the background."
-description = "I've released some more music! You can download it <a href='https://benconway.bandcamp.com/album/navigation' target=blank>here.</a><br/>These past few years, for some reason, I keep thinking about the concept of using external signals to figure out confusing situations. Weather radio, VOR aircraft beacons, etc. That's only vaguely related to the music here but I thought I'd mention it.<br/>These are a couple of pieces that I was planning to put on my next album, but they didn't really fit there. I realized that they worked pretty well together, so I'm releasing them as a pair. As an experiment, I'm making them available for free (you can also pay if you want, but you don't have to.) I hope you like them, and that they'll help you navigate through any confusing situations that you find yourself in."
-
-[[items]]
 title = "Synchrotron Palimpsest"
 image = "/img/SynchrotronPalimpsestFinal-web.jpg"
 thumb = "/img/SynchrotronPalimpsestFinal-thumb.JPG"
 alt = "A beam of light shining from a glowing glass ring onto an old document."
 description = "Using the X-rays from relativistic electrons to unlock hidden secrets in ancient manuscripts!<br/>In ancient times, writing material (usually parchment) was expensive and hard to come by. So frequently it got reused---someone would scrape the writing off of an old document and write over it. This type of overwritten document is known as a palimpsest. Many historically-significant documents were lost in this way---but they weren't quite gone.<br/>Electrons moving at close to the speed of light produce powerful blasts of X-rays under certain conditions. Scientists working with particle accelerators thought this was a nuisance at first, but then they realized that the intense X-rays could actually be useful.<br/>And one use turned out to be retrieving the original, lost text from palimpsests. The X-rays can cause the remnants of the erased ink to fluoresce, thus allowing the missing text to be recovered. The SLAC National Accelerator Laboratory has used this technique to study a variety of ancient documents, including ones by the Greek scientist Archimedes and the Roman doctor Galen.<br/><br/>References:<br/><a href='https://www6.slac.stanford.edu/news/2018-03-22-hidden-medical-text-read-first-time-thousand-years.aspx'>Hidden Medical Text Read for the First Time in a Thousand Years.</a><br/><a href='https://www.slac.stanford.edu/gen/com/slac_pr.html'>Archimedes Palimpsest.</a><br/>Special thanks to SLAC scientist Sam Webb for his presentation on synchrotron radiation, which I saw while touring SLAC with a group from California College of the Arts."
+
+[[items]]
+title = "Navigation"
+image = "/img/NavigationCover-web.jpg"
+thumb = "/img/NavigationCover-thumb.JPG"
+alt = "A signpost on a grassy hill, with the Moon in the background."
+description = "I've released some more music! You can download it <a href='https://benconway.bandcamp.com/album/navigation' target=blank>here.</a><br/>These past few years, for some reason, I keep thinking about the concept of using external signals to figure out confusing situations. Weather radio, VOR aircraft beacons, etc. That's only vaguely related to the music here but I thought I'd mention it.<br/>These are a couple of pieces that I was planning to put on my next album, but they didn't really fit there. I realized that they worked pretty well together, so I'm releasing them as a pair. As an experiment, I'm making them available for free (you can also pay if you want, but you don't have to.) I hope you like them, and that they'll help you navigate through any confusing situations that you find yourself in."
 
 [[items]]
 title = "SETI"
