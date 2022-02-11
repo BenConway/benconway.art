@@ -1,4 +1,18 @@
 [[items]]
+title = "Cognitive Archaeology"
+image = "/img/CognitiveArchaeology-web.jpg"
+thumb = "/img/CognitiveArchaeology-thumb.JPG"
+alt = "Four outlines of people surrounded by stone tools."
+description = "Tracing the origin of language with ancient stone tools!<br/>This image was inspired by an interview with Cory Stade on Language Log. She brought up a really fascinating concept that I hadn't thought of before---the idea that we can detect physical traces of the cognitive and linguistic capabilities of prehistoric people. It's based on the techniques used to make stone tools. In the oldest archaeological sites, there's significant variation in the tools (and, by inference, the techniques used to make them.) But at some point, the tools and techniques become more similar. It's likely that this increased similarity was caused by the toolmakers being able to learn how to do things from each other. I think it's really cool that someone can look at an ancient stone tool and determine things about the mind of the person who made it.<br/><br/>References:<br/><a href='https://languagelog.ldc.upenn.edu/nll/?p=52804#more-52804' target=blank>Language Log interview with Cory Stade.</a><br/><a href='https://journals.plos.org/plosone/article/figures?id=10.1371/journal.pone.0177063' target=blank>Additional information from this PLoS One article.</a>"
+
+[[items]]
+title = "Forest Pond"
+image = "/img/ForestPond-web.jpg"
+thumb = "/img/ForestPond-thumb.JPG"
+alt = "A pond in the forest with a mini-submarine in it."
+description = "I've written some more short fiction! It's about exploring a pond in the middle of a forest, using a robotic mini-submarine. Here it is: <a href='/fiction/forest-pond/'>Forest Pond.</a>"
+
+[[items]]
 title = "Interstate at Night"
 image = "/img/InterstateAtNight-web.jpg"
 thumb = "/img/InterstateAtNight-thumb.JPG"

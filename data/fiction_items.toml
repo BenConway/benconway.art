@@ -1,4 +1,11 @@
 [[items]]
+title = "Forest Pond"
+image = "/img/ForestPond-web.jpg"
+thumb = "/img/ForestPond-thumb.JPG"
+alt = "A pond in the forest with a mini-submarine in it."
+description = "I've written some more short fiction! It's about exploring a pond in the middle of a forest, using a robotic mini-submarine. Here it is: <a href='/fiction/forest-pond/'>Forest Pond.</a>"
+
+[[items]]
 title = "Desert Gardens (Expanded)"
 image = "/img/DesertGardens_Expanded/Vehicle-web.jpg"
 thumb = "/img/DesertGardens_Expanded/Vehicle-thumb.JPG"
