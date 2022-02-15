@@ -1,4 +1,81 @@
 [[items]]
+title = "Whimsy Pattern"
+image = "/img/CheeronymusPatternFinish-web.jpg"
+thumb = "/img/CheeronymusPatternFinish-thumb.JPG"
+alt = "Plants and wacky machinery."
+description = "Like riding a bicycle around in a garden full of wacky machinery.<br/> Fabric and wallpaper in this pattern available <a href='https://www.spoonflower.com/en/fabric/12357929-whimsy-pattern-by-benconwayart' target=blank>here.</a>"
+
+[[items]]
+title = "Yellow and Gray"
+image = "/img/YellowAndGray-web.jpg"
+thumb = "/img/YellowAndGray-thumb.JPG"
+alt = "Yellow circles and lines on a gray background."
+description = "This was an entry for Spoonflower's Yellow and Gray contest, partially inspired by the ideals of the 1920s design movement called De Stijl. That movement sought to use geometry to find peaceful patterns that would unite everyone.<br/> Fabric and wallpaper in this pattern available <a href='https://www.spoonflower.com/en/fabric/11113129-yellowandgray-by-benconwayart' target=blank>here.</a>"
+
+[[items]]
+title = "Oak Star (Green)"
+image = "/img/OakStar_Color1-web.jpg"
+thumb = "/img/OakStar_Color1-thumb.JPG"
+alt = "Green, tree-like patterns."
+description = "Like an oak tree if it grew in all directions, not just upward.<br/> Fabric and wallpaper in this pattern available <a href='https://www.spoonflower.com/en/fabric/12357996-oak-star-green-by-benconwayart' target=blank>here.</a>"
+
+[[items]]
+title = "Oak Star (Orange)"
+image = "/img/OakStar_Color2-web.jpg"
+thumb = "/img/OakStar_Color2-thumb.JPG"
+alt = "Orange, tree-like patterns."
+description = "Like an oak tree growing in all directions, with my favorite calming shades of orange.<br/> Fabric and wallpaper in this pattern available <a href='https://www.spoonflower.com/en/fabric/12358001-oak-star-orange-by-benconwayart' target=blank>here.</a>"
+
+[[items]]
+title = "Oak Star (Blue)"
+image = "/img/OakStar_Color3-web.jpg"
+thumb = "/img/OakStar_Color3-thumb.JPG"
+alt = "Blue, tree-like patterns."
+description = "An oak tree growing in all directions, in sky blue colors.<br/> Fabric and wallpaper in this pattern available <a href='https://www.spoonflower.com/en/fabric/12358009-oak-star-blue-by-benconwayart' target=blank>here.</a>"
+
+[[items]]
+title = "Abstract Pattern (Blue and Tan)"
+image = "/img/abstract-pattern-3-web.jpg"
+thumb = "/img/abstract-pattern-3-thumb.JPG"
+alt = "Fuzzy blue squares and circles on a tan background."
+description = "Blue and tan make me think of the beach, or an oasis in the desert.<br/> Fabric and wallpaper in this pattern available <a href='https://www.spoonflower.com/en/fabric/12357971-fuzzy-abstract-pattern-tan-blue-by-benconwayart' target=blank>here.</a>"
+
+[[items]]
+title = "Abstract Pattern (Purple and Pink)"
+image = "/img/abstract-pattern-3b-web.jpg"
+thumb = "/img/abstract-pattern-3b-thumb.JPG"
+alt = "Fuzzy purple/pink squares and circles on a blue background."
+description = "This color scheme makes me think of plums.<br/> Fabric and wallpaper in this pattern available <a href='https://www.spoonflower.com/en/fabric/12357985-fuzzy-abstract-pattern-purple-by-benconwayart' target=blank>here.</a>"
+
+[[items]]
+title = "Abstract Pattern (Yellow and Orange)"
+image = "/img/abstract-pattern-3c-web.jpg"
+thumb = "/img/abstract-pattern-3c-thumb.JPG"
+alt = "Fuzzy red/orange squares and circles on a yellow background."
+description = "This color scheme makes me think of relaxing at home after a long day.<br/> Fabric and wallpaper in this pattern available <a href='https://www.spoonflower.com/en/fabric/12357993-fuzzy-abstract-pattern-yellow-red-by-benconwayart' target=blank>here.</a>"
+
+[[items]]
+title = "Foggy Sailboats"
+image = "/img/sailboat-pattern-b-web.jpg"
+thumb = "/img/sailboat-pattern-b-thumb.JPG"
+alt = "Sailboats and a lighthouse in the ocean, gray."
+description = "A foggy morning by the ocean. Do you hear a foghorn?<br/> Fabric and wallpaper in this pattern available <a href='https://www.spoonflower.com/en/fabric/12357959-cloudy-sailboats-by-benconwayart' target=blank>here.</a>"
+
+[[items]]
+title = "Sunny Sailboats"
+image = "/img/sailboat-pattern-web.jpg"
+thumb = "/img/sailboat-pattern-thumb.JPG"
+alt = "Sailboats and a lighthouse in the ocean, blue."
+description = "A beautiful day at sea.<br/> Fabric and wallpaper in this pattern available <a href='https://www.spoonflower.com/en/fabric/12357942-sunny-sailboats-by-benconwayart' target=blank>here.</a>"
+
+[[items]]
+title = "Night Sailboats"
+image = "/img/sailboat-pattern-c-web.jpg"
+thumb = "/img/sailboat-pattern-c-thumb.JPG"
+alt = "Sailboats and a lighthouse in the ocean, black and yellow."
+description = "A dark night at sea. Good thing the lighthouses are there to guide the sailboats.<br/> Fabric and wallpaper in this pattern available <a href='https://www.spoonflower.com/en/fabric/12358856-night-sailboats-by-benconwayart' target=blank>here.</a>"
+
+[[items]]
 title = "Robot Sheep"
 image = "/img/RobotSheep_Combined-web.jpg"
 thumb = "/img/RobotSheep_Combined-thumb.JPG"
