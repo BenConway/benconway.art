@@ -13,7 +13,7 @@ margin-left: auto;
 margin-right: auto}
 </style>
 
-Lately I've been experimenting with data visualization. I also recently read Rachel Carson's classic book, _The Sea Around Us,_ which inspired me to try visualizing the tides. This page is a collection of some of my experiments. I'll update this page whenever I finish a new visualization. Data from https://tidesandcurrents.noaa.gov unless otherwise noted.
+Lately I've been experimenting with data visualization using Python and Matplotlib. I also recently read Rachel Carson's classic book, _The Sea Around Us,_ which inspired me to try visualizing the tides. This page is a collection of some of my experiments. I'll update this page whenever I finish a new visualization. Data from https://tidesandcurrents.noaa.gov unless otherwise noted.
 
 <img class="centered" src="/img/TideSound-web.jpg" width=95%></img>
 <br/>
