@@ -1,4 +1,11 @@
 [[items]]
+title = "Roger and Deer 2"
+image = "/img/RogerAndDeer2-web.jpg"
+thumb = "/img/RogerAndDeer2-thumb.JPG"
+alt = "A deer next to a pile of books."
+description = "Roger and his roommate Deer the deer are back! <a href='https://www.benconway.art/fiction/roger-and-deer-2/'> Roger and Deer 2. </a>"
+
+[[items]]
 title = "Cognitive Archaeology"
 image = "/img/CognitiveArchaeology-web.jpg"
 thumb = "/img/CognitiveArchaeology-thumb.JPG"
