@@ -1,4 +1,11 @@
 [[items]]
+title = "Cepheid Variables"
+image = "/img/CepheidVariables-web.jpg"
+thumb = "/img/CepheidVariables-thumb.JPG"
+alt = "A bunch of stars and waveforms."
+description = "Measuring the cosmos with flashing stars!<br/>This is an illustration about Cepheid variables. This type of star becomes brighter and fainter according to a regular pattern. In 1912, the astronomer Henrietta Swan Leavitt discovered that the speed of a Cepheid variable's pulsation is related to how much light it produces. If you see a Cepheid variable pulsing slowly, but it looks very faint, you can tell that it's actually a bright star that's just located far away. (A closer star would have to produce less light to look that faint, and if it produced less light it would blink faster.) Astronomers used this relationship, called Leavitt's Law, to determine that the Andromeda Galaxy is in fact a galaxy, and not just a cloud in our own galaxy. Leavitt's Law continues to be used to make accurate measurements of cosmic distances.<br/><br/>References and further reading:<br/><a href='https://www.aavso.org/vsots_delcep'>Delta Cephei</a><br/><a href='https://starchild.gsfc.nasa.gov/docs/StarChild/questions/cepheids.html'>Cepheids</a><br/><a href='https://apod.nasa.gov/apod/ap110701.html'>VAR!</a><br/><a href='https://www.mso.anu.edu.au/~jerjen/researchprojects/cepheids/cepheids.html'>Cepheid Research Project</a><br/><a href='http://www.aavso.org/cosmic-distance-ladder'>Cosmic Distance Ladder</a>"
+
+[[items]]
 title = "Cognitive Archaeology"
 image = "/img/CognitiveArchaeology-web.jpg"
 thumb = "/img/CognitiveArchaeology-thumb.JPG"
