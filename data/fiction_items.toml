@@ -1,4 +1,11 @@
 [[items]]
+title = "Child Kit"
+image = "/img/ChildKit-web.jpg"
+thumb = "/img/ChildKit-thumb.JPG"
+alt = "Plastic parts for a robot sitting on a table."
+description = "What if children matured completely in the course of a single day? That's the premise behind my new science fiction short story, which you can read <a href='/fiction/child-kit/'>here.</a>"
+
+[[items]]
 title = "Roger and Deer 2"
 image = "/img/RogerAndDeer2-web.jpg"
 thumb = "/img/RogerAndDeer2-thumb.JPG"

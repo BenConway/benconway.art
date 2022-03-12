@@ -1,4 +1,18 @@
 [[items]]
+title = "Daphne Odora"
+image = "/img/DaphneOdora_finish-web.jpg"
+thumb = "/img/DaphneOdora_finish-thumb.JPG"
+alt = "A bunch of flowers surrounded by leaves."
+description = "I've been doing some more botanical illustration recently---this is a Daphne odora plant. Special thanks to Michele Conway for identifying the plant."
+
+[[items]]
+title = "Child Kit"
+image = "/img/ChildKit-web.jpg"
+thumb = "/img/ChildKit-thumb.JPG"
+alt = "Plastic parts for a robot sitting on a table."
+description = "What if children matured completely in the course of a single day? That's the premise behind my new science fiction short story, which you can read <a href='/fiction/child-kit/'>here.</a>"
+
+[[items]]
 title = "Cepheid Variables"
 image = "/img/CepheidVariables-web.jpg"
 thumb = "/img/CepheidVariables-thumb.JPG"
