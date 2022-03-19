@@ -1,4 +1,11 @@
 [[items]]
+title = "Ranger/Persistence"
+image = "/img/RangerPersistence-B-web.jpg"
+thumb = "/img/RangerPersistence-B-thumb.JPG"
+alt = "A pile of spacecraft and the Moon."
+description = "Success isn't about never failing, it's about trying again until you succeed.<br/>This is an image based on the Ranger program, a 1960s-era project to crash a space probe into the Moon. Ranger 1 and 2 (at the bottom of the image) were prototype missions, intended to stay in Earth orbit to test the spacecraft systems. Unfortunately, they both ended up in orbits much too low to accomplish their mission. Ranger 3 (middle, left) was an ambitious mission to study the Moon up close and land a scientific instrument package on the lunar surface, but it missed the Moon entirely. Ranger 4 experienced a computer failure and made an uncontrolled crash landing on the far side of the Moon without returning any data. Ranger 5 missed the Moon again due to electrical problems. Ranger 6 was a much-simplified mission carrying only TV cameras to photograph the Moon up close---it reached the Moon all right, but then the cameras malfunctioned and didn't turn on. But finally, on July 31, 1964, Ranger 7 performed its mission perfectly---taking 4,316 pictures of the Moon and transmitting them back to Earth.<br/>So even if your previous attempts at something didn't work out, it doesn't mean that you'll never succeed.<br/><br/>Information from <a href='https://www.history.nasa.gov/SP-4210/pages/TOC.htm' target=blank>Lunar Impact: A History of Project Ranger.</a>"
+
+[[items]]
 title = "Daphne Odora"
 image = "/img/DaphneOdora_finish-web.jpg"
 thumb = "/img/DaphneOdora_finish-thumb.JPG"
