@@ -1,4 +1,11 @@
 [[items]]
+title = "Psychology for Penguins"
+image = "/img/PsychologyForPenguins-web.jpg"
+thumb = "/img/PsychologyForPenguins-thumb.JPG"
+alt = "A mirror and some pipes and plants in a brightly lit room."
+description = "Here's my latest album: <a href='https://benconway.bandcamp.com/album/psychology-for-penguins'>Psychology for Penguins!</a> You don't have to be a penguin to listen to it, though. (But if you are a penguin, hi! Here's an album for you!)<br/>The Song of the Tides is actually based on a <a href='/tide-sound/'>data visualization experiment</a>---I was experimenting with visualizing the tides, and I noticed that the tide graph had an interesting waveform to it. One of the Csound instruments in this song uses <a href='https://tidesandcurrents.noaa.gov/harcon.html?id=9414750'>NOAA data</a> to synthesize a similar waveform at audio frequencies---the sound of the interactions between the Moon, the Sun, and the sea.<br/>Morning Run is another experiment in a less-ambient direction---it has more of a melody and structure to it. It was partially inspired by a visit to New England in 2021.<br/>Mountain Snow was an experiment with acoustic instruments and extreme time-stretching using the Paulstretch algorithm. The whooshing sounds in the background are derived from the same recording as the primary melodic motif, just stretched out a lot.<br/>And Observe the Universe is inspired by a philosophical motto that I've been trying to live by: 'Stop worrying and observe the universe.' (The first half of the motto is much harder. I'll probably write a piece of music about that some day, too.)"
+
+[[items]]
 title = "Ranger/Persistence"
 image = "/img/RangerPersistence-B-web.jpg"
 thumb = "/img/RangerPersistence-B-thumb.JPG"
