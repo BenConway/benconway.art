@@ -1,4 +1,11 @@
 [[items]]
+title = "Radar Ornithology"
+image = "/img/RadarOrnithology_finish-web.jpg"
+thumb = "/img/RadarOrnithology_finish-thumb.JPG"
+alt = "A bunch of birds, two cities, and a radar tower."
+description = "Using weather radar to protect migrating birds!<br/>This is an illustration about radar ornithology---specifically the <a href='https://birdcast.info/'>BirdCast project.</a> All across the US, there are radar facilities to monitor the weather---but they also detect other things, like bats and insects and birds. This isn't useful for weather prediction, but it can be used for other things. By carefully analyzing the radar data, scientists can determine which radar returns come from flocks of migrating birds.<br/>When migrating birds pass through a brightly-lit city at night, it can be dangerous for them---the bright lights confuse the birds and can make them run into buildings. But since scientists can track the birds on radar, they can warn the cities in advance---people in the birds' flight path can then shut off their non-essential lights, allowing the birds to continue on their way safely.<br/><br/> References:<br/><a href='https://mailchi.mp/cornell/release-migration-is-on-turn-lights-off-1323897?e=f0b505020c'>Migration Is On, Turn Lights Off.</a><br/><a href='https://birdcast.info/'>BirdCast.info</a><br/><a href='https://birdcast.info/news/a-primer-for-using-weather-surveillance-radar-to-study-bird-migration/'>A Primer For Using Weather Surveillance Radar To Study Bird Migration</a><br/><a href='https://www.weather.gov/bmx/radar_dualpol'>Dual-Polarization Radar</a>"
+
+[[items]]
 title = "Ranger/Persistence"
 image = "/img/RangerPersistence-B-web.jpg"
 thumb = "/img/RangerPersistence-B-thumb.JPG"
