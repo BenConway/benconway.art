@@ -1,4 +1,11 @@
 [[items]]
+title = "Love-in-a-mist"
+image = "/img/Love-in-a-mist-web.jpg"
+thumb = "/img/Love-in-a-mist-thumb.JPG"
+alt = "A green plant with an airship-shaped pod on it."
+description = "This is a 3D model of a love-in-a-mist plant <a href='https://hort.extension.wisc.edu/articles/love-in-a-mist-nigella-damascena/' target=blank>(Nigella damascena.)</a> When I was growing up I used to pick the seed capsules and pretend that they were spaceships and dirigibles."
+
+[[items]]
 title = "Buckeye Morning"
 image = "/img/Buckeye_Morning-web.jpg"
 thumb = "/img/Buckeye_Morning-thumb.JPG"
