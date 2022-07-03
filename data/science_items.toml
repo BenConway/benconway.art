@@ -1,4 +1,11 @@
 [[items]]
+title = "Plant Complexity"
+image = "/img/PlantComplexity_B-web.jpg"
+thumb = "/img/PlantComplexity_B-thumb.JPG"
+alt = "A plant surrounded by particles, an atom, molecules, cells, a bee, clouds, and a globe."
+description = "Tracing the complexity of plants from the quantum to the planetary scale!<br/>Recently I was thinking about how complicated plants and ecosystems really are. They're made of fundamental particles, which form atoms, which form molecules (some simple, some very complicated), which form cells, which form plants and animals and insects, which form ecosystems, which have effects on complex weather patterns and the overall state of the planet.<br/><br/>Sources:<br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/5748352' target=blank>Chlorophyll</a><br/><a href='https://www.coursera.org/learn/basic-chemistry' target=blank>Introduction to Chemistry: Structures and Solutions</a><br/><a href='https://iupac.org/what-we-do/periodic-table-of-elements/' target=blank>Periodic Table</a><br/><a href=' https://winter.group.shef.ac.uk/orbitron/' target=blank>The Orbitron</a>"
+
+[[items]]
 title = "Love-in-a-mist"
 image = "/img/Love-in-a-mist-web.jpg"
 thumb = "/img/Love-in-a-mist-thumb.JPG"
