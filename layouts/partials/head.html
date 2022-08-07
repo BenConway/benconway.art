@@ -6,7 +6,7 @@
 		<meta name="keywords" content="{{ with .Site.Params.keywords }}{{ . }}{{ end }}" />
 		<meta name="author" content="{{ with .Site.Params.author }}{{ . }}{{ end }}" />
 		<link rel="icon" href="{{ .Site.Params.BaseURL }}favicon.ico" />
-{{ hugo.Generator }}
+{{ .Hugo.Generator }}
 <div class="topnav">
   <a href="/contact/">Contact</a>
   <a href="/about/">About</a>
