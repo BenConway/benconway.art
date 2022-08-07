@@ -1,4 +1,11 @@
 [[items]]
+title = "Adaptability"
+image = "/img/Adaptability-web.jpg"
+thumb = "/img/Adaptability-thumb.JPG"
+alt = "Three images of a spacecraft, a comet, the Earth, and the Sun."
+description = "Sometimes you do things that no one ever expected.<br/>This is an image of the International Cometary Explorer spacecraft. This spacecraft was launched in 1978 as International Sun/Earth Explorer 3, collecting data about Earth's magnetic field, the Sun, and their interactions with each other. Then, in 1982, NASA repurposed the probe to explore a comet. Using some gravity assists, the probe was sent towards Comet Giacobini-Zinner (and later, Halley's Comet), collecting data far beyond its designers' original intentions.<br/>But the story doesn't end there. In 2014, the vehicle's orbit brought it close to Earth again. An unofficial team was able to re-establish contact with the probe and briefly operate it---36 years after its launch.<br/>So you never know what you and your tools might be capable of. Even an old 1970s-era spacecraft had a lot of untapped potential, and clever thinking enabled people to accomplish a lot with it.<br/><br/>References:<br/><a href='https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-079A' target=blank>National Space Science Data Center</a><br/><a href='https://www.nbcnews.com/science/space/crowdfunded-project-reboots-36-year-old-isee-3-spacecraft-n118106' target=blank>Crowdfunded Project Reboots 36-Year-Old ISEE-3 Spacecraft</a><br/><a href='http://spacecollege.org/isee3/' target=blank>Space College: ISEE-3</a>"
+
+[[items]]
 title = "Plant Complexity"
 image = "/img/PlantComplexity_B-web.jpg"
 thumb = "/img/PlantComplexity_B-thumb.JPG"
