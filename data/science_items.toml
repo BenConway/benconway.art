@@ -1,4 +1,18 @@
 [[items]]
+title = "Redwood Forest"
+image = "/img/NiseneMarks1b-finish-web.jpg"
+thumb = "/img/NiseneMarks1b-finish-thumb.JPG"
+alt = "A large redwood forest, with a small bridge over a streams."
+description = "This image was inspired by a visit to the Forest of Nisene Marks State Park, in California. When I'm in a redwood forest, I can really feel how immense and mysterious the world is. But I can also take comfort in the knowledge that I can understand some of the world's mysteries, and in the fact that I'm a part of this world too."
+
+[[items]]
+title = "Redwood Science"
+image = "/img/RedwoodScience_revised-web.jpg"
+thumb = "/img/RedwoodScience_revised-thumb.JPG"
+alt = "The edge of a redwood forest, at night, with a circle in the sky."
+description = "This is a companion piece to Redwood Forest, depicting the steps of the scientific method (observe, hypothesize, test, adjust) in the midst of the natural world."
+
+[[items]]
 title = "Adaptability"
 image = "/img/Adaptability-web.jpg"
 thumb = "/img/Adaptability-thumb.JPG"
