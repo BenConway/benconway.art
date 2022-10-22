@@ -1,4 +1,11 @@
 [[items]]
+title = "Pectin Electronics"
+image = "/img/PectinElectronics-web.jpg"
+thumb = "/img/PectinElectronics-thumb.JPG"
+alt = "A jam jar, a strawberry, a bandage, some circuitry, and a bunch of molecules."
+description = "The jam in your fridge contains stuff that can be made into cutting-edge electronics.<br/>In 2017, some researchers at Caltech and ETH Zurich developed a method to make advanced electronic temperature sensors out of pectin. (Pectin is commonly encountered as the stuff that gives jam its thickness.) The resulting sensors are incredibly sensitive and flexible, which could make them useful for medical applications. Also, pectin is inexpensive and environmentally friendly to produce, so it could be used to make more sustainable electronics. You can read more <a href='https://www.caltech.edu/about/news/engineers-create-artificial-skin-feels-temperature-changes-53779' target=blank>here</a> and <a href='https://resolver.caltech.edu/CaltechAUTHORS:20170202-151758407' target=blank>here.</a><br/>Additional information from <a href='https://pubchem.ncbi.nlm.nih.gov/compound/441476' target=blank>here.</a>"
+
+[[items]]
 title = "Redwood Forest"
 image = "/img/NiseneMarks1b-finish-web.jpg"
 thumb = "/img/NiseneMarks1b-finish-thumb.JPG"
