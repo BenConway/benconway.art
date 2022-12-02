@@ -1,4 +1,11 @@
 [[items]]
+title = "Holiday Cards"
+image = "/img/HolidayCards.png"
+thumb = "/img/HolidayCards_thumb.png"
+alt = "An image of a whimsical house, a color burst, and an abstract geometric pattern."
+description = "Wishing you seasonally-appropriate positive emotions!<br/>I've been working on another batch of holiday cards recently. Whatever you celebrate, whatever your friends and family celebrate, these cards are for you. They're available from my <a href='https://www.zazzle.com/collections/holiday_cards-119339369424962202' target=blank>Zazzle store.</a> Enjoy!"
+
+[[items]]
 title = "Whimsy Pattern"
 image = "/img/CheeronymusPatternFinish-web.jpg"
 thumb = "/img/CheeronymusPatternFinish-thumb.JPG"
