@@ -1,4 +1,11 @@
 [[items]]
+title = "Lunar Orbiter Image Recovery Project"
+image = "/img/LOIRP-web.jpg"
+thumb = "/img/LOIRP-thumb.JPG"
+alt = "A satellite and a bunch of tools floating near the Earth and Moon."
+description = "Doing digital archaeology to rescue classic photos of the Moon!<br/>The story behind this image starts in the 1960s, when NASA launched a series of Lunar Orbiter missions to map the lunar surface. The Lunar Orbiters photographed the Moon on film (!), developed the film in an automated onboard laboratory, scanned the film, and beamed the images back to Earth. The images were recorded on reel-to-reel magnetic tape, and were very useful when the time came to choose the sites for the Apollo landings. Then the tapes were put in storage, and kind of got forgotten about for decades.<br/>Then, around 2008, scientists needed the images again. There were new spacecraft orbiting the Moon, but it was important to know what the Moon had looked like years earlier to see how it had changed over time. But no one had a working drive to read the images off of the tapes.<br/>So a group of people went and found an old tape drive. Then they restored it to working condition (no easy feat), and figured out how to connect it to a modern computer. Then they figured out how to decipher the data format used on the tapes, and eventually managed to recover all of the images.<br/> For more information, see <a href='https://moonviews.com/'>moonviews.com</a>"
+
+[[items]]
 title = "Ionian Enchantment"
 image = "/img/IonianEnchantment_boosted-web.jpg"
 thumb = "/img/IonianEnchantment_boosted-thumb.JPG"
