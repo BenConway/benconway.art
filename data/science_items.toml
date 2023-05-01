@@ -1,4 +1,11 @@
 [[items]]
+title = "COSPAS-SARSAT"
+image = "/img/SARSAT-web.jpg"
+thumb = "/img/SARSAT-thumb.JPG"
+alt = "A satellite orbiting Earth, a life preserver, and a helicopter."
+description = "Somewhere in the sky above you, there's a machine listening for any signs of trouble.<br/>This image was inspired by the COSPAS/SARSAT project. That international project uses satellites to detect distress calls and send help to people who need it---shipwrecked sailors, lost hikers, etc.<br/>COSPAS/SARSAT operates radio receivers attached to dozens of satellites. When someone has an emergency down here on the ground, they can send a signal up to the satellites, and the message then gets relayed to search-and-rescue personnel. It's estimated that at least 397 lives were saved by this system in 2022 alone.<br/>I think it's really cool that people have worked together to build this advanced system to keep people safe.<br/><br/>References:<br/><a href='https://blogs.nasa.gov/goes/2018/02/27/goes-s-prelaunch-briefings-today/' target=blank>GOES-S Prelaunch Briefing</a><br/><a href='http://cospas-sarsat.int/en/current-space-segment-status-and-sar-payloads' target=blank>Current Space Segment Status and SAR Payloads</a><br/><a href='https://www.noaa.gov/news-release/noaa-satellites-helped-save-397-lives-in-2022' target=blank>NOAA Satellites Helped Save 397 Lives in 2022</a>"
+
+[[items]]
 title = "Lunar Orbiter Image Recovery Project"
 image = "/img/LOIRP-web.jpg"
 thumb = "/img/LOIRP-thumb.JPG"
