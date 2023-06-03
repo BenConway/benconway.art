@@ -6,6 +6,13 @@ alt = "Three glowing pipes leading into a box, with a bunch of other pipes in th
 description = "Sometimes it's helpful to know <i>less</i> about the thing you're trying to understand.<br/v>This image was inspired by information from a couple of books I read---The Psychology of Intelligence Analysis (by Richards J. Heuer, Jr.), and How The Ocean Works (by Mark Denny.)<br/>The first book describes an experiment where horse-racing experts were asked to predict the outcome of a race based on varying amounts of information (from 5 pieces of information about each horse, up to 40 pieces of information.) Interestingly, increasing the amount of information available had very little effect on the accuracy of the predictions (though it did falsely increase the experts' confidence in their accuracy.)<br/>In the second book, the author describes a discussion of 3 mathematical models for understanding natural processes in the ocean. One model used 3 pieces of information and produced an 80% accurate result, one produced a 90% accurate result from seven or eight inputs, and one used fifteen pieces of information to produce a 95% accurate result. Dick Barber of Duke University made an interesting argument that the first model was, in some sense, better. While it only achieved 80% accuracy, it did so with very little information---and so the information it did use was clearly very important.<br/>So the next time you're trying to understand something, ask yourself what information you really need."
 
 [[items]]
+title = "Prickly Pear"
+image = "/img/PricklyPear_finish-web.jpg"
+thumb = "/img/PricklyPear_finish-thumb.JPG"
+alt = "A prickly pear cactus on a tan background."
+description = "Time for some more botanical illustration!<br/>This is a prickly pear cactus. When I was growing up I was really interested in cacti for a while. Then my interests shifted to manatees, then rabbits, and eventually cameras. (I've also been obsessed with space travel for most of my life.) Now I'm checking out cacti again, since they're still pretty interesting."
+
+[[items]]
 title = "COSPAS-SARSAT"
 image = "/img/SARSAT-web.jpg"
 thumb = "/img/SARSAT-thumb.JPG"

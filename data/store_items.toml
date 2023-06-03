@@ -20,20 +20,6 @@ alt = "Yellow circles and lines on a gray background."
 description = "This was an entry for Spoonflower's Yellow and Gray contest, partially inspired by the ideals of the 1920s design movement called De Stijl. That movement sought to use geometry to find peaceful patterns that would unite everyone.<br/> Fabric and wallpaper in this pattern available <a href='https://www.spoonflower.com/en/fabric/11113129-yellowandgray-by-benconwayart' target=blank>here.</a>"
 
 [[items]]
-title = "Oak Star (Green)"
-image = "/img/OakStar_Color1-web.jpg"
-thumb = "/img/OakStar_Color1-thumb.JPG"
-alt = "Green, tree-like patterns."
-description = "Like an oak tree if it grew in all directions, not just upward.<br/> Fabric and wallpaper in this pattern available <a href='https://www.spoonflower.com/en/fabric/12357996-oak-star-green-by-benconwayart' target=blank>here.</a>"
-
-[[items]]
-title = "Oak Star (Orange)"
-image = "/img/OakStar_Color2-web.jpg"
-thumb = "/img/OakStar_Color2-thumb.JPG"
-alt = "Orange, tree-like patterns."
-description = "Like an oak tree growing in all directions, with my favorite calming shades of orange.<br/> Fabric and wallpaper in this pattern available <a href='https://www.spoonflower.com/en/fabric/12358001-oak-star-orange-by-benconwayart' target=blank>here.</a>"
-
-[[items]]
 title = "Oak Star (Blue)"
 image = "/img/OakStar_Color3-web.jpg"
 thumb = "/img/OakStar_Color3-thumb.JPG"
@@ -48,39 +34,11 @@ alt = "Fuzzy blue squares and circles on a tan background."
 description = "Blue and tan make me think of the beach, or an oasis in the desert.<br/> Fabric and wallpaper in this pattern available <a href='https://www.spoonflower.com/en/fabric/12357971-fuzzy-abstract-pattern-tan-blue-by-benconwayart' target=blank>here.</a>"
 
 [[items]]
-title = "Abstract Pattern (Purple and Pink)"
-image = "/img/abstract-pattern-3b-web.jpg"
-thumb = "/img/abstract-pattern-3b-thumb.JPG"
-alt = "Fuzzy purple/pink squares and circles on a blue background."
-description = "This color scheme makes me think of plums.<br/> Fabric and wallpaper in this pattern available <a href='https://www.spoonflower.com/en/fabric/12357985-fuzzy-abstract-pattern-purple-by-benconwayart' target=blank>here.</a>"
-
-[[items]]
-title = "Abstract Pattern (Yellow and Orange)"
-image = "/img/abstract-pattern-3c-web.jpg"
-thumb = "/img/abstract-pattern-3c-thumb.JPG"
-alt = "Fuzzy red/orange squares and circles on a yellow background."
-description = "This color scheme makes me think of relaxing at home after a long day.<br/> Fabric and wallpaper in this pattern available <a href='https://www.spoonflower.com/en/fabric/12357993-fuzzy-abstract-pattern-yellow-red-by-benconwayart' target=blank>here.</a>"
-
-[[items]]
-title = "Foggy Sailboats"
-image = "/img/sailboat-pattern-b-web.jpg"
-thumb = "/img/sailboat-pattern-b-thumb.JPG"
-alt = "Sailboats and a lighthouse in the ocean, gray."
-description = "A foggy morning by the ocean. Do you hear a foghorn?<br/> Fabric and wallpaper in this pattern available <a href='https://www.spoonflower.com/en/fabric/12357959-cloudy-sailboats-by-benconwayart' target=blank>here.</a>"
-
-[[items]]
 title = "Sunny Sailboats"
 image = "/img/sailboat-pattern-web.jpg"
 thumb = "/img/sailboat-pattern-thumb.JPG"
 alt = "Sailboats and a lighthouse in the ocean, blue."
 description = "A beautiful day at sea.<br/> Fabric and wallpaper in this pattern available <a href='https://www.spoonflower.com/en/fabric/12357942-sunny-sailboats-by-benconwayart' target=blank>here.</a>"
-
-[[items]]
-title = "Night Sailboats"
-image = "/img/sailboat-pattern-c-web.jpg"
-thumb = "/img/sailboat-pattern-c-thumb.JPG"
-alt = "Sailboats and a lighthouse in the ocean, black and yellow."
-description = "A dark night at sea. Good thing the lighthouses are there to guide the sailboats.<br/> Fabric and wallpaper in this pattern available <a href='https://www.spoonflower.com/en/fabric/12358856-night-sailboats-by-benconwayart' target=blank>here.</a>"
 
 [[items]]
 title = "Earth Looking Out"
@@ -104,6 +62,20 @@ alt = "A sunburst on a black background, surrounded by molecules."
 description = "The Story of Energy.<br/>This story starts inside the Sun, where hydrogen atoms (the oldest atoms in the universe) combine in a powerful fusion reaction to release energy. The energy then spends the next 170,000 years or so (!) making its way to the surface of the Sun. Once it reaches the surface, the light crosses the 93-million-mile void to Earth in about eight minutes. Upon arriving on Earth, some of that energy is captured by plants using chlorophyll and chemically stored as glucose, which then powers much of the planet's biosphere directly or indirectly.<br/>Poster available <a href='https://www.zazzle.com/story_of_energy_poster-228038394904112230' target=blank>here.</a><br/><br/>References:<br/><a href='https://solarsystem.nasa.gov/solar-system/sun/in-depth/' target=blank>Sun In Depth</a><br/><a href='https://www.nasa.gov/specials/ocean-worlds/' target=blank>Ocean Worlds</a><br/><a href='https://apod.nasa.gov/apod/ap160125.html' target=blank>Astronomy Picture of the Day</a><br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/16667503' target=blank>Chlorophyll</a><br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/5793' target=blank>Glucose</a><br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/280' target=blank>Carbon dioxide</a><br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/977' target=blank>Oxygen</a><br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/962' target=blank>Water</a><br/><a href='https://ssec.si.edu/stemvisions-blog/what-photosynthesis' target=blank>What Is Photosynthesis?</a>"
 
 [[items]]
+title = "Robot Animal Bird"
+image = "/img/RA-Bird-web.jpg"
+thumb = "/img/RA-Bird-thumb.JPG"
+alt = "A bird on a branch, and a bird-shaped airplane on a runway."
+description = "Another Robot Animal! This is an airliner-inspired robot bird, for people who like airplanes and/or birds. Available on <a href='https://www.zazzle.com/airplane_bird_robot_animal_tote_bag-149407815704332430' target=blank>tote bags.</a>"
+
+[[items]]
+title = "Robot Animal Rabbit"
+image = "/img/RA-Rabbit-web.jpg"
+thumb = "/img/RA-Rabbit-thumb.JPG"
+alt = "A rabbit and an electronic rabbit."
+description = "A normal rabbit, and a vintage-electronics rabbit! Available on <a href='https://www.zazzle.com/robot_rabbit_lunchbox-256646847520261809' target=blank>lunchboxes</a> and <a href='https://www.zazzle.com/robot_rabbit_tote_bag-149145084940566388' target=blank>tote bags.</a>"
+
+[[items]]
 title = "Robot Sheep"
 image = "/img/RobotSheep_Combined-web.jpg"
 thumb = "/img/RobotSheep_Combined-thumb.JPG"
@@ -111,39 +83,39 @@ alt = "A robotic sheep and a normal sheep."
 description = "New Robot/Animals---Sheep and Robot Sheep! They like exploring their farm together, making ice cream, and reading. Robot Sheep also likes to identify plants. They're both very happy, and they want you to be happy too. Tote bag featuring Sheep and Robot Sheep now available on <a href='https://www.zazzle.com/robot_sheep_tote_bag-149233464764028787' target=blank>Zazzle.</a>"
 
 [[items]]
-title = "Windmill Card ($3.30)"
+title = "Robot Animal Squirrel"
+image = "/img/Squirrel-web.png"
+thumb = "/img/Squirrel-thumb.png"
+alt = "Squirrel"
+description = "This is the latest installment in the Robot Animal series, featuring a Mars-rover-inspired robot squirrel on one side and a regular squirrel on the other. It's available on <a href='https://www.zazzle.com/white_lunchbox-256958280394114733' target='_blank'>lunchboxes</a> and <a href='https://www.zazzle.com/robot_squirrel_tote_bag-149569353935518416' target='_blank'>tote bags.</a><br/><br/>Information for the Mars rover design was obtained from <a href='https://commons.m.wikimedia.org/wiki/File:Mars_Science_Laboratory_wheels.jpg' target=blank>this image</a> and <a href='https://space.stackexchange.com/questions/18270/planetary-rovers-six-wheels-vs-four/18271#18271' target=blank>this Stack Exchange answer.</a>"
+
+[[items]]
+title = "Windmill Card"
 image = "/img/WindmillCard-web.png"
 thumb = "/img/WindmillCard-thumb.png"
 alt = "Windmill Card"
 description = "This is the first in a series of holiday cards I'm releasing. Just the Moon, stars, and a windmill. It's intended to work for whatever holidays you celebrate. <a href ='https://www.zazzle.com/folded_holiday_card-256836444848945283' target='_blank'>Click here to buy.</a>"
 
 [[items]]
-title = "Whimsy Card ($3.30)"
+title = "Whimsy Card"
 image = "/img/Cheeronymus_card-web.png"
 thumb = "/img/Cheeronymus_card-thumb.png"
 alt = "Whimsy Card"
 description = "This is the second in my series of holiday cards, for whatever this season means to you. <a href ='https://www.zazzle.com/folded_holiday_card-256727128743700244' target='_blank'>Click here to buy.</a>"
 
 [[items]]
-title = "Snowflake Card ($3.30)"
+title = "Snowflake Card"
 image = "/img/SnowflakeCard-web.png"
 thumb = "/img/SnowflakeCard-thumb.png"
 alt = "Abstract blue and purple image of snowflakes."
 description = "Here's another one of my cards for all holidays! Snowflakes and calming colors, perfect for sending holiday greetings to your family and friends regardless of what holidays they celebrate. The inside is blank so there's plenty of space for a personal message.  <a href ='https://www.zazzle.com/snowflake_holiday_card-256835844819979012' target='_blank'>Click here to buy.</a>"
 
 [[items]]
-title = "Abstract Pattern"
-image = "/img/FabricPatterns/abstract-web.jpg"
-thumb = "/img/FabricPatterns/abstract-thumb.JPG"
-alt = "Abstract pattern"
-description = "Fabric pattern made of straight lines and simple angles. <a href='https://www.spoonflower.com/en/fabric/10520177-abstract-1-by-benconwayart' target='_blank'>Buy it here.</a><br/><a href='https://www.spoonflower.com/profiles/benconwayart/' target='_blank'>Click here to see all of my fabric patterns.</a>"
-
-[[items]]
-title = "Citrus Pattern"
-image = "/img/FabricPatterns/citrus-web.jpg"
-thumb = "/img/FabricPatterns/citrus-thumb.JPG"
-alt = "Lemons and lemon flowers"
-description = "Fabric pattern of 3D-rendered lemons and lemon blossoms. <a href='https://www.spoonflower.com/en/fabric/10520390-citrus-by-benconwayart' target='_blank'>Buy it here.</a><br/><a href='https://www.spoonflower.com/profiles/benconwayart/' target='_blank'>Click here to see all of my fabric patterns.</a>"
+title = "Friendship Card"
+image = "/img/CheeronymusFriendship_color-web.jpg"
+thumb = "/img/CheeronymusFriendship_color-thumb.JPG"
+alt = "Two squirrels beneath a machine labeled 'Friendship.'"
+description = "Whimsical plants and telephones and squirrels to show your friends how much you value their friendship! Because a good friendship involves growth, communication, and a little bit of quirkiness. Available as a <a href='https://www.zazzle.com/valentines_friendship_card-256147042503509321' target=blank>greeting card.</a>"
 
 [[items]]
 title = "Blackberry Pattern"
@@ -153,50 +125,8 @@ alt = "Blackberries"
 description = "Fabric pattern featuring 3D-rendered blackberries and leaves. <a href='https://www.spoonflower.com/en/fabric/10520326-blackberry-by-benconwayart' target='_blank'>Buy it here.</a><br/><a href='https://www.spoonflower.com/profiles/benconwayart/' target='_blank'>Click here to see all of my fabric patterns.</a>"
 
 [[items]]
-title = "Farmland Pattern"
-image = "/img/FabricPatterns/farmland-web.jpg"
-thumb = "/img/FabricPatterns/farmland-thumb.JPG"
-alt = "Farmland"
-description = "Fabric pattern inspired by aerial views of farmland. <a href='https://www.spoonflower.com/en/fabric/10520368-farmland-by-benconwayart' target='_blank'>Buy it here.</a><br/><a href='https://www.spoonflower.com/profiles/benconwayart/' target='_blank'>Click here to see all of my fabric patterns.</a>"
-
-[[items]]
-title = "Hillside Pattern"
-image = "/img/FabricPatterns/Hillside-web.jpg"
-thumb = "/img/FabricPatterns/Hillside-thumb.JPG"
-alt = "Hillside"
-description = "Fabric showing trees and grass and bushes and boulders. <a href='https://www.spoonflower.com/en/fabric/10520352-hillside-by-benconwayart' target='_blank'>Buy it here.</a><br/><a href='https://www.spoonflower.com/profiles/benconwayart/' target='_blank'>Click here to see all of my fabric patterns.</a>"
-
-[[items]]
-title = "K. F. Franciscii Pattern"
-image = "/img/FabricPatterns/kf-franciscii-web.jpg"
-thumb = "/img/FabricPatterns/kf-franciscii-thumb.JPG"
-alt = "Science fiction plants"
-description = "Science fiction flowers from my <a href='/fiction/chiron/'>webcomic,</a> the Chiron Expedition. <a href='https://www.spoonflower.com/en/fabric/10520250-k-f-franciscii-by-benconwayart' target='_blank'>Buy it here.</a><br/><a href='https://www.spoonflower.com/profiles/benconwayart/' target='_blank'>Click here to see all of my fabric patterns.</a>"
-
-[[items]]
 title = "Photosynthesis Pattern"
 image = "/img/FabricPatterns/photosynthesis-web.jpg"
 thumb = "/img/FabricPatterns/photosynthesis-thumb.JPG"
 alt = "Photosynthesis"
 description = "Pattern based on the science behind photosynthesis. <a href='https://www.spoonflower.com/en/fabric/10520213-photosynthesis-by-benconwayart' target='_blank'>Buy it here.</a><br/><a href='https://www.spoonflower.com/profiles/benconwayart/' target='_blank'>Click here to see all of my fabric patterns.</a><br/><br/>References:<br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/D-glucose'>https://pubchem.ncbi.nlm.nih.gov/compound/D-glucose</a><br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/carbon-dioxide#section=3D-Conformer'>https://pubchem.ncbi.nlm.nih.gov/compound/carbon-dioxide</a><br/><a href='https://ssec.si.edu/stemvisions-blog/what-photosynthesis'>https://ssec.si.edu/stemvisions-blog/what-photosynthesis</a>"
-
-[[items]]
-title = "Whimsy Pattern"
-image = "/img/FabricPatterns/whimsy-web.jpg"
-thumb = "/img/FabricPatterns/whimsy-thumb.JPG"
-alt = "Whimsical garden."
-description = "Fabric with whimsical animals gardening. <a href='https://www.spoonflower.com/en/fabric/10520279-whimsy-by-benconwayart' target='_blank'>Buy it here.</a><br/><a href='https://www.spoonflower.com/profiles/benconwayart/' target='_blank'>Click here to see all of my fabric patterns.</a>"
-
-[[items]]
-title = "Robot Animal Squirrel"
-image = "/img/Squirrel-web.png"
-thumb = "/img/Squirrel-thumb.png"
-alt = "Squirrel"
-description = "This is the latest installment in the Robot Animal series, featuring a Mars-rover-inspired robot squirrel on one side and a regular squirrel on the other. It's available on <a href='https://www.zazzle.com/white_lunchbox-256958280394114733' target='_blank'>lunchboxes</a> and <a href='https://www.zazzle.com/robot_squirrel_tote_bag-149569353935518416' target='_blank'>tote bags.</a><br/><br/>Information for the Mars rover design was obtained from <a href='https://commons.m.wikimedia.org/wiki/File:Mars_Science_Laboratory_wheels.jpg'>this image</a> and <a href='https://space.stackexchange.com/questions/18270/planetary-rovers-six-wheels-vs-four/18271#18271'>this Stack Exchange answer.</a>"
-
-[[items]]
-title = "Chess for Dogs"
-image = "/img/AlbumCover-low.png"
-thumb = "/img/AlbumCover-thumb.png"
-alt = "Chess for Dogs Album Cover"
-description = "This is the cover for my first album of ambient music, Chess for Dogs, which can be purchased on <a href='https://benconway.bandcamp.com/album/chess-for-dogs' target='_blank'>Bandcamp.</a> The objects in the cabinet reflect my musical process and the things that inspire me: travel and nature. The pieces of paper pinned to the back wall of the cabinet include snippets of Csound code. (Csound is the audio programming environment that I create most of my music with.) The chess piece, musical note, and metronome represent the fact that I create music by arranging sounds in a carefully planned fashion as opposed to improvising. The Erlenmeyer flask represents the process of experimenting with new sounds. The vehicle in the top center is the pop-top camper van that my family traveled in when I was growing up."
