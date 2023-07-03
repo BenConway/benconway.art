@@ -16,9 +16,11 @@ margin-right: auto }
 width=500></img>
 <br/>
 
-Ben Conway is an illustrator with the mind of a scientist. During his internship at the Jet Propulsion Laboratory, he was able to clarify technical discussions between members of the mission team several times, and his understanding of Hall-effect thrusters was good enough that someone asked if he had a physics background.
+Ben Conway is an illustrator with the mind of a scientist. He has been working with 3D modeling software since 2010, and has years of experience working with traditional drawing techniques.
 
 Ben spends a lot of his spare time reading up on new scientific results and trying to develop a working knowledge of fields that he's unfamiliar with. This can range from reading books to gain a better understanding of advanced physics, to conducting his own chemistry experiments to develop a new photographic process. With this knowledge of science and technology, Ben can interpret information and develop ways of depicting complex concepts---either to the general public, or to experts in different fields.
+
+Ben has had an internship at Caltech's Jet Propulsion Laboratory, where he interacted directly with the team planning NASA’s upcoming Psyche mission to create illustrations for mission planning documents. He was able to clarify discussions between team members several times, and his understanding of Hall-effect thrusters was considered impressive.
 
 In addition to illustrating, Ben likes to create electronic ambient music, write science fiction stories, and go hiking.
 
@@ -38,4 +40,4 @@ Ben's Bandcamp: [benconway](https://benconway.bandcamp.com/releases)
 ----
 
 <br/>
-All pages with a brown background on this website are works of fiction.
+All pages on this website with a brown background are works of fiction.
