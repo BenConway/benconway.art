@@ -1,4 +1,11 @@
 [[items]]
+title = "Critical Thinking"
+image = "/img/CriticalThinking-web.jpg"
+thumb = "/img/CriticalThinking-thumb.JPG"
+alt = "A checkboard with objects on it."
+description = "Simple techniques to think better!<br/>This is an image about techniques for figuring things out. One powerful technique is called Occam's Razor: simpler explanations tend to be better than more complicated ones. (For instance, fictitious conspiracy theories tend to involve a lot of events in different places and organizations, whereas real political misconduct tends to be fairly limited in scope.)<br/>Another helpful tool is to look for the right kind of evidence: instead of searching for evidence to confirm a particular idea, it's usually more helpful to look for evidence that lets you distinguish between different explanations (for instance, trying to find evidence that would disprove the idea you think is correct.)<br/><br/>References:<br/><a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233879' target=blank>An automated pipeline for the discovery of conspiracy and conspiracy theory narrative frameworks</a><br/><a href='https://www.cia.gov/static/9a5f1162fd0932c29bfed1c030edf4ae/Pyschology-of-Intelligence-Analysis.pdf' target=blank>The Psychology of Intelligence Analysis</a>"
+
+[[items]]
 title = "Model Simplicity"
 image = "/img/Simplicity-web.jpg"
 thumb = "/img/Simplicity-thumb.JPG"
