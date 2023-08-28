@@ -20,6 +20,20 @@ alt = "A prickly pear cactus on a tan background."
 description = "Time for some more botanical illustration!<br/>This is a prickly pear cactus. When I was growing up I was really interested in cacti for a while. Then my interests shifted to manatees, then rabbits, and eventually cameras. (I've also been obsessed with space travel for most of my life.) Now I'm checking out cacti again, since they're still pretty interesting."
 
 [[items]]
+title = "COSPAS-SARSAT"
+image = "/img/SARSAT-web.jpg"
+thumb = "/img/SARSAT-thumb.JPG"
+alt = "A satellite orbiting Earth, a life preserver, and a helicopter."
+description = "Somewhere in the sky above you, there's a machine listening for any signs of trouble.<br/>This image was inspired by the COSPAS/SARSAT project. That international project uses satellites to detect distress calls and send help to people who need it---shipwrecked sailors, lost hikers, etc.<br/>COSPAS/SARSAT operates radio receivers attached to dozens of satellites. When someone has an emergency down here on the ground, they can send a signal up to the satellites, and the message then gets relayed to search-and-rescue personnel. It's estimated that at least 397 lives were saved by this system in 2022 alone.<br/>I think it's really cool that people have worked together to build this advanced system to keep people safe.<br/><br/>References:<br/><a href='https://blogs.nasa.gov/goes/2018/02/27/goes-s-prelaunch-briefings-today/' target=blank>GOES-S Prelaunch Briefing</a><br/><a href='http://cospas-sarsat.int/en/current-space-segment-status-and-sar-payloads' target=blank>Current Space Segment Status and SAR Payloads</a><br/><a href='https://www.noaa.gov/news-release/noaa-satellites-helped-save-397-lives-in-2022' target=blank>NOAA Satellites Helped Save 397 Lives in 2022</a>"
+
+[[items]]
+title = "Lunar Orbiter Image Recovery Project"
+image = "/img/LOIRP-web.jpg"
+thumb = "/img/LOIRP-thumb.JPG"
+alt = "A satellite and a bunch of tools floating near the Earth and Moon."
+description = "Doing digital archaeology to rescue classic photos of the Moon!<br/>The story behind this image starts in the 1960s, when NASA launched a series of Lunar Orbiter missions to map the lunar surface. The Lunar Orbiters photographed the Moon on film (!), developed the film in an automated onboard laboratory, scanned the film, and beamed the images back to Earth. The images were recorded on reel-to-reel magnetic tape, and were very useful when the time came to choose the sites for the Apollo landings. Then the tapes were put in storage, and kind of got forgotten about for decades.<br/>Then, around 2008, scientists needed the images again. There were new spacecraft orbiting the Moon, but it was important to know what the Moon had looked like years earlier to see how it had changed over time. But no one had a working drive to read the images off of the tapes.<br/>So a group of people went and found an old tape drive. Then they restored it to working condition (no easy feat), and figured out how to connect it to a modern computer. Then they figured out how to decipher the data format used on the tapes, and eventually managed to recover all of the images.<br/> For more information, see <a href='https://moonviews.com/'>moonviews.com</a>"
+
+[[items]]
 title = "South San Francisco Fog"
 image = "/img/SouthSanFranciscoFog-web.jpg"
 thumb = "/img/SouthSanFranciscoFog-thumb.JPG"
@@ -41,6 +55,13 @@ alt = "A spacecraft with four solar panels in front of an hourglass shape, with 
 description = "Sometimes you need to delay your plans and wait for things to change.<br/>This is an image inspired by Mariner 9, a space probe that was launched in 1971 to orbit Mars and map that planet's surface. While en route, a massive storm developed, covering the entire Martian surface with thick dust clouds. Fortunately, Mariner 9 was equipped with a computer that could be re-programmed while in flight---so the mission controllers simply changed the program so that it would map the planet later, when the dust had cleared.<br/>Eventually, the storm did stop, and Mariner 9 continued its mission---discovering a 3000-kilometer-long canyon system, which was named Valles Marineris in honor of the spacecraft.<br/>So sometimes, you need to change your original plan because of factors you can't control, and wait a while for conditions to improve.<br/><br/>You can buy a poster of this image <a href='https://www.zazzle.com/patience_mariner_9_spacecraft_poster-228062342115238507' target = blank>here.</a><br/><br/>References:<br/><a href='https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-051A' target=blank>Mariner 9</a><br/><a href='https://www.nasa.gov/multimedia/imagegallery/image_feature_83.html' target = blank>Valles Marineris</a><br/><br/>Further Reading:<br/><a href='https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-045A' target = blank>Mars 2</a><br/><a href='https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-049A' target = blank>Mars 3</a><br/><a href='https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-049F' target = blank>Mars 3 Lander</a><br/><a href='http://mentallandscape.com/C_CatalogMars.htm' target = blank>Soviet Mars Images</a>"
 
 [[items]]
+title = "Holiday Cards"
+image = "/img/HolidayCards.png"
+thumb = "/img/HolidayCards_thumb.png"
+alt = "An image of a whimsical house, a color burst, and an abstract geometric pattern."
+description = "Wishing you seasonally-appropriate positive emotions!<br/>I've been working on another batch of holiday cards recently. Whatever you celebrate, whatever your friends and family celebrate, these cards are for you. They're available from my <a href='https://www.zazzle.com/collections/holiday_cards-119339369424962202' target=blank>Zazzle store.</a> Enjoy!"
+
+[[items]]
 title = "Pectin Electronics"
 image = "/img/PectinElectronics-web.jpg"
 thumb = "/img/PectinElectronics-thumb.JPG"
@@ -53,6 +74,13 @@ image = "/img/NiseneMarks1b-finish-web.jpg"
 thumb = "/img/NiseneMarks1b-finish-thumb.JPG"
 alt = "A large redwood forest, with a small bridge over a stream."
 description = "This image was inspired by a visit to the Forest of Nisene Marks State Park, in California. When I'm in a redwood forest, I can really feel how immense and mysterious the world is. But I can also take comfort in the knowledge that I can understand some of the world's mysteries, and in the fact that I'm a part of this world too."
+
+[[items]]
+title = "Redwood Science"
+image = "/img/RedwoodScience_revised-web.jpg"
+thumb = "/img/RedwoodScience_revised-thumb.JPG"
+alt = "The edge of a redwood forest, at night, with a circle in the sky."
+description = "This is a companion piece to Redwood Forest, depicting the steps of the scientific method (observe, hypothesize, test, adjust) in the midst of the natural world."
 
 [[items]]
 title = "Limited Invisibility"
@@ -111,11 +139,32 @@ alt = "A buoy floating on a lake."
 description = "This is one of a series of watercolor pencil landscapes I've done over the past year or so---this one is at Buckeye Lake State Park in central Ohio. It's not really a literal image of any specific time or place---it's a composite of several different scenes that I photographed during my visit."
 
 [[items]]
+title = "Castle Crags"
+image = "/img/CastleCrags-finish-web.jpg"
+thumb = "/img/CastleCrags-finish-thumb.JPG"
+alt = "Big rock formations and trees."
+description = "Another watercolor pencil landscape. This one is Castle Crags State Park, in northern California."
+
+[[items]]
+title = "Snowy Mountain"
+image = "/img/SnowyMountain_finish-web.jpg"
+thumb = "/img/SnowyMountain_finish-thumb.JPG"
+alt = "A snowy mountain and forested hillsides."
+description = "Another watercolor pencil image from Castle Crags State Park. This one's a view looking away from the crags themselves."
+
+[[items]]
 title = "El Chorro"
 image = "/img/ElChorro-finish-b-web.jpg"
 thumb = "/img/ElChorro-finish-b-thumb.JPG"
 alt = "Rock formations, trees, and golden grass."
 description = "Watercolor pencil landscape inspired by the landscape of El Chorro Regional Park in southern California."
+
+[[items]]
+title = "Moss Cryptobiosis"
+image = "/img/Moss_Cryptobiosis_C-web.jpg"
+thumb = "/img/Moss_Cryptobiosis_C-thumb.JPG"
+alt = "Green moss, brown moss inside an ice cube, and more green moss."
+description = "Tiny, resilient plants!<br/>This is an illustration about moss's ability to survive harsh conditions by entering a state called cryptobiosis. In this state, the moss isn't dead but it isn't really alive either---the moss can basically just pause its metabolism. Later, when conditions improve, the moss can start fully living again. Moss samples from Antarctica have been thawed and revived after being frozen for centuries.<br/>Partially based on information from 'Moss survival through in situ cryptobiosis after six centuries of glacier burial' (Cannone et al., Sci Rep., 2017.)<br/>Special thanks to James Shevock of the California Academy of Sciences for providing information that helped me ensure the accuracy of this image."
 
 [[items]]
 title = "Radar Ornithology"
@@ -137,6 +186,13 @@ image = "/img/RangerPersistence-B-web.jpg"
 thumb = "/img/RangerPersistence-B-thumb.JPG"
 alt = "A pile of spacecraft and the Moon."
 description = "Success isn't about never failing, it's about trying again until you succeed.<br/>This is an image based on the Ranger program, a 1960s-era project to crash a space probe into the Moon. Ranger 1 and 2 (at the bottom of the image) were prototype missions, intended to stay in Earth orbit to test the spacecraft systems. Unfortunately, they both ended up in orbits much too low to accomplish their mission. Ranger 3 (middle, left) was an ambitious mission to study the Moon up close and land a scientific instrument package on the lunar surface, but it missed the Moon entirely. Ranger 4 experienced a computer failure and made an uncontrolled crash landing on the far side of the Moon without returning any data. Ranger 5 missed the Moon again due to electrical problems. Ranger 6 was a much-simplified mission carrying only TV cameras to photograph the Moon up close---it reached the Moon all right, but then the cameras malfunctioned and didn't turn on. But finally, on July 31, 1964, Ranger 7 performed its mission perfectly---taking 4,316 pictures of the Moon and transmitting them back to Earth.<br/>So even if your previous attempts at something didn't work out, it doesn't mean that you'll never succeed.<br/><br/>Information from <a href='https://www.history.nasa.gov/SP-4210/pages/TOC.htm' target=blank>Lunar Impact: A History of Project Ranger.</a>"
+
+[[items]]
+title = "Daphne Odora"
+image = "/img/DaphneOdora_finish-web.jpg"
+thumb = "/img/DaphneOdora_finish-thumb.JPG"
+alt = "A bunch of flowers surrounded by leaves."
+description = "I've been doing some more botanical illustration recently---this is a Daphne odora plant. Special thanks to Michele Conway for identifying the plant."
 
 [[items]]
 title = "Child Kit"
@@ -172,6 +228,20 @@ image = "/img/ForestPond-web.jpg"
 thumb = "/img/ForestPond-thumb.JPG"
 alt = "A pond in the forest with a mini-submarine in it."
 description = "I've written some more short fiction! It's about exploring a pond in the middle of a forest, using a robotic mini-submarine. Here it is: <a href='/fiction/forest-pond/'>Forest Pond.</a>"
+
+[[items]]
+title = "Interstate at Night"
+image = "/img/InterstateAtNight-web.jpg"
+thumb = "/img/InterstateAtNight-thumb.JPG"
+alt = "Some buildings in a field at night."
+description = "This is an image from my recent trip to central Ohio, based off of the landscape at night under an overcast sky. It's not really a literal depiction of a specific place, it's a more like a composite of a few different scenes I observed while traveling on the interstate at night."
+
+[[items]]
+title = "Tide Visualizations"
+image = "/img/TideProfile-0-web.png"
+thumb = "/img/TideProfile-0-thumb.png"
+alt = "A jagged line on a blue background."
+description = "Lately I've been experimenting with data visualization. I also recently read Rachel Carson's classic book, The Sea Around Us, which inspired me to try visualizing the tides. <a href='/science/data-visualization/'>This page</a> is a collection of some of my experiments. I'll update the page whenever I finish a new visualization.<br/>Data from <a href='https://tidesandcurrents.noaa.gov' target=blank>NOAA.</a>"
 
 [[items]]
 title = "Synchrotron Palimpsest"
@@ -237,6 +307,14 @@ thumb = "/img/Photosynthesis_Color-thumb.JPG"
 alt = "A sunburst on a black background, surrounded by molecules."
 description = "The Story of Energy.<br/>This story starts inside the Sun, where hydrogen atoms (the oldest atoms in the universe) combine in a powerful fusion reaction to release energy. The energy then spends the next 170,000 years or so (!) making its way to the surface of the Sun. Once it reaches the surface, the light crosses the 93-million-mile void to Earth in about eight minutes. Upon arriving on Earth, some of that energy is captured by plants using chlorophyll and chemically stored as glucose, which then powers much of the planet's biosphere directly or indirectly. <br/>Poster available <a href='https://www.zazzle.com/story_of_energy_poster-228038394904112230' target=blank>here.</a><br/><br/>References:<br/><a href='https://solarsystem.nasa.gov/solar-system/sun/in-depth/' target=blank>Sun In Depth</a><br/><a href='https://www.nasa.gov/specials/ocean-worlds/' target=blank>Ocean Worlds</a><br/><a href='https://apod.nasa.gov/apod/ap160125.html' target=blank>Astronomy Picture of the Day</a><br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/16667503' target=blank>Chlorophyll</a><br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/5793' target=blank>Glucose</a><br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/280' target=blank>Carbon dioxide</a><br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/977' target=blank>Oxygen</a><br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/962' target=blank>Water</a><br/><a href='https://ssec.si.edu/stemvisions-blog/what-photosynthesis' target=blank>What Is Photosynthesis?</a>"
 
+[[items]]
+title = "IR Landscape"
+image = "/img/IR-Landscape-web.jpg"
+thumb = "/img/IR-Landscape-thumb.JPG"
+alt = "A landscape with rolling grassy hills, except the hills are white and the sky is black."
+description = "Invisible landscapes!<br/>Most landscape artists represent what the world looks like in visible light, but you don't have to. Lately I've been experimenting with infrared photography, and I decided to make a 3D illustration based on what the world looks like in infrared. Plants are highly reflective, basically white. The sky is black, except for clouds. Infrared photography is usually black and white, since traditional notions of color don't really work here---a color is a range of frequencies, and infrared light is made of frequencies 'below red,' so the color of any part of that spectrum is undefined since human eyes can't see it."
+
+
 
 [[items]]
 title = "Robot Sheep"
@@ -251,6 +329,13 @@ image = "/img/LucyMission-web.jpg"
 thumb = "/img/LucyMission-thumb.JPG"
 alt = "A spacecraft between two rows of images, with an orbit diagram behind it."
 description = "This is an illustration of NASA's Lucy mission, which launched in October 2021 to visit the Trojan asteroids. The Trojan asteroids are small objects caught between the gravity of a planet (in this case Jupiter) and the Sun, causing them to follow the same orbit as the planet. They are suspected to hold clues about the origin of the Solar System.<br/>Along the top of the image are the different types of data the mission plans to collect (thermal data, images, and spectra), and along the bottom are the instruments that will collect that data. In the middle, there's the Lucy vehicle itself and the trajectory through space that it will follow on its mission.<br/><br/>References: <br/><a href='https://www.nasa.gov/feature/goddard/2021/first-mission-to-trojans-installs-final-instrument' target=blank>First Mission to Trojans Installs Final Instrument</a><br/><a href='https://www.nasa.gov/feature/goddard/2021/first-mission-to-the-trojan-asteroids-integrates-its-second-scientific-instrument' target=blank>First Mission to Trojans Integrates Its Second Scientific Instrument</a><br/><a href='https://www.nasa.gov/feature/goddard/2020/first-scientific-instrument-installed-on-lucy-spacecraft' target=blank>First Scientific Instrument Installed On Lucy Spacecraft</a><br/><a href='https://www.nasa.gov/mission_pages/lucy/overview/index' target=blank>Lucy Overview</a><br/><a href='https://www.nasa.gov/content/lucy-spacecraft-and-payload' target=blank>Lucy Spacecraft and Payload</a><br/><a href='https://www.nasa.gov/image-feature/goddard/2020/lucy-spacecraft' target=blank>Lucy Spacecraft</a><br/><a href='http://lucy.swri.edu/2019/01/20/1000days.html' target=blank>1000 Days to Launch</a>"
+
+[[items]]
+title = "Earthshine"
+image = "/img/Earthshine-Ink-web.jpg"
+thumb = "/img/Earthshine-Ink-thumb.JPG"
+alt = "The Earth and the Moon, with rays of light reflecting between them."
+description = "This is an illustration of a very cool and easy-to-observe astronomical phenomenon called Earthshine. When the Moon is in a crescent phase, if the angles are just right and you look closely (binoculars will help) you can faintly see the dark part of the Moon illuminated by a bluish light. This is caused by sunlight reflecting off of Earth, illuminating the Moon, and reflecting back to your eyes. So if you get a chance---go look at the Moon, and see if you can spot the Earth's light reflecting back at you.<br/><a href='https://earthobservatory.nasa.gov/images/83782/earthshine' target=blank>More information.</a>"
 
 [[items]]
 title = "Physics for Squirrels"
@@ -286,6 +371,34 @@ image = "/img/SeekWonder-web.jpg"
 thumb = "/img/SeekWonder-thumb.JPG"
 alt = "A bunch of natural objects and scientific instruments."
 description = "Why discover new things? I think it has to do with seeking wonder. Finding new things out there that aren't what we're used to, and getting a new perspective on things we see every day. From fundamental particles, to coral reefs, to stars and distant galaxies---there's so much out there to see. This image is available as a poster from <a href='https://www.zazzle.com/print_value_poster_paper_matte-228825113765701999' target=blank>Zazzle.</a><br/><br/>References:<br/><a href='https://deepseacoraldata.noaa.gov/gallery/southern-california-bight'>NOAA Deep Sea Coral Data</a><br/><a href='https://oceanexplorer.noaa.gov/technology/subs/kraken2/kraken2.html'>Kraken 2</a><br/><a href='https://oceanexplorer.noaa.gov/technology/subs/alvin/alvin.html'>Alvin</a><br/><a href='https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells'>OpenStax Biology 2e</a><br/><a href='https://photojournal.jpl.nasa.gov/gallery/universe?subselect=Target%3AGalaxy+NGC+3310%3A'>Starburst Galaxy NGC3310</a><br/><a href='https://www.missionjuno.swri.edu/junocam/processing?source=junocam'>JunoCam</a>"
+
+[[items]]
+title = "Discovery of DNA Structure"
+image = "/img/DNA-web.png"
+thumb = "/img/DNA-thumb.png"
+alt = "A double helix on top of a stack of blue metal blocks with symbols on them."
+description = "This is an illustration about the discovery of the structure of DNA, and all of the evidence that had to be built up to make that discovery. It wasn't just a simple matter of one or two people figuring something out. First, Oswald Avery discovered that genetic information was carried by DNA---this was the foundational discovery that others built on. Then Alexander Todd discovered that the DNA molecule had a repeating structure of sugar and phosphate compounds. Erwin Chargaff discovered that certain components of the DNA molecule occurred at the same proportions relative to each other. Wilkins and Franklin discovered that the molecule was a helix or spiral. Models were proposed to explain the DNA structure but didn't fit the data, Linus Pauling's proposed model can be seen lying in the background. Finally, scientist Jerry Donohue suggested an alternate form of the molecules to use in the model, at which point Watson and Crick discovered the now-famous double helix structure. This image was inspired by <a href ='https://www.americanscientist.org/article/random-paths-to-frequency-hopping'>this article about a different subject.</a> For a list of references, click <a href='/science/dna/'>here.</a>"
+
+[[items]]
+title = "Snowflake Card"
+image = "/img/SnowflakeCard-web.png"
+thumb = "/img/SnowflakeCard-thumb.png"
+alt = "Abstract blue and purple image of snowflakes."
+description = "Here's another one of my cards for all holidays! Snowflakes and calming colors, perfect for sending holiday greetings to your family and friends regardless of what holidays they celebrate. The inside is blank so there's plenty of space for a personal message. You can get them from my <a href='https://www.zazzle.com/store/benconwayart/products'>Zazzle store.</a>"
+
+[[items]]
+title = "Whimsy Card"
+image = "/img/Cheeronymus_card-web.png"
+thumb = "/img/Cheeronymus_card-thumb.png"
+alt = "Whimsy Card"
+description = "This is the second in my series of holiday cards, for whatever this season means to you. They're available from my <a href='https://www.zazzle.com/store/benconwayart/products'>Zazzle store.</a>"
+
+[[items]]
+title = "Windmill Card"
+image = "/img/WindmillCard-web.png"
+thumb = "/img/WindmillCard-thumb.png"
+alt = "Windmill Card"
+description = "This is the first in a series of holiday cards I'm releasing. Just the Moon, stars, and a windmill. It's intended to work for whatever holidays you celebrate. They're available from my <a href='https://www.zazzle.com/store/benconwayart/products'>Zazzle store.</a>"
 
 [[items]]
 title = "Unicorn Spacecraft"
@@ -328,6 +441,13 @@ image = "/img/DeepCanvassing-web.png"
 thumb = "/img/DeepCanvassing-thumb.png"
 alt = "Deep Canvassing"
 description = "This is an image based on the psychological concept of deep canvassing. This is a technique for reducing bias and increasing empathy, by having individuals compare other people's experiences and perspectives with their own. <br/><br/>Inspired by information from <a href='https://www.happinesslab.fm/season-2-episodes/episode-9-the-war-for-kindness'>The Happiness Lab</a> and the paper <a href='https://science.sciencemag.org/content/352/6282/220'>Durably Reducing Transphobia: A field experiment on door-to-door canvassing.</a>"
+
+[[items]]
+title = "Longitude"
+image = "/img/Longitude-web.png"
+thumb = "/img/Longitude-thumb.png"
+alt = "Longitude"
+description = "This image is based on the concept of determining longitude at sea. In the 18th century this was a very difficult problem, since it required an accurate clock and the clocks of that era were inaccurate under shipboard conditions. Clockmaker John Harrison solved this problem by developing a series of advanced 'marine chronometers.' This image shows a stylized representation of the calculation of longitude, with visual elements inspired by the design of Harrison's clock H4.<br/><br/>Information from <a href='https://www.rmg.co.uk/discover/explore/longitude-found-john-harrison'>Royal Museums Greenwich</a> and the book Longitude by Dava Sobel."
 
 [[items]]
 title = "Neutrinos"
@@ -428,6 +548,13 @@ alt = "Deep Space Optical Communications"
 description = "This image shows the Deep Space Optical Communications (DSOC) system that will be carried aboard the Psyche vehicle. DSOC uses lasers to communicate between the vehicle and Earth at a higher bandwidth than is possible using radio-based communication. You can read more about DSOC <a href = 'https://www.jpl.nasa.gov/news/news.php?feature=6967'> here.</a>"
 
 [[items]]
+title = "16 Psyche"
+image = "/img/16Psyche-low.png"
+thumb = "/img/16Psyche-thumb.png"
+alt = "16 Psyche"
+description = "This illustration shows 16 Psyche itself. I referred to <a href='arxiv.org/abs/1810.02771'> Viikinkoski et. al.,</a> <a href='https://echo.jpl.nasa.gov/asteroids/shepard.etal.2016.psyche.pdf'> Shepard et. al.,</a> and work by the mission's principle investigator Lindy Elkins-Tanton. I also had JPL scientist Carol Polanskey review the image for accuracy."
+
+[[items]]
 title = "Road Trip"
 image = "/img/Roadtrip-low.png"
 thumb = "/img/Roadtrip-thumb.png"
@@ -440,6 +567,20 @@ image = "/img/Delta-DOR-low.png"
 thumb = "/img/Delta-DOR-thumb.png"
 alt = "Delta-DOR"
 description = "This illustration shows the delta differential one-way range technique for spacecraft navigation, which was explained to me by Sarah Bairstow of the Jet Propulsion Laboratory. Delta-DOR involves measuring the space vehicle's position from two ground stations, and calibrating these measurements by also measuring the radio emissions from a quasar. There isn't much information on Delta-DOR available online but there is a brief discussion of in on page 3 of <a href='https://www.jpl.nasa.gov/nmp/ds1/DS1_conclusion.pdf'> this PDF about a different mission.</a>"
+
+[[items]]
+title = "Doppler"
+image = "/img/doppler-low.png"
+thumb = "/img/doppler-thumb.png"
+alt = "Doppler"
+description = "This image explains the Doppler technique for spacecraft navigation, which was explained to me by Sarah Bairstow of JPL. An Earth-based ground station transmits a signal which is then retransmitted by the space vehicle. The vehicle's motion towards or away from the ground station shifts the radio frequency higher or lower because of the Doppler effect. By measuring this frequency shift the vehicle's motion can be tracked."
+
+[[items]]
+title = "Ranging"
+image = "/img/ranging-low.png"
+thumb = "/img/ranging-thumb.png"
+alt = "Ranging"
+description = "This image illustrates the spacecraft navigation technique of pseudonoise ranging. Sarah Bairstow explained this technique to me: a ground station transmits a pseudorandom noise signal, which is relayed back by the space vehicle. The ground station receives the retransmitted signal. By comparing the time a particular waveform was transmitted to the time it was received, the distance between the ground station and the vehicle can be determined."
 
 [[items]]
 title = "Clock"
@@ -484,6 +625,20 @@ alt = "Spacejunk Ion Propulsion"
 description = "This is another image from the Spacejunk project. It shows an ion engine, which is a type of spacecraft propulsion system. This illustration was created using a hybrid process involving 3D rendering and traditional acrylic painting. Information about ion propulsion was obtained from <a href='https://psyche.asu.edu/2018/01/19/electric-thrusters-psyche-spacecraft-work/'> this source.</a>"
 
 [[items]]
+title = "Spacejunk Scanner"
+image = "/img/Scanner-low.jpg"
+thumb = "/img/Scanner-thumb.jpg"
+alt = "Spacejunk Scanner"
+description = "This is a Spacejunk image showing a scanning device that can be used to search for parts. In the game, this works by allowing the player to look under more tiles per turn. This image was also created using the acrylic painting and 3D rendering process---first creating a 3D model for reference, making a painting based on it, photographing the painting, and then overlaying 3D modeled elements."
+
+[[items]]
+title = "Spacejunk Story 1"
+image = "/img/Story1-lowres.jpg"
+thumb = "/img/Story1-thumb.jpg"
+alt = "Spacejunk Story 1"
+description = "This Spacejunk image represents the monotony of life in an asteroid habitat surrounded by a junkyard. For this image I carefully manipulated Blender's Cycles rendering engine to produce a grainy effect---rather unusual, because that's generally the opposite of what one is trying to do."
+
+[[items]]
 title = "Spacejunk Story 2"
 image = "/img/Story2-lowres.jpg"
 thumb = "/img/Story2-thumb.jpg"
@@ -491,11 +646,46 @@ alt = "Spacejunk Story 2"
 description = "This Spacejunk image represents the hope that space exploration can give to people. The background is an acrylic painting that was photographed and brought into the 3D modeling program. The astronaut figure was then added digitally."
 
 [[items]]
+title = "Spacejunk Hazard"
+image = "/img/hazard.jpg"
+thumb = "/img/hazard-thumb.jpg"
+alt = "Spacejunk Hazard"
+description = "This Spacejunk image depicts the hazards that one might encounter when digging for spacecraft parts in a junkyard. This is one of the few Spacejunk images without any 3D elements in the final version---I created a 3D model and made a painting based on that, and then decided that the painting worked on its own and didn't need any further processing."
+
+[[items]]
+title = "Spacejunk Radio"
+image = "/img/Radio.jpg"
+thumb = "/img/Radio-thumb.jpg"
+alt = "Spacejunk Radio"
+description = "This is a Spacejunk card showing a communication module you can install on your spacecraft. There are several antennas---a large dish-shaped high-gain antenna, and two smaller low-gain antennas. The high-gain antenna can send more data, but it must be aimed directly at the ground station. The low-gain antennas can’t send as much data, but they don’t require the spacecraft to be aimed as precisely. <a href='https://www.jpl.nasa.gov/edu/teach/activity/build-a-satellite/'>(Source)</a>"
+
+[[items]]
+title = "Spacejunk Lander"
+image = "/img/Landing-Legs.jpg"
+thumb = "/img/Landing-Legs-thumb.jpg"
+alt = "Spacejunk Lander"
+description = "This is a Spacejunk module that allows your spacecraft to land on things. Landing requires something to support the spacecraft on the ground, like the legs on this propulsion unit. Whether the spacecraft lands or stays in space is part of the spacecraft’s ‘mission profile.’ A lot of effort goes into coming up with a good mission profile that will let us learn interesting things, and the process of getting a particular mission approved is very competitive."
+
+[[items]]
+title = "Spacejunk Payload"
+image = "/img/Core3-low.jpg"
+thumb = "/img/Core3-thumb.jpg"
+alt = "Spacejunk Payload"
+description = "This is a Spacejunk payload module. The payload of a spacecraft is all of the equipment that the spacecraft carries to perform its mission once it reaches its destination. For the gold-foil effects on this and other Spacejunk images, I overlaid a partially-transparent 3D model onto an acrylic painting."
+
+[[items]]
 title = "Pioneer"
 image = "/img/pioneer.png"
 thumb = "/img/pioneer-thumb.png"
 alt = "Pioneer"
 description = "Image of the Pioneer 11 spacecraft, in front of a stylized representation of its mission---crossing the asteroid belt, flying by Jupiter and Saturn, and then exploring the outermost reaches of the Solar System. While modeling the spacecraft, I referred to the NASA publication <a href='https://history.nasa.gov/SP-349/contents.htm'>SP-349</a> and the article <a href='https://www.nasa.gov/centers/ames/news/2013/pioneer11-40-years.html'>NASA Celebrates Four Decades of Plucky Pioneer 11.</a> I also used data from <a href='https://ssd.jpl.nasa.gov/?satellites'>JPL Solar System Dynamics</a> to ensure accuracy in the placement and size of the planets' moons."
+
+[[items]]
+title = "Escape A"
+image = "/img/escape-a.png"
+thumb = "/img/escape-a-thumb.png"
+alt = "Escape A"
+description = "This is an experimental piece, combining traditional and digital media. For a long time my traditional and digital practices were separate---this piece represents climbing over the wall that separates things and escaping into a world where combinations are possible. The trees in the foreground were painted with acrylics, as was the wall texture. The grass is a particle system with a digitally-painted texture. The ground behind the wall was made using ink wash, and the background trees were drawn with a brush pen."
 
 [[items]]
 title = "Music Lesson"
@@ -510,6 +700,13 @@ image = "/img/hyperion.png"
 thumb = "/img/hyperion-thumb.png"
 alt = "Hyperion"
 description = "This image was inspired by Saturn's moon Hyperion, which is suspected to have an elaborate maze of caves below its surface. I referred to various NASA Astronomy Picture of the Day pages (including <a href='https://apod.nasa.gov/apod/ap180514.html'>this one</a>) to get information on Hyperion's appearance, and then imagined this view of the exploration of moon's interior. The astronauts' space suits and equipment are imagined, but intended to be realistic."
+
+[[items]]
+title = "Asteroid Environs"
+image = "/img/asteroid-environs.png"
+thumb = "/img/asteroid-environs-thumb.png"
+alt = "Asteroid Environs"
+description = "3D rendering of a network of space stations tethered to a near-Earth asteroid. Inspired by the randomly-generated phrase 'Vesta Environs.' In this image, there are several different types of space station---habitat stations, agriculture stations, solar power stations, and docking stations. They're supported by their solar sails, while remaining connected to the asteroid by tethers. Elsewhere on the asteroid itself, mining and manufacturing stations are visible---and in the distance, free-flying science spacecraft can be seen."
 
 [[items]]
 title = "Eclipse"
