@@ -1,4 +1,11 @@
 [[items]]
+title = "The Story of Earth"
+image = "/img/EarthStory_revised-web.jpg"
+thumb = "/img/EarthStory_revised-thumb.JPG"
+alt = "A light blue circle surrounding a blue-and-green circle surrounding a brown circle."
+description = "There's a lot going on in the world!<br/>About 1,800 miles below you, there's a ball of solid metal, surrounded by liquid metal. The liquid metal flows and generates a magnetic field that shields the planet against hazardous radiation from space.<br/>Up here at the surface, there are layers of silicate-based rocks---a lot of different kinds, each the product of processes that take place over millions of years. (And they're not done---rock formations are constantly eroding, with their materials being carried off and eventually reprocessed into other rocks.)<br/>Then there's the ocean, which covers about 70% of the Earth's surface. Only 5% of its volume has really been explored---there's a lot still to discover out there.<br/>And all throughout the world, there's life---plants, animals, you, me, etc.<br/>Surrounding us, there's the atmosphere, which is filled with amazing transient formations like clouds and weather fronts. At every moment in time, it's a little bit different.<br/>And then, outside of the atmosphere, there's a whole universe of stars and planets.<br/><br/>References:<br/><a href='https://sos.noaa.gov/catalog/datasets/land-to-sea-ratio/' target = blank>NOAA: Land to Sea Ratio</a><br/><a href='https://oceanexplorer.noaa.gov/technology/magnetometer/magnetometer.html' target=blank>NOAA: Magnetometer</a><br/><a href='https://oceanliteracy.unesco.org/ocean-exploration/' target=blank>UNESCO: Ocean Exploration</a><br/><a href='https://education.nationalgeographic.org/resource/core/' target=blank<National Geographic: Earth's Core</a>"
+
+[[items]]
 title = "Critical Thinking"
 image = "/img/CriticalThinking-web.jpg"
 thumb = "/img/CriticalThinking-thumb.JPG"
