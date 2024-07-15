@@ -43,10 +43,10 @@
 	top: auto;
 	left: 0;
 	width: 100%;
+	height: 75%;
 	margin-top: 10px;
 	text-align: left;
-	height: 0;
-	overflow: hidden;
+	overflow: scroll;
 }
 
 .og-expander-inner {
@@ -92,7 +92,7 @@
 	width: 50%;
 	float: left;
 	height: 100%;
-	overflow: hidden;
+	overflow: scroll;
 	position: relative;
 }
 
@@ -132,7 +132,7 @@
 }
 
 
-/*og-details a::before {
+og-details a::before {
 	font-weight: 400;
 	font-size: 16px;
 	line-height: 22px;
@@ -142,7 +142,7 @@
 .og-details a:hover {
 	border-color: #999;
 	color: #999;
-}*/
+}
 
 .og-loading {
 	width: 20px;

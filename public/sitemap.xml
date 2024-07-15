@@ -1,64 +1,120 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://www.benconway.art/making/pillows/</loc>
+    <loc>http://localhost:1313/archive/</loc>
+    <lastmod>2023-08-27T13:01:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-08-27T13:01:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/useful-resources/</loc>
+    <lastmod>2023-07-04T16:56:37-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fiction/limited-invisibility/</loc>
+    <lastmod>2022-08-12T16:41:02-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fiction/finding-yourself/</loc>
+    <lastmod>2022-06-24T17:22:13-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/making/crystals/</loc>
+    <lastmod>2022-04-30T16:52:25-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/</loc>
+    <lastmod>2022-03-22T13:01:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tide-sound/</loc>
+    <lastmod>2022-01-27T14:57:46-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fiction/child-kit/</loc>
+    <lastmod>2022-01-25T18:09:03-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fiction/roger-and-deer-2/</loc>
+    <lastmod>2022-01-25T17:48:02-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fiction/forest-pond/</loc>
+    <lastmod>2022-01-24T13:59:39-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/science/data-visualization/</loc>
+    <lastmod>2022-01-01T18:24:31-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/science/psychology/</loc>
+    <lastmod>2021-07-13T21:17:34-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fiction/desert-gardens-expanded/</loc>
+    <lastmod>2021-01-16T09:48:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/wavetables/</loc>
+    <lastmod>2021-01-09T14:50:58-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/science/dna/</loc>
+    <lastmod>2020-12-15T09:52:57-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fiction/unicorn-spacecraft/</loc>
+    <lastmod>2020-11-27T10:04:31-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fiction/desert-gardens/</loc>
+    <lastmod>2020-10-30T13:06:28-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fiction/roger-and-deer/</loc>
+    <lastmod>2020-10-25T11:13:19-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fiction/chiron5/</loc>
+    <lastmod>2020-10-18T15:13:24-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fiction/chiron4/</loc>
+    <lastmod>2020-08-21T09:28:45-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fiction/chiron3/</loc>
+    <lastmod>2020-07-10T12:17:08-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/surface/theobroma/</loc>
+    <lastmod>2020-07-04T10:54:50-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/3d_intro/</loc>
+    <lastmod>2020-07-04T09:31:43-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fiction/chiron1/</loc>
+    <lastmod>2020-07-04T09:14:08-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fiction/chiron2/</loc>
+    <lastmod>2020-06-28T14:03:30-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fiction/</loc>
+    <lastmod>2020-06-28T10:07:03-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/store/</loc>
+    <lastmod>2020-06-28T10:07:03-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/science/</loc>
+    <lastmod>2020-06-28T09:40:21-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2020-06-28T09:36:57-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/making/</loc>
+    <lastmod>2020-06-28T09:34:11-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/surface/</loc>
+    <lastmod>2020-06-28T09:34:11-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/surface/pillows/</loc>
     <lastmod>2020-05-12T15:54:23-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.benconway.art/fiction/chiron/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fiction/chiron/</loc>
     <lastmod>2020-05-10T08:54:13-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.benconway.art/science/natural_cycles/</loc>
+  </url><url>
+    <loc>http://localhost:1313/science/natural_cycles/</loc>
     <lastmod>2020-05-08T21:24:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.benconway.art/fiction/orrery/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fiction/orrery/</loc>
     <lastmod>2020-05-08T16:38:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.benconway.art/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2020-03-07T09:13:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://www.benconway.art/</loc>
-    <lastmod>2020-05-12T15:54:23-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.benconway.art/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.benconway.art/fiction/</loc>
-    <lastmod>2020-05-10T08:54:13-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.benconway.art/making/</loc>
-    <lastmod>2020-05-12T15:54:23-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.benconway.art/science/</loc>
-    <lastmod>2020-05-08T21:24:00-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.benconway.art/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
 </urlset>

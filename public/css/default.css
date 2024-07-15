@@ -14,6 +14,23 @@ html { height: 100%; }
 	margin: 0;
 }
 
+a img:hover {
+    filter: opacity(75%) brightness(1.1) saturate(1.5);
+}
+
+.topnav {
+    background-color: #444;
+    overflow: hidden;
+    padding: 5px;
+}
+
+.topnav a {
+    float: right;
+    padding: 10px;
+    font-size: 20px;
+    color: #ddf
+}
+
 /* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
 .clearfix:before,
 .clearfix:after {
@@ -80,8 +97,7 @@ a {
 	padding: 50px 20px;
 }
 
-/* Begin weird stuff from Ben */
-footer { padding: 5px}
+
 
 .page-content {
     max-width: 900px;
@@ -96,7 +112,7 @@ footer { padding: 5px}
 }
 
 footer {
-    text-align: justify;
+    text-align: center;
     padding: 5px;
     position: relative;
     margin-left: auto;

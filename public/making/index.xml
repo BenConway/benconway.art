@@ -1,24 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Makings on Ben Conway</title>
-    <link>https://www.benconway.art/making/</link>
-    <description>Recent content in Makings on Ben Conway</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Surface Design on Ben Conway</title>
+    <link>http://localhost:1313/making/</link>
+    <description>Recent content in Surface Design on Ben Conway</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2020 15:54:23 -0700</lastBuildDate>
-    
-	<atom:link href="https://www.benconway.art/making/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 30 Apr 2022 16:52:25 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/making/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pillows</title>
-      <link>https://www.benconway.art/making/pillows/</link>
-      <pubDate>Tue, 12 May 2020 15:54:23 -0700</pubDate>
-      
-      <guid>https://www.benconway.art/making/pillows/</guid>
-      <description>IMG.centered { display: block; margin-left: auto; margin-right: auto }</description>
+      <title>Crystal Growing</title>
+      <link>http://localhost:1313/making/crystals/</link>
+      <pubDate>Sat, 30 Apr 2022 16:52:25 -0700</pubDate>
+      <guid>http://localhost:1313/making/crystals/</guid>
+      <description>These images are close-up photos of some of my recent experiments in crystal growing. Who knew you could make stuff like this out of salt, ink, and baking soda? This is a close-up photo of one of my first experiments&amp;mdash;baking soda on a piece of clear plastic. I can&amp;rsquo;t remember now if this one also had salt in it or not. I dissolved the crystals again and put a piece of paper in the solution.</description>
     </item>
-    
   </channel>
 </rss>

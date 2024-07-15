@@ -1,76 +1,215 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ben Conway</title>
-    <link>https://www.benconway.art/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Ben Conway</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2020 15:54:23 -0700</lastBuildDate>
-    
-	<atom:link href="https://www.benconway.art/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 04 Jul 2023 16:56:37 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Useful Resources</title>
+      <link>http://localhost:1313/useful-resources/</link>
+      <pubDate>Tue, 04 Jul 2023 16:56:37 -0700</pubDate>
+      <guid>http://localhost:1313/useful-resources/</guid>
+      <description>This page is a just a miscellaneous collection of resources that I&amp;rsquo;ve found useful over the years.&#xA;Free software:&#xA;Inkscape A high-quality vector graphics program&amp;mdash;makes a good, free replacement for Adobe Illustrator.&#xA;Blender This is probably my favorite piece of software&amp;mdash;a highly versatile 3D modeling program. The learning curve is steep, but it&amp;rsquo;s worth it.&#xA;MuseScore MuseScore is a simple and straightforward program for creating music scores.&#xA;FreeCAD 3D computer-assisted design program.</description>
+    </item>
+    <item>
+      <title>Limited Invisibility</title>
+      <link>http://localhost:1313/fiction/limited-invisibility/</link>
+      <pubDate>Fri, 12 Aug 2022 16:41:02 -0700</pubDate>
+      <guid>http://localhost:1313/fiction/limited-invisibility/</guid>
+      <description>The Story The truck drove through the gate, and parked in a gravel parking lot between two windowless gray buildings. It was immediately surrounded by security guards. The driver got out and showed them her identification paperwork.&#xA;Back in the cargo compartment, where no one could see them, the passenger put on a special pair of boots and a vest covered with lenses and mirrors and complicated equipment. They flipped a switch&amp;mdash;and vanished.</description>
+    </item>
+    <item>
+      <title>Finding Yourself</title>
+      <link>http://localhost:1313/fiction/finding-yourself/</link>
+      <pubDate>Fri, 24 Jun 2022 17:22:13 -0700</pubDate>
+      <guid>http://localhost:1313/fiction/finding-yourself/</guid>
+      <description>Rahas stood in the makeshift laboratory, looking at the patterns on the oscilloscope screen.&#xA;Something&amp;rsquo;s not right&amp;hellip;&#xA;Something&amp;rsquo;s still wrong&amp;hellip;&#xA;I&amp;rsquo;m still not working properly&amp;hellip;&#xA;They looked down at the switchboard on their chest. It was supposed to integrate the signals from the different parts of their mind, but it wasn&amp;rsquo;t. At least, not correctly.&#xA;They looked over at the grimy sheet of graph paper, and at the official wiring diagram next to it.</description>
+    </item>
+    <item>
+      <title>Crystal Growing</title>
+      <link>http://localhost:1313/making/crystals/</link>
+      <pubDate>Sat, 30 Apr 2022 16:52:25 -0700</pubDate>
+      <guid>http://localhost:1313/making/crystals/</guid>
+      <description>These images are close-up photos of some of my recent experiments in crystal growing. Who knew you could make stuff like this out of salt, ink, and baking soda? This is a close-up photo of one of my first experiments&amp;mdash;baking soda on a piece of clear plastic. I can&amp;rsquo;t remember now if this one also had salt in it or not. I dissolved the crystals again and put a piece of paper in the solution.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/tide-sound/</link>
+      <pubDate>Thu, 27 Jan 2022 14:57:46 -0800</pubDate>
+      <guid>http://localhost:1313/tide-sound/</guid>
+      <description>I&amp;rsquo;ve been doing some more experiments with unusual sound sources! This one grew out of a data visualization project&amp;mdash;graphing the tides in San Francisco Bay. I realized that the tide graph had an interesting waveform to it, and I wondered what it would sound like played back at audio frequencies. The NOAA website has lists of the harmonic constituents that make up the tide graphs for a particular location. (Quick explanation if you don&amp;rsquo;t know what those are&amp;mdash;any complex waveform can be represented as a bunch of simpler waveforms added together.</description>
+    </item>
+    <item>
+      <title>Child Kit</title>
+      <link>http://localhost:1313/fiction/child-kit/</link>
+      <pubDate>Tue, 25 Jan 2022 18:09:03 -0800</pubDate>
+      <guid>http://localhost:1313/fiction/child-kit/</guid>
+      <description>Sarah and Nathan had decided to build a child.&#xA;&amp;ldquo;I&amp;rsquo;ve cleared off the table,&amp;rdquo; Nathan said.&#xA;&amp;ldquo;OK, great.&amp;rdquo; Sarah set the down the big cardboard box, and they both started taking the brightly-colored plastic pieces out of it.&#xA;At the bottom of the box, there was a tool kit and an instruction booklet&amp;mdash;fifty pages of semi-comprehensible cave drawings. Sarah looked at the first few pages, and started snapping together the main frame.</description>
+    </item>
+    <item>
+      <title>Roger and Deer 2</title>
+      <link>http://localhost:1313/fiction/roger-and-deer-2/</link>
+      <pubDate>Tue, 25 Jan 2022 17:48:02 -0800</pubDate>
+      <guid>http://localhost:1313/fiction/roger-and-deer-2/</guid>
+      <description>It was a quiet Saturday evening. Roger was sitting in the armchair doing a Sudoku puzzle, and Deer was laying on the floor reading.&#xA;There was a gentle buzz from the servos in one of Deer&amp;rsquo;s arms as he turned the page. He hadn&amp;rsquo;t used to read all that much&amp;mdash;his old robotic arm didn&amp;rsquo;t have the dexterity to turn pages or operate an e-reader, so Roger had included &amp;lsquo;ability to turn pages&amp;rsquo; in the design specs for the new ones.</description>
+    </item>
+    <item>
+      <title>Forest Pond</title>
+      <link>http://localhost:1313/fiction/forest-pond/</link>
+      <pubDate>Mon, 24 Jan 2022 13:59:39 -0800</pubDate>
+      <guid>http://localhost:1313/fiction/forest-pond/</guid>
+      <description>There&amp;rsquo;s a small pond in the center of the woods, with traces of a stone foundation nearby. A frog sits on a fallen tree. A few birds fly past.&#xA;No humans have been here for a hundred years. The closest town is Rutherford Junction, sixty miles away at the edge of the wilderness. It&amp;rsquo;s not much of a town&amp;mdash;ten houses, a general store, one paved road, a tiny park, and a very small library.</description>
+    </item>
+    <item>
+      <title>Data Visualization</title>
+      <link>http://localhost:1313/science/data-visualization/</link>
+      <pubDate>Sat, 01 Jan 2022 18:24:31 -0500</pubDate>
+      <guid>http://localhost:1313/science/data-visualization/</guid>
+      <description>Lately I&amp;rsquo;ve been experimenting with data visualization using Python and Matplotlib. I also recently read Rachel Carson&amp;rsquo;s classic book, The Sea Around Us, which inspired me to try visualizing the tides. This page is a collection of some of my experiments. I&amp;rsquo;ll update this page whenever I finish a new visualization. Data from https://tidesandcurrents.noaa.gov unless otherwise noted.&#xA;This is a very basic visualization&amp;mdash;just the water levels in Alameda, CA during November of 2021.</description>
+    </item>
+    <item>
+      <title>Prejudice Reduction</title>
+      <link>http://localhost:1313/science/psychology/</link>
+      <pubDate>Tue, 13 Jul 2021 21:17:34 -0700</pubDate>
+      <guid>http://localhost:1313/science/psychology/</guid>
+      <description>There is strong evidence that various psychological exercises can have a powerful effect on reducing prejudice. This article summarizes my understanding of some scientific papers I&amp;rsquo;ve read about the concept of prejudice reduction.&#xA;A good introduction to the concept can be found in this article.&#xA;These articles have been peer-reviewed, but science is a process of change and improvement&amp;mdash;the understanding of this subject may change with future research. A certain amount of psychological research has been performed in search of a one-shot intervention that reduces bias for extended periods of time (&amp;ldquo;bias vaccine.</description>
+    </item>
+    <item>
+      <title>Desert Gardens Expanded</title>
+      <link>http://localhost:1313/fiction/desert-gardens-expanded/</link>
+      <pubDate>Sat, 16 Jan 2021 09:48:00 -0800</pubDate>
+      <guid>http://localhost:1313/fiction/desert-gardens-expanded/</guid>
+      <description>Desert Gardens (Expanded) by Ben Conway The Complex was near the center of the desert. The old concrete buildings were crumbling from decades of sand and harsh sun. Some of them were inhabited&amp;mdash;it was hard to tell which ones.&#xA;Sam looked out the window. A piece of trash blew past, and he saw one person walking down the street a few blocks away. That was it.&#xA;I wonder how many people still live here.</description>
+    </item>
+    <item>
+      <title>Wavetable Experiments</title>
+      <link>http://localhost:1313/wavetables/</link>
+      <pubDate>Sat, 09 Jan 2021 14:50:58 -0800</pubDate>
+      <guid>http://localhost:1313/wavetables/</guid>
+      <description>Making music from leaves! I&amp;rsquo;ve been thinking about this concept for a while. Recently an Andrew Huang video inspired me to try it. The idea is to draw a shape onto special graph paper and then use Csound to digitally convert it into a sound waveform. This is a waveform based on a leaf, which I used in several pieces on my latest album, Physics for Squirrels.&#xA;Here&amp;rsquo;s an example, using the waveform above and a 1000Hz low-pass filter to smooth out the sound:</description>
+    </item>
+    <item>
+      <title>DNA Structure</title>
+      <link>http://localhost:1313/science/dna/</link>
+      <pubDate>Tue, 15 Dec 2020 09:52:57 -0800</pubDate>
+      <guid>http://localhost:1313/science/dna/</guid>
+      <description>This is an illustration about the discovery of the structure of DNA, and all of the evidence that had to be built up to make that discovery. It wasn&amp;rsquo;t just a simple matter of one or two people figuring something out. First, Oswald Avery discovered that genetic information was carried by DNA&amp;mdash;this was the foundational discovery that others built on. Then Alexander Todd discovered that the DNA molecule had a repeating structure of sugar and phosphate compounds.</description>
+    </item>
+    <item>
+      <title>Unicorn Spacecraft</title>
+      <link>http://localhost:1313/fiction/unicorn-spacecraft/</link>
+      <pubDate>Fri, 27 Nov 2020 10:04:31 -0800</pubDate>
+      <guid>http://localhost:1313/fiction/unicorn-spacecraft/</guid>
+      <description>Unicorn Spacecraft by Ben Conway Sunlight is powerful. Whenever light shines on something, it creates pressure.&#xA;And you can use that pressure to move a spacecraft.&#xA;The process of making a spacecraft begins with the unicorns. You can make a solar sail out of anything lightweight and reflective enough, but unicorn hair is the best material. We have six unicorns at our ranch&amp;mdash;Viduria, Sabelia, Sarustia, Aenarian, Salorsia, and Vidosion. There are a few different types of unicorn hair, graded by its coarseness&amp;mdash;different types are useful for different things.</description>
+    </item>
+    <item>
+      <title>Desert Gardens</title>
+      <link>http://localhost:1313/fiction/desert-gardens/</link>
+      <pubDate>Fri, 30 Oct 2020 13:06:28 -0700</pubDate>
+      <guid>http://localhost:1313/fiction/desert-gardens/</guid>
+      <description>Desert Gardens by Ben Conway The desert was a barren expanse of sun-baked ground. About every fifteen miles there was a cluster of crumbling houses. It was hard to tell the abandoned houses from the inhabited ones. Near the middle of the desert there was a tiny pond. A few plants grew around it. Those were the only green things for miles.&#xA;An aircraft flew in over the mountains, circled the pond once, and landed.</description>
+    </item>
+    <item>
+      <title>Roger and Deer</title>
+      <link>http://localhost:1313/fiction/roger-and-deer/</link>
+      <pubDate>Sun, 25 Oct 2020 11:13:19 -0700</pubDate>
+      <guid>http://localhost:1313/fiction/roger-and-deer/</guid>
+      <description>Roger was abruptly awakened by Deer&amp;rsquo;s loud electronic dance music, followed by the sound of his hooves as he walked out into the kitchen. Roger reached toward the nightstand to grab his earplugs, accidentally knocking his alarm clock to the floor and setting it off.&#xA;Great start to the day.&#xA;He got up.&#xA;Deer opened the refrigerator with his robotic arm and began packing his lunch&amp;mdash;six jars of peanut butter, which he loaded into his saddlebags.</description>
+    </item>
+    <item>
+      <title>Chiron5</title>
+      <link>http://localhost:1313/fiction/chiron5/</link>
+      <pubDate>Sun, 18 Oct 2020 15:13:24 -0700</pubDate>
+      <guid>http://localhost:1313/fiction/chiron5/</guid>
+      <description>We&amp;rsquo;re orbiting Kapteyn b. I&amp;rsquo;m looking at the photos coming in from the Chiron&amp;rsquo;s cameras and the orbiters we&amp;rsquo;ve released. Kapteyn b is a world of contrasts. The side facing Kapteyn&amp;rsquo;s Star is a sun-baked volcanic desert. The other side is a dark, frozen wasteland. In the middle, there&amp;rsquo;s a place where life can just barely survive.&#xA;The other day I was having lunch in the cafeteria. I looked at the map and saw that the Chiron was flying over the desert&amp;mdash;six hundred kilometers below us was an environment that would make Earth&amp;rsquo;s deserts look like a walk in the park.</description>
+    </item>
+    <item>
+      <title>Chiron4</title>
+      <link>http://localhost:1313/fiction/chiron4/</link>
+      <pubDate>Fri, 21 Aug 2020 09:28:45 -0700</pubDate>
+      <guid>http://localhost:1313/fiction/chiron4/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Chiron3</title>
+      <link>http://localhost:1313/fiction/chiron3/</link>
+      <pubDate>Fri, 10 Jul 2020 12:17:08 -0700</pubDate>
+      <guid>http://localhost:1313/fiction/chiron3/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Theobroma</title>
+      <link>http://localhost:1313/surface/theobroma/</link>
+      <pubDate>Sat, 04 Jul 2020 10:54:50 -0700</pubDate>
+      <guid>http://localhost:1313/surface/theobroma/</guid>
+      <description>References: Theobromine. (US National Institutes of Health) https://pubchem.ncbi.nlm.nih.gov/compound/theobromine&#xA;Theobroma cacao. (Kew Botanical Gardens) http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:320783-2&#xA;Special thanks to Melyssa Lim Shih Hui (https://melyssamade.com).</description>
+    </item>
+    <item>
+      <title>3D Intro</title>
+      <link>http://localhost:1313/3d_intro/</link>
+      <pubDate>Sat, 04 Jul 2020 09:31:43 -0700</pubDate>
+      <guid>http://localhost:1313/3d_intro/</guid>
+      <description>How 3D Modeling Works 3D modeling is different from most other illustration techniques. Rather than creating an image directly, it more closely resembles creating a sculpture and then photographing it. This allows for a level of flexibility and adjustability that&#39;s difficult to match with any other medium. I primarily use Blender. Consider the following image, the cover for my album Chess for Dogs: Suppose we decided that the cactus and musical note should trade places.</description>
+    </item>
+    <item>
+      <title>Chiron1</title>
+      <link>http://localhost:1313/fiction/chiron1/</link>
+      <pubDate>Sat, 04 Jul 2020 09:14:08 -0700</pubDate>
+      <guid>http://localhost:1313/fiction/chiron1/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Chiron2</title>
+      <link>http://localhost:1313/fiction/chiron2/</link>
+      <pubDate>Sun, 28 Jun 2020 14:03:30 -0700</pubDate>
+      <guid>http://localhost:1313/fiction/chiron2/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Contact Me</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sun, 28 Jun 2020 09:36:57 -0700</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>I&amp;rsquo;m currently available for freelance work. I do primarily scientific illustration and surface design. The best way to contact me is by email: ben@benconway.art</description>
+    </item>
     <item>
       <title>Pillows</title>
-      <link>https://www.benconway.art/making/pillows/</link>
+      <link>http://localhost:1313/surface/pillows/</link>
       <pubDate>Tue, 12 May 2020 15:54:23 -0700</pubDate>
-      
-      <guid>https://www.benconway.art/making/pillows/</guid>
-      <description>IMG.centered { display: block; margin-left: auto; margin-right: auto }</description>
+      <guid>http://localhost:1313/surface/pillows/</guid>
+      <description> </description>
     </item>
-    
     <item>
       <title>The Chiron Expedition</title>
-      <link>https://www.benconway.art/fiction/chiron/</link>
+      <link>http://localhost:1313/fiction/chiron/</link>
       <pubDate>Sun, 10 May 2020 08:54:13 -0700</pubDate>
-      
-      <guid>https://www.benconway.art/fiction/chiron/</guid>
-      <description>body{background: #6E564A;} IMG.centered { display: block; margin-left: auto; margin-right: auto }                                
-  References: Proxima Centauri b Likely a Desert World. (Sky and Telescope, 2017.) https://skyandtelescope.org/astronomy-news/proxima-centauri-b-likely-a-desert-world/
-From Tree to Shining Tree. (Radiolab, 2016.) https://www.wnycstudios.org/podcasts/radiolab/articles/from-tree-to-shining-tree
-George Dyson. Project Orion: The True Story of the Atomic Spaceship.</description>
+      <guid>http://localhost:1313/fiction/chiron/</guid>
+      <description>This is the fictional story of the Interstellar Exploration Vehicle Chiron and its expedition to Kapteyn&amp;rsquo;s Star. It&amp;rsquo;s currently on hiatus while I work on some other projects, but it will return in some form eventually.&#xA;The IEV Chiron: Its Construction and Launch&#xA;Leaving Home: A Tour of the IEV Chiron&#xA;The Chiron Leaves the Solar System&#xA;Arrival at Kapteyn b&#xA;(The following section is the original artwork that started the story.</description>
     </item>
-    
     <item>
       <title>Natural Cycles</title>
-      <link>https://www.benconway.art/science/natural_cycles/</link>
+      <link>http://localhost:1313/science/natural_cycles/</link>
       <pubDate>Fri, 08 May 2020 21:24:00 -0800</pubDate>
-      
-      <guid>https://www.benconway.art/science/natural_cycles/</guid>
-      <description>IMG.centered { display: block; margin-left: auto; margin-right: auto }   
-This is an illustration of the Earth&amp;rsquo;s nitrogen, water, and carbon cycles. Reservoirs (places where material accumulates) are indicated with letters, processes that exchange material between reservoirs are indicated with numbers.
- Nitrogen: A: Atmosphere.
-1: Nitrogen fixation by bacteria.
-2: Nitrogen fixation by lightning.
-3: Nitrification by bacteria.
-D: Soil.
-4: Denitrification by bacteria.
-5: Assimilation of nitrogen into plants (B.</description>
+      <guid>http://localhost:1313/science/natural_cycles/</guid>
+      <description>This is an illustration of the Earth&amp;rsquo;s nitrogen, water, and carbon cycles. These natural processes are important to the entire ecosystem. Most images only show one of these cycles, so I decided to create an image that showed all three together. Reservoirs (places where material accumulates) are indicated with letters, processes that exchange material between reservoirs are indicated with numbers.&#xA;Nitrogen: A: Atmosphere.&#xA;1: Nitrogen fixation by bacteria.&#xA;2: Nitrogen fixation by lightning.</description>
     </item>
-    
     <item>
       <title>The Orrery</title>
-      <link>https://www.benconway.art/fiction/orrery/</link>
+      <link>http://localhost:1313/fiction/orrery/</link>
       <pubDate>Fri, 08 May 2020 16:38:00 -0800</pubDate>
-      
-      <guid>https://www.benconway.art/fiction/orrery/</guid>
-      <description>body{background: #6E564A;} body{color: #EEEEEE;} IMG.centered { display: block; margin-left: auto; margin-right: auto}      
-The sun rose over the mountain, illuminating the light fog that filled the valley.
-Ramet and Seja walked along the path that led up the hill, whistling together. They were pulling a small wagon filled with vegetables&amp;mdash;the way they&amp;rsquo;d been doing, five days a week, for the past six years.
-&amp;ldquo;There&amp;rsquo;s the monument,&amp;rdquo; Seja said.</description>
+      <guid>http://localhost:1313/fiction/orrery/</guid>
+      <description>The sun rose over the mountain, illuminating the light fog that filled the valley.&#xA;Ramet and Seja walked along the path that led up the hill, whistling together. They were pulling a small wagon filled with vegetables&amp;mdash;the way they&amp;rsquo;d been doing, five days a week, for the past six years.&#xA;&amp;ldquo;There&amp;rsquo;s the monument,&amp;rdquo; Seja said. &amp;ldquo;We&amp;rsquo;re halfway to Town.&amp;rdquo;&#xA;&amp;ldquo;It looks different,&amp;rdquo; said Ramet.&#xA;Seja looked at it for a long moment.</description>
     </item>
-    
     <item>
       <title>About Me</title>
-      <link>https://www.benconway.art/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sat, 07 Mar 2020 09:13:00 -0800</pubDate>
-      
-      <guid>https://www.benconway.art/about/</guid>
-      <description>IMG.centered { display: block; margin-left: auto; margin-right: auto }   
-Ben Conway is an illustrator, skilled at using 3D modeling and traditional media to create visually interesting and scientifically accurate images of a variety of subjects, including spacecraft and astronomical objects.
-Ben has had an illustration-related internship at Caltech&amp;rsquo;s Jet Propulsion Laboratory. He has also participated in the Psyche Inspired  internship program run by Arizona State University in connection with NASA&amp;rsquo;s Psyche mission.</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Ben Conway is an illustrator with the mind of a scientist. He has been working with 3D modeling software since 2010, and has years of experience working with traditional drawing techniques.&#xA;Ben spends a lot of his spare time reading up on new scientific results and trying to develop a working knowledge of fields that he&amp;rsquo;s unfamiliar with. This can range from reading books to gain a better understanding of advanced physics, to conducting his own chemistry experiments to develop a new photographic process.</description>
     </item>
-    
   </channel>
 </rss>

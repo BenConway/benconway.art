@@ -1,32 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sciences on Ben Conway</title>
-    <link>https://www.benconway.art/science/</link>
-    <description>Recent content in Sciences on Ben Conway</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Science Illustration on Ben Conway</title>
+    <link>http://localhost:1313/science/</link>
+    <description>Recent content in Science Illustration on Ben Conway</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2020 21:24:00 -0800</lastBuildDate>
-    
-	<atom:link href="https://www.benconway.art/science/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 01 Jan 2022 18:24:31 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Visualization</title>
+      <link>http://localhost:1313/science/data-visualization/</link>
+      <pubDate>Sat, 01 Jan 2022 18:24:31 -0500</pubDate>
+      <guid>http://localhost:1313/science/data-visualization/</guid>
+      <description>Lately I&amp;rsquo;ve been experimenting with data visualization using Python and Matplotlib. I also recently read Rachel Carson&amp;rsquo;s classic book, The Sea Around Us, which inspired me to try visualizing the tides. This page is a collection of some of my experiments. I&amp;rsquo;ll update this page whenever I finish a new visualization. Data from https://tidesandcurrents.noaa.gov unless otherwise noted.&#xA;This is a very basic visualization&amp;mdash;just the water levels in Alameda, CA during November of 2021.</description>
+    </item>
+    <item>
+      <title>Prejudice Reduction</title>
+      <link>http://localhost:1313/science/psychology/</link>
+      <pubDate>Tue, 13 Jul 2021 21:17:34 -0700</pubDate>
+      <guid>http://localhost:1313/science/psychology/</guid>
+      <description>There is strong evidence that various psychological exercises can have a powerful effect on reducing prejudice. This article summarizes my understanding of some scientific papers I&amp;rsquo;ve read about the concept of prejudice reduction.&#xA;A good introduction to the concept can be found in this article.&#xA;These articles have been peer-reviewed, but science is a process of change and improvement&amp;mdash;the understanding of this subject may change with future research. A certain amount of psychological research has been performed in search of a one-shot intervention that reduces bias for extended periods of time (&amp;ldquo;bias vaccine.</description>
+    </item>
+    <item>
+      <title>DNA Structure</title>
+      <link>http://localhost:1313/science/dna/</link>
+      <pubDate>Tue, 15 Dec 2020 09:52:57 -0800</pubDate>
+      <guid>http://localhost:1313/science/dna/</guid>
+      <description>This is an illustration about the discovery of the structure of DNA, and all of the evidence that had to be built up to make that discovery. It wasn&amp;rsquo;t just a simple matter of one or two people figuring something out. First, Oswald Avery discovered that genetic information was carried by DNA&amp;mdash;this was the foundational discovery that others built on. Then Alexander Todd discovered that the DNA molecule had a repeating structure of sugar and phosphate compounds.</description>
+    </item>
     <item>
       <title>Natural Cycles</title>
-      <link>https://www.benconway.art/science/natural_cycles/</link>
+      <link>http://localhost:1313/science/natural_cycles/</link>
       <pubDate>Fri, 08 May 2020 21:24:00 -0800</pubDate>
-      
-      <guid>https://www.benconway.art/science/natural_cycles/</guid>
-      <description>IMG.centered { display: block; margin-left: auto; margin-right: auto }   
-This is an illustration of the Earth&amp;rsquo;s nitrogen, water, and carbon cycles. Reservoirs (places where material accumulates) are indicated with letters, processes that exchange material between reservoirs are indicated with numbers.
- Nitrogen: A: Atmosphere.
-1: Nitrogen fixation by bacteria.
-2: Nitrogen fixation by lightning.
-3: Nitrification by bacteria.
-D: Soil.
-4: Denitrification by bacteria.
-5: Assimilation of nitrogen into plants (B.</description>
+      <guid>http://localhost:1313/science/natural_cycles/</guid>
+      <description>This is an illustration of the Earth&amp;rsquo;s nitrogen, water, and carbon cycles. These natural processes are important to the entire ecosystem. Most images only show one of these cycles, so I decided to create an image that showed all three together. Reservoirs (places where material accumulates) are indicated with letters, processes that exchange material between reservoirs are indicated with numbers.&#xA;Nitrogen: A: Atmosphere.&#xA;1: Nitrogen fixation by bacteria.&#xA;2: Nitrogen fixation by lightning.</description>
     </item>
-    
   </channel>
 </rss>
