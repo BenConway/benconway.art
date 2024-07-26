@@ -19,8 +19,8 @@ unsafe= true
     title = "<img src=\"/logo.png\" width=\"75px\"></img><br/>Ben Conway"
     subtitle = "I'm a freelance illustrator specializing in scientific illustration and surface design. Click on any image below for more information. <br/>[About Me.](/about/)"
     author = "Ben Conway"
-    description = "Illustrator, primarily of science and space-related subjects."
-    keywords = "illustration, science, space, spacecraft, art"
+    description = "Illustrator, primarily of science-related subjects."
+    keywords = "illustration, science, space, spacecraft, sustainability, art"
 
     # Body background color
     bodybgcolor = "#666666"
@@ -29,7 +29,7 @@ unsafe= true
     buttontext = "Get the theme"
 
     # Footer text
-    footertext = "Copyright &copy; 2010-2024 Ben Conway (ben@benconway.art). All rights reserved. Reproduction in whole or in part in any form is strictly forbidden without express written permission. Theme by [Pavel Kanyshev](https://github.com/aerohub/hugrid) and [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/)."
+    footertext = "Copyright &copy; 2010-2024 Ben Conway (ben@benconway.art). All rights reserved. Reproduction in whole or in part in any form is strictly forbidden without express written permission. No content on this website may be used to train AI models without permission. Theme by [Pavel Kanyshev](https://github.com/aerohub/hugrid) and [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/)."
 
     # add extra-css
     # custom_css = ['css/extra1.css', 'css/extra2.css']
