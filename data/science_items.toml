@@ -1,4 +1,11 @@
 [[items]]
+title = "Hiking and Space"
+image = "/img/HikingAndSpace-web.jpg"
+thumb = "/img/HikingAndSpace-thumb.JPG"
+alt = "A person standing on Earth, with a rover sitting on Mars in the background."
+description = "Lately I've been thinking about the ways in which hiking and space exploration are similar. They're both ways of engaging with nature, learning from it, and appreciating its beauty. And I think the world needs more of that.<br/><br/>Image references:<br/>Sojourner: an insider's view of the Mars Pathfinder mission. Andrew Mishkin, 2003.<br/><a href='https://photojournal.jpl.nasa.gov/jpegMod/PIA00968_modest.jpg' target=blank>PIA00968</a><br/><a href='https://photojournal.jpl.nasa.gov/tiff/PIA00908.tif' target=blank>PIA00908</a><br/><a href='https://photojournal.jpl.nasa.gov/tiff/PIA04318.tif' target=blank>PIA04318</a><br/><a href='https://photojournal.jpl.nasa.gov/tiff/PIA00923.tif' target=blank>PIA00923</a><br/><a href='https://photojournal.jpl.nasa.gov/jpegMod/PIA01122_modest.jpg' target=blank>PIA01122</a><br/><a href='https://photojournal.jpl.nasa.gov/jpegMod/PIA00004_modest.jpg' target=blank>PIA00004</a>"
+
+[[items]]
 title = "Better World"
 image = "/img/BetterWorld-web.jpg"
 thumb = "/img/BetterWorld-thumb.JPG"
