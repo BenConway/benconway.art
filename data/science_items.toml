@@ -1,4 +1,11 @@
 [[items]]
+title = "Lichen"
+image = "/img/Lichen-web.jpg"
+thumb = "/img/Lichen-thumb.JPG"
+alt = "A bunch of patches of lichen against a blue background."
+description = "Lichen is an entire ecosystem in miniature!<br/>A lichen isn't just an algae and a fungus—there are frequently other organisms in there too. And it can be hard to tell exactly what lifeforms make up a lichen—bacteria are often identified by stages in their lifecycle that just don't happen when they're part of a lichen. So a lichen-covered rock or tree branch is, in some sense, its own little world. I find this sort of thing fascinating—I love the amount of complexity and intricacy that's hidden throughout nature.<br/><br/>References:<br/>'Unexpected associated microalgal diversity in the lichen Ramalina farinacea is uncovered by pyrosequencing analyses.' Patricia Moya, Arántzazu Molins, Fernando Martínez-Alberola, Lucia Muggia, Eva Barreno; 2014. <a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175091' target=blank>PLOS One.</a><br/>'Evidence of Weak Habitat Specialisation in Microscopic Animals.' Diego Fontaneto, Martin Westberg, Joaquín Hortal; 2011. <a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0023969' target=blank>PLOS One.</a><br/>Lichen biology. (Thomas H. Nash III, 2008.)<br/>A field guide to California lichens. (Stephen Sharnoff, 2014.)"
+
+[[items]]
 title = "Hiking and Space"
 image = "/img/HikingAndSpace-web.jpg"
 thumb = "/img/HikingAndSpace-thumb.JPG"
