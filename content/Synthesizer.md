@@ -15,5 +15,5 @@ margin-right: auto}
 <br/>
 <br/>
 <div style="margin: auto -60%; display: table;">
-	<video controls class = "centered" src="/Synth-finish.mp4" align="left"></video>
+	<video controls class = "centered" src="/Synth-finish.mp4" align="left" width=70%></video>
 </div>
