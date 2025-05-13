@@ -13,7 +13,7 @@
       <link>http://localhost:1313/synthesizer/</link>
       <pubDate>Tue, 13 May 2025 08:41:54 -0700</pubDate>
       <guid>http://localhost:1313/synthesizer/</guid>
-      <description>&lt;style type=&#34;text/css&#34; rel=&#34;stylesheet&#34;&gt;&#xA;body{background: #666666;}&#xA;IMG.centered {&#xA;display: block;&#xA;margin-left: auto;&#xA;margin-right: auto}&#xA;&lt;/style&gt;&#xA;&lt;br/&gt;&#xA;&lt;br/&gt;&#xA;&lt;div style=&#34;margin: auto -60%; display: table;&#34;&gt;&#xA;&#x9;&lt;video controls class = &#34;centered&#34; src=&#34;http://localhost:1313/Synth-finish.mp4&#34; align=&#34;left&#34;&gt;&lt;/video&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;style type=&#34;text/css&#34; rel=&#34;stylesheet&#34;&gt;&#xA;body{background: #666666;}&#xA;IMG.centered {&#xA;display: block;&#xA;margin-left: auto;&#xA;margin-right: auto}&#xA;&lt;/style&gt;&#xA;&lt;br/&gt;&#xA;&lt;br/&gt;&#xA;&lt;div style=&#34;margin: 0 auto; display: table;&#34;&gt;&#xA;&#x9;&lt;video controls class = &#34;centered&#34; src=&#34;http://localhost:1313/Synth-finish.mp4&#34; align=&#34;left&#34; width=70%&gt;&lt;/video&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Useful Resources</title>
