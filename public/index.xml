@@ -6,8 +6,15 @@
     <description>Recent content on Ben Conway</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Jul 2023 16:56:37 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 08:41:54 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/synthesizer/</link>
+      <pubDate>Tue, 13 May 2025 08:41:54 -0700</pubDate>
+      <guid>http://localhost:1313/synthesizer/</guid>
+      <description>&lt;style type=&#34;text/css&#34; rel=&#34;stylesheet&#34;&gt;&#xA;body{background: #666666;}&#xA;IMG.centered {&#xA;display: block;&#xA;margin-left: auto;&#xA;margin-right: auto}&#xA;&lt;/style&gt;&#xA;&lt;br/&gt;&#xA;&lt;br/&gt;&#xA;&lt;div style=&#34;margin: auto -60%; display: table;&#34;&gt;&#xA;&#x9;&lt;video controls class = &#34;centered&#34; src=&#34;http://localhost:1313/Synth-finish.mp4&#34; align=&#34;left&#34;&gt;&lt;/video&gt;&#xA;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Useful Resources</title>
       <link>http://localhost:1313/useful-resources/</link>
