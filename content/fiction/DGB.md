@@ -1,6 +1,7 @@
 ---
 title: Desert Gardens Balloon
 date: 2025-07-01T09:58:29-07:00
+type: page
 layout: page
 draft: false
 ---
@@ -15,6 +16,8 @@ margin-left: 5%;
 margin-right: auto}
 </style>
 
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=3634361964/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://benconway.bandcamp.com/track/desert-gardens-balloon">Desert Gardens Balloon by Ben Conway</a></iframe>
+<br/>
 <br/>
 <img class = "centered"
 src="/img/DGB_Launch-web.jpg" width=90%></img>
