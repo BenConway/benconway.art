@@ -100,6 +100,8 @@ For the first time in his life, he felt a sense of peace.
 <img class="centered" src="/img/DesertGardens_Expanded/Window-web.jpg" width=85%></img>
 <br/>
 
+(This story now has a sequel: <a href="/fiction/DGB/">Desert Gardens Balloon.</a>)
+
 ---
 <br/>
 
