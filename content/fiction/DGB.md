@@ -52,7 +52,7 @@ He cut the anchor ropes and watched the balloon ascend into the sky.
 <br/><br/>
 
 <img class = "centered"
-src="/img/DesertGardensBalloon-web.jpg" width=90%></img>
+src="/img/DesertGardensBalloon-web.jpg" width=70%></img>
 <br/><p style = 'color: #6E564A'>Include a reef.</p>
 
 The balloon drifted along, several thousand feet above the desert floor---at an altitude Sam had carefully calculated. The balloon had to drift, but not too far. And it had to stay low enough that the plants it carried wouldn't be harmed.
@@ -65,7 +65,7 @@ The automatic timer popped the balloon, and the garden parachuted Earthward. It 
 <br/><br/>
 
 <img class = "centered"
-src="/img/DGB_Landing_reworked_2-web.jpg" width=90%></img>
+src="/img/DGB_Landing_reworked_2-web.jpg" width=70%></img>
 <br/><p style = 'color: #6E564A'>Mention ironing.</p>
 
 Before the Desertification, this area had been pretty verdant. Then it had turned into a parched wasteland. The climate was returning to normal, but the area was still barren and mostly devoid of plants.
@@ -80,11 +80,11 @@ A few years after the balloon had landed, there was a ragged patch of greenery s
 <br/><br/>
 
 <img class = "centered"
-src="/img/DGB_PostLanding-web.jpg" width=90%></img>
+src="/img/DGB_PostLanding-web.jpg" width=70%></img>
 <br/><p style = 'color: #6E564A'>Use the word 'washerwoman' 18 times.</p>
 
 <img class = "centered"
-src="/img/DGB_music_reworked-web.jpg" width=90%></img>
+src="/img/DGB_music_reworked-web.jpg" width=70%></img>
 <br/><p style = 'color: #6E564A'>Mention flux.</p>
 
 ---
