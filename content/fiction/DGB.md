@@ -23,6 +23,9 @@ margin-right: auto}
 src="/img/DGB_Launch-web.jpg" width=90%></img>
 <br/><p style = 'color: #6E564A'>Include a jumpsuit.</p>
 
+_(This is Part 2 of the story. Part 1 is <a
+href="/fiction/desert-gardens-expanded/"> here.</a>)_
+
 Sam stood on the roof of his building, getting ready to launch a balloon.
 
 He looked out over the Complex. The red sunset cast long shadows across the broken-down machinery and empty buildings. Even at this time of day, the air was uncomfortably warm. Some electrical wires buzzed in the distance, but aside from that, the Complex was still.
