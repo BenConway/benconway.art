@@ -15,5 +15,9 @@ margin-right: auto}
 <br/>
 <br/>
 <div style="margin: 0 auto; display: table;">
+	Original synthesizer:
 	<video controls class = "centered" src="/Synth-finish.mp4" align="left" width=70%></video>
+
+	Upgraded synthesizer:
+	<video controls class = "centered" src="/0001-2604.mp4" align="left" width=70%></video>
 </div>
