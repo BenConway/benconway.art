@@ -14,10 +14,12 @@ margin-right: auto}
 
 <br/>
 <br/>
+Original synthesizer:
 <div style="margin: 0 auto; display: table;">
-	Original synthesizer:
 	<video controls class = "centered" src="/Synth-finish.mp4" align="left" width=70%></video>
+</div>
 
-	Upgraded synthesizer:
+Upgraded synthesizer:
+<div style="margin: 0 auto; display: table;">
 	<video controls class = "centered" src="/0001-2604.mp4" align="left" width=70%></video>
 </div>
