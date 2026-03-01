@@ -33,11 +33,14 @@ The case is made from wood, which I had laser-cut by <a href='https://ponoko.com
 <br/>
 <br/>
 Original synthesizer:
+<br/>
 <div style="margin: 0 auto; display: table;">
 	<video controls class = "centered" src="/Synth-finish.mp4" align="left" width=70%></video>
 </div>
+<br/><br/>
 
 Upgraded synthesizer:
+<br/>
 <div style="margin: 0 auto; display: table;">
 	<video controls class = "centered" src="/0001-2604.mp4" align="left" width=70%></video>
 </div>
