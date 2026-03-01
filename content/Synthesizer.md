@@ -24,7 +24,7 @@ One knob on the synth is for selecting different sound waveforms. I derived most
 
 The other knob controls the synth's tremolo effect, varying the volume at a few different speeds ranging from 8 times a second to once every 16 seconds. The faster speeds are good for creating a sort of shimmering sound, the slower speeds are good for gradually-shifting ambient sounds,
 
-The case is made from wood, which I had laser-cut by <a href='ponoko.com'>Ponoko.</a> The current version of the synth uses an <a href='https://www.adafruit.com/product/3677'>Adafruit ItsyBitsy</a> microcontroller. The sound synthesis is handled by the <a href='https://sensorium.github.io/Mozzi/doc/html/index.html'>Mozzi</a> Arduino library.
+The case is made from wood, which I had laser-cut by <a href='https://ponoko.com'>Ponoko.</a> The current version of the synth uses an <a href='https://www.adafruit.com/product/3677'>Adafruit ItsyBitsy</a> microcontroller. The sound synthesis is handled by the <a href='https://sensorium.github.io/Mozzi/doc/html/index.html'>Mozzi</a> Arduino library.
 
 
 <br/>
