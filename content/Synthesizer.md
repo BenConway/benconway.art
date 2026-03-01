@@ -12,6 +12,9 @@ margin-left: auto;
 margin-right: auto}
 </style>
 
+<img class="centered" src="/img/IMG_9416.png" width=800></img>
+<br/>
+
 For the past few years, I've been working on a music synthesizer. I initially finished it in May of 2025, but then I wanted to add some more features. I started that in August of 2025, and (after dealing with a lot of unexpected issues, including redoing a bunch of the machine's internal electronics) I got it finished again in February of 2026. I imagine I'll end up reworking it again at some point.
 
 I designed and built the entire thing myself. That means that the machine's really well-adapted to the type of music I like to make. The downside is that I have to fix any problems with it all by myself---there's nothing quite like it anywhere else in the world.
