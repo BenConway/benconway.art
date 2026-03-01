@@ -10,7 +10,7 @@ IMG.centered {
 display: block;
 margin-left: auto;
 margin-right: auto}
-</style
+</style>
 
 For the past few years, I've been working on a music synthesizer. I initially finished it in May of 2025, but then I wanted to add some more features. I started that in August of 2025, and (after dealing with a lot of unexpected issues, including redoing a bunch of the machine's internal electronics) I got it finished again in February of 2026. I imagine I'll end up reworking it again at some point.
 
