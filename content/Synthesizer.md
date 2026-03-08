@@ -31,9 +31,11 @@ The case is made from wood, which I had laser-cut by <a href='https://ponoko.com
 
 I've used the synthesizer to make music for a couple of my illustrated stories, which you can find <a href='/fiction/haven'>here</a> and <a href='/fiction/dgb'>here.</a>
 
-<br/>
+And here are some videos:
+
 <br/>
 Original synthesizer:
+<br/>
 <br/>
 <div style="margin: 0 auto; display: table;">
 	<video controls class = "centered" src="/Synth-finish.mp4" align="left" width=70%></video>
