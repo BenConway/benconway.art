@@ -29,6 +29,7 @@ The other knob controls the synth's tremolo effect, varying the volume at a few 
 
 The case is made from wood, which I had laser-cut by <a href='https://ponoko.com'>Ponoko.</a> The current version of the synth uses an <a href='https://www.adafruit.com/product/3677'>Adafruit ItsyBitsy</a> microcontroller. The sound synthesis is handled by the <a href='https://sensorium.github.io/Mozzi/doc/html/index.html'>Mozzi</a> Arduino library.
 
+I've used the synthesizer to make music for a couple of my illustrated stories, which you can find <a href='/fiction/haven'>here</a> and <a href='/fiction/dgb'>here.</a>
 
 <br/>
 <br/>
