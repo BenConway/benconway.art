@@ -40,7 +40,7 @@ Do note that if you do not allow us to collect or process the required personal 
  
 Information We Collect through Cookies:
 
-We may automatically collect certain information about your interaction with the Services ("Usage Data"). To do this, we may use cookies, pixels and similar technologies ("Cookies"). Usage Data may include information about how you access and use our Site and your account, including device information, browser information, information about your network connection, your IP address and other information regarding your interaction with the Services. Our web service providers ([GitHub](https://github.com) and [Netlify](https://www.netlify.com)) may also collect and access this type of information.
+We may automatically collect certain information about your interaction with the Services ("Usage Data"). To do this, we may use cookies, pixels and similar technologies ("Cookies"). Usage Data may include information about how you access and use our Site and your account, including device information, browser information, information about your network connection, your IP address and other information regarding your interaction with the Services. Our web service providers ([GitHub](https://github.com) and [Netlify](https://www.netlify.com)) may also collect and access this type of information. Some pages on this site contain music tracks, embedded via [Bandcamp](https://www.bandcamp.com), meaning that Bandcamp may collect and access Usage Data related to those pages.
  
 Security:
 
