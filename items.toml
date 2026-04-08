@@ -1,0 +1,632 @@
+[[items]]
+title = "Song of Resilience"
+image = "/img/Haven1-web.jpg"
+thumb = "/img/Haven1-thumb.JPG"
+alt = "A group of buildings surrounded by a harsh landscape."
+description = "Here's my latest short story/poem, the Song of Resilience: <a href='/fiction/haven/'>here.</a>"
+
+[[items]]
+title = "Lichen"
+image = "/img/Lichen-web.jpg"
+thumb = "/img/Lichen-thumb.JPG"
+alt = "A bunch of patches of lichen against a blue background."
+description = "Lichen is an entire ecosystem in miniature!<br/>A lichen isn't just an algae and a fungus—there are frequently other organisms in there too. And it can be hard to tell exactly what lifeforms make up a lichen—bacteria are often identified by stages in their lifecycle that just don't happen when they're part of a lichen. So a lichen-covered rock or tree branch is, in some sense, its own little world. I find this sort of thing fascinating—I love the amount of complexity and intricacy that's hidden throughout nature.<br/><br/>References:<br/>'Unexpected associated microalgal diversity in the lichen Ramalina farinacea is uncovered by pyrosequencing analyses.' Patricia Moya, Arántzazu Molins, Fernando Martínez-Alberola, Lucia Muggia, Eva Barreno; 2014. <a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175091' target=blank>PLOS One.</a><br/>'Evidence of Weak Habitat Specialisation in Microscopic Animals.' Diego Fontaneto, Martin Westberg, Joaquín Hortal; 2011. <a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0023969' target=blank>PLOS One.</a><br/>Lichen biology. (Thomas H. Nash III, 2008.)<br/>A field guide to California lichens. (Stephen Sharnoff, 2014.)<br/><p style = 'color: #8b8b8b'>splice</p>"
+
+[[items]]
+title = "Biocompatible Temperature Sensors"
+image = "/img/BiocompatibleTemperatureSensors_finish-web.jpg"
+thumb = "/img/BiocompatibleTemperatureSensors_finish-thumb.JPG"
+alt = "Glowing green objects in a dark forest."
+description = "Using glowing, technological whirligig seeds to study ecosystems sustainably!<br/>This is one of the coolest ideas I've seen in a while. It's from the article /A printed luminescent flier inspired by plant seeds for eco-friendly physical sensing/ (Cikalleshi et. al, 2023.) This is one of several attempts to address some issues with scientific study of ecosystems, namely, the fact that the sensors needed to collect the data are often expensive and can have negative effects on the environment if they're left behind at the end of the study.<br/><br/>The authors of the article created an inexpensive 3D-printed device, similar to maple seeds. It's made of plant-based plastic, saturated with a safe chemical compound that glows under infrared light. The properties of the glow are proportional to the material's temperature. By scattering a bunch of them from a drone, you can effectively make a whole network of thermal sensors blanketing the region you want to study. When the study is finished, any sensors that get left behind will biodegrade pretty much harmlessly.<br/><br/>Source: science.org/doi/10.1126/sciadv.adi8492<br/><p style = 'color: #8b8b8b'>Callisto</p>"
+
+[[items]]
+title = "Moon Predictor"
+image = "/img/IMG_7705-web.jpg"
+thumb = "/img/IMG_7705-thumb.JPG"
+alt = "A wooden machine with gears."
+description = "Lately, I've been teaching myself how to build stuff. This is a project I recently finished: a mechanical device for simulating the motion of the Moon around the Earth. The center pointer represents the Earth's orientation relative to the Sun, and the wheel behind it is geared to turn at the rate that the Moon orbits the Earth. I designed it in <a href='https://freecad.org' target=blank>FreeCAD</a>, and had it laser-cut by <a href='https://www.ponoko.com' target=blank>Ponoko.</a> (This isn't a rendering, I actually built it.)<br/><br/>Some things I learned:<br/>+ The motion of the Moon around the Earth is surprisingly complex. There are all kinds of factors that subtly affect the Moon's position, and if you're trying to determine the Moon's phases you also need to account for the Earth's orbit around the Sun as well. (See <a href='https://eclipse.gsfc.nasa.gov/SEhelp/moonorbit.html' target=blank>Eclipses and the Moon's Orbit</a> and <a href='https://gutenberg.org/cache/epub/61494/pg61494-images.html#Page_347' target=blank>The Modern Clock</a> for details.)<br/>+ You also can't predict exactly when the Moon will rise or set. When it's close to the horizon its apparent position is affected a lot by the atmosphere, so without knowing the exact characteristics of the air you can't tell precisely where the Moon will appear to be. (Telling where the Moon <i>actually</i> is, however, is easier. The atmosphere only affects where it <i>looks like</i> it is.) (<a href='https://aa.usno.navy.mil/faq/RST_defs' target=blank>US Naval Observatory</a>)<br/>+ Building a model of something can help you understand it better. I now have a better sense of how the Moon orbits the Earth, and can make approximate determinations about the Moon's position even without the model.<br/>+ When building a geared mechanism, getting the gears the right distance apart is essential. (I struggled with this a lot initially, until I found the formula for gear center distance in Dustyn Roberts' book <i>Making Things Move.</i>)<br/>+ Wooden gears sometimes warp a bit, so you should leave some space above and below them so they can still turn smoothly if that happens.<br/><br/>Other resources I used:<br/><a href='https://gml.noaa.gov/grad/solcalc/solareqns.PDF' target=blank>General Solar Position Calculations</a><br/><a href='https://svs.gsfc.nasa.gov/12534' target=blank>What determines when we have an eclipse?</a><br/><a href='https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=4324' target=blank>2017 Eclipse and the Moon's Orbit</a><br/><p style = 'color: #8b8b8b'>redevelopment</p>"
+
+[[items]]
+title = "Third Way Tech"
+image = "/img/ThirdWayTech-web.jpg"
+thumb = "/img/ThirdWayTech-thumb.JPG"
+alt = "A smartphone with someone standing on it, choosing a path forward."
+description = "There's more than one way to engage with technology.<br/>You don't have to choose between being a Luddite and accepting all new technologies without hesitation. 'Technology' is actually a lot of different things---and every person has different needs. We don't have to choose between 'high tech' and 'low tech.' Each of us can choose a middle option that works for us. You can accept some technologies and not others, or you can accept some technologies in only specific situations. I use social media (you're reading this), but I make a point of limiting my social media usage to an amount that works for me. (Your amount will be different. Some people will prefer to use social media a lot more than I do, others will decide they don't want to use it at all.) At the same time, I do many of my illustrations (including this one) using advanced computer graphics software. My life is very technological, but I've made intentional decisions about what technologies to use and when.<br/>So you can make your own technological choices---and there are a lot more options than you might think.<br/><br/>Some resources and applications that I recommend:<br/>+ Signal: an easy-to-use secure messaging app that lets you communicate privately.<br/>+ Startpage and DuckDuckGo: search engines that don't track you.<br/>+ Firefox: a web browser with a focus on user privacy.<br/>+ Blender: the high-quality computer graphics program that I used to make this illustration.<br/>+ Inkscape: another excellent piece of graphics software.<br/>+ Your local library: libraries are an excellent way to get information and entertainment. They're not just for books---many libraries also supply free access to digital content like ebooks, movies, and TV shows. You don't necessarily even need to go to the library to access it. (And it's worth noting here that books are a form of technology.)<br/><p style = 'color: #8b8b8b'>both</p>"
+
+[[items]]
+title = "Toaster Taxonomy"
+image = "/img/ToasterTaxonomy-web.jpg"
+thumb = "/img/ToasterTaxonomy-thumb.JPG"
+alt = "A bunch of different toasters on a gray background."
+description = "There's more than one way to do it!<br>This image is based on a bunch of toasters at the <a href='https://www.moah.org' target=blank>Museum of American Heritage.</a> It's surprising how many different ways people have found to toast bread.<br/>In the leftmost column, there are manual toasters. These only toast the bread on one side, requiring the user to flip the bread manually to get it toasted on both sides.<br/>In the next column, we have the rotary toasters. These still only toast the bread on one side, but they're equipped with mechanisms to help the user flip the toast when the time comes.<br/>Then there are linear toasters---the most common kind. They toast the bread on both sides at once, and the bread moves through the machine in a straight line. The type at the top of this column is probably what most of us think of when someone says 'toaster.' But there are plenty of other kinds of linear toaster---including the Toast-o-lator, which moves the toast gradually from one end of the machine to the other. Another toaster in this column is a 12-volt in-car toaster---so you can make toast while you're on the road.<br/>Then there are toaster ovens. I hadn't really thought about these in much detail---I had just assumed that the type at the bottom of the last column was the only kind. But there are many other designs that people have thought of over the years.<br/><br/>I think it's interesting that there are so many ways of solving the same problem. Sometimes when a particular design becomes dominant, it's because it really is the best solution---but other times, it isn't. Maybe a particular design became widespread because it was cheaper to manufacture, or because it was made by the company with the best marketing team, or because a competing better design looked weird. It's important to consider the fact that there's more than one way to do it.<br/><p style = 'color: #8b8b8b'>hiker</p>"
+
+[[items]]
+title = "Checklist Manifesto"
+image = "/img/Checklists-web.jpg"
+thumb = "/img/Checklists-thumb.JPG"
+alt = "A grid with people, buildings, airplanes, and other things inside it."
+description = "You need a checklist!<br/>This illustration was inspired by a book I read a while ago: The Checklist Manifesto, by Atul Gawande. This book explores the use of checklists in a variety of fields, including aviation, medicine, and construction. Checklists are powerful tools:<br/>+ They help ensure that really basic stuff doesn't get overlooked. (For instance, ensuring that a concert venue's doors are large enough to accommodate a band's equipment.)<br/>+ They help people function as a team. (Some medical checklists require everyone performing a procedure to introduce themselves to each other before starting. This gets people talking, and makes them more likely to speak up if they notice that something isn't right.)<br/>+ They allow people to learn from previous mistakes and accidents. (Whenever there's a serious aviation incident, it gets investigated. Any necessary updates are then made to the relevant checklists, to help keep the same problem from happening again.)<br/>I've applied the information from this book in my own life by making a lot of checklists for procedures at the library where I work. So if you're dealing with some problem, maybe a checklist will help.<br/><p style = 'color: #8b8b8b'>stile</p>"
+
+[[items]]
+title = "Better World"
+image = "/img/BetterWorld-web.jpg"
+thumb = "/img/BetterWorld-thumb.JPG"
+alt = "A whimsical machine covered in plants."
+description = "We can create a better world for everyone.<br/>Lately I've been learning a lot about sustainability. Environmental issues are significant, but we can fix them---and still allow everyone to live a good life.<br/><br/>+ Renewable energy is important. Wind turbines and solar panels provide electricity, and can help make the power grid more reliable. Walking and biking are good choices for renewable transportation. Windows and skylights are an efficient way to light buildings during the daytime.<br/><br/>+ Reuse and recycling are also a part of the solution. Current methods of production rely primarily on extracting material, using it once, and then discarding it. The concept of a 'circular economy' is based on reusing materials over and over again. Unneeded items can be redistributed to people who need them, damaged items can be repaired, and things that are truly beyond hope can be recycled back into raw materials. This is true for all kinds of things, from laptops to buildings.<br/><br/>+ Plants can help too. Bamboo is a useful material, and bamboo plants help remove carbon from the atmosphere. Urban green space can contribute to making cities more resilient to climate change. Restoring damaged natural habitats can mitigate a wide range of environmental issues. Alternative agricultural methods can produce food more sustainably.<br/><br/>+ Rainfall collection can help mitigate climate-related water shortages by storing up water during rainy seasons for use during dry seasons. It also helps alleviate other environmental issues, such as flooding and stormwater pollution.<br/><br/>So we can do something. There are problems, but we can fix them. Go to a thrift store instead of buying something new. Walk or bike somewhere instead of driving. Fix something that's broken. Plant a tree. For more information about things that people are doing (and that you can do, too!), check out the links below:<br/><br/><br/>Websites and videos:<br/><a href='https://www.drawdown.org/solutions/table-of-solutions' target=blank>List of some possible climate solutions</a><br/><a href='https://footprint.wwf.org.uk/#/' target=blank>Carbon footprint calculator</a><br/><a href='https://youtu.be/nkMIjbDtdo0' target=blank>How to communicate about climate change</a><br/><br/>Free online courses:<br/><a href='https://www.coursera.org/learn/climate-solutions/' target=blank>Climate Solutions</a><br/><a href='https://www.coursera.org/specializations/environmental-science' target=blank>Environmental Science</a><br/><a href='https://www.edx.org/learn/circular-economy/delft-university-of-technology-circular-economy-an-introduction' target=blank>Circular Economy</a><br/><br/>Other miscellaneous articles:<br/><a href='https://sdgs.un.org/goals' target=blank>Sustainable Development Goals</a><br/><a href='https://www.unwater.org/water-facts/water-and-climate-change' target=blank>Water and Climate Change</a><br/><a href='https://www.aces.edu/blog/topics/fish-water/chapter-1-benefits-of-rainwater-harvesting/' target=blank>Benefits of Rainwater Harvesting</a><br/><a href='https://news.mit.edu/2021/lab-grown-plant-tissue-0120' target=blank>Could lab-grown plant tissue ease the environmental toll of logging and agriculture?</a><br/><br/><br/><p style = 'color: #8b8b8b'>Salazar</p>"
+
+[[items]]
+title = "Hiking and Space"
+image = "/img/HikingAndSpace-web.jpg"
+thumb = "/img/HikingAndSpace-thumb.JPG"
+alt = "A person standing on Earth, with a rover sitting on Mars in the background."
+description = "Lately I've been thinking about the ways in which hiking and space exploration are similar. They're both ways of engaging with nature, learning from it, and appreciating its beauty. And I think the world needs more of that.<br/><br/>Image references:<br/>Sojourner: an insider's view of the Mars Pathfinder mission. Andrew Mishkin, 2003.<br/><a href='https://photojournal.jpl.nasa.gov/jpegMod/PIA00968_modest.jpg' target=blank>PIA00968</a><br/><a href='https://photojournal.jpl.nasa.gov/tiff/PIA00908.tif' target=blank>PIA00908</a><br/><a href='https://photojournal.jpl.nasa.gov/tiff/PIA04318.tif' target=blank>PIA04318</a><br/><a href='https://photojournal.jpl.nasa.gov/tiff/PIA00923.tif' target=blank>PIA00923</a><br/><a href='https://photojournal.jpl.nasa.gov/jpegMod/PIA01122_modest.jpg' target=blank>PIA01122</a><br/><a href='https://photojournal.jpl.nasa.gov/jpegMod/PIA00004_modest.jpg' target=blank>PIA00004</a><br/><p style = 'color: #8b8b8b'>tic</p>"
+
+
+[[items]]
+title = "Psyche Knowledge"
+image = "/img/Psyche_Knowledge-variation-web.jpg"
+thumb = "/img/Psyche_Knowledge-variation-thumb.JPG"
+alt = "Telescopes and radar dishes and spacecraft surrounding a point of light."
+description = "We're off on an expedition to a massive chunk of metal!<br/>These images were inspired by NASA's Psyche mission, which launched on October 13, 2023 to explore the asteroid of the same name. Psyche (the asteroid) orbits the Sun between Mars and Jupiter, and has an unusually metal-rich composition. This indicates that it may be an exposed fragment of a larger object's core---a remnant of the tumultuous early days of our Solar System. We know that much from looking at the asteroid with telescopes and radar---to learn more, we'll have to get a closer look. So Psyche (the vehicle) has now begun its several-year voyage to the asteroid, to get that closer look. For more information, go to the Psyche mission websites (<a href='https://psyche.asu.edu' target=blank>psyche.asu.edu</a> and <a href='https://blogs.nasa.gov/psyche/' target=blank>blogs.nasa.gov/psyche</a>).<br/>(Footnote: I actually had a couple of internships doing illustrations for the Psyche mission, back in 2018 and 2019.)<br/><p style = 'color: #8b8b8b'>Canterbury</p>"
+
+[[items]]
+title = "The Story of Earth"
+image = "/img/EarthStory_revised-web.jpg"
+thumb = "/img/EarthStory_revised-thumb.JPG"
+alt = "A light blue circle surrounding a blue-and-green circle surrounding a brown circle."
+description = "There's a lot going on in the world!<br/>About 1,800 miles below you, there's a ball of solid metal, surrounded by liquid metal. The liquid metal flows and generates a magnetic field that shields the planet against hazardous radiation from space.<br/>Up here at the surface, there are layers of silicate-based rocks---a lot of different kinds, each the product of processes that take place over millions of years. (And they're not done---rock formations are constantly eroding, with their materials being carried off and eventually reprocessed into other rocks.)<br/>Then there's the ocean, which covers about 70% of the Earth's surface. Only 5% of its volume has really been explored---there's a lot still to discover out there.<br/>And all throughout the world, there's life---plants, animals, you, me, etc.<br/>Surrounding us, there's the atmosphere, which is filled with amazing transient formations like clouds and weather fronts. At every moment in time, it's a little bit different.<br/>And then, outside of the atmosphere, there's a whole universe of stars and planets.<br/><br/>References:<br/><a href='https://sos.noaa.gov/catalog/datasets/land-to-sea-ratio/' target = blank>NOAA: Land to Sea Ratio</a><br/><a href='https://oceanexplorer.noaa.gov/technology/magnetometer/magnetometer.html' target=blank>NOAA: Magnetometer</a><br/><a href='https://oceanliteracy.unesco.org/ocean-exploration/' target=blank>UNESCO: Ocean Exploration</a><br/><a href='https://education.nationalgeographic.org/resource/core/' target=blank>National Geographic: Earth's Core</a><br/><p style = 'color: #8b8b8b'>reconciliations</p>"
+
+[[items]]
+title = "Critical Thinking"
+image = "/img/CriticalThinking-web.jpg"
+thumb = "/img/CriticalThinking-thumb.JPG"
+alt = "A checkerboard with objects on it."
+description = "Simple techniques to think better!<br/>This is an image about techniques for figuring things out. One powerful technique is called Occam's Razor: simpler explanations tend to be better than more complicated ones. (For instance, fictitious conspiracy theories tend to involve a lot of events in different places and organizations, whereas real political misconduct tends to be fairly limited in scope.)<br/>Another helpful tool is to look for the right kind of evidence: instead of searching for evidence to confirm a particular idea, it's usually more helpful to look for evidence that lets you distinguish between different explanations (for instance, trying to find evidence that would disprove the idea you think is correct.)<br/><br/>References:<br/><a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233879' target=blank>An automated pipeline for the discovery of conspiracy and conspiracy theory narrative frameworks</a><br/><a href='https://www.cia.gov/static/9a5f1162fd0932c29bfed1c030edf4ae/Pyschology-of-Intelligence-Analysis.pdf' target=blank>The Psychology of Intelligence Analysis</a><br/><p style = 'color: #8b8b8b'>flag</p>"
+
+[[items]]
+title = "Model Simplicity"
+image = "/img/Simplicity-web.jpg"
+thumb = "/img/Simplicity-thumb.JPG"
+alt = "Three glowing pipes leading into a box, with a bunch of other pipes in the background."
+description = "Sometimes it's helpful to know <i>less</i> about the thing you're trying to understand.<br/v>This image was inspired by information from a couple of books I read---The Psychology of Intelligence Analysis (by Richards J. Heuer, Jr.), and How The Ocean Works (by Mark Denny.)<br/>The first book describes an experiment where horse-racing experts were asked to predict the outcome of a race based on varying amounts of information (from 5 pieces of information about each horse, up to 40 pieces of information.) Interestingly, increasing the amount of information available had very little effect on the accuracy of the predictions (though it did falsely increase the experts' confidence in their accuracy.)<br/>In the second book, the author describes a discussion of 3 mathematical models for understanding natural processes in the ocean. One model used 3 pieces of information and produced an 80% accurate result, one produced a 90% accurate result from seven or eight inputs, and one used fifteen pieces of information to produce a 95% accurate result. Dick Barber of Duke University made an interesting argument that the first model was, in some sense, better. While it only achieved 80% accuracy, it did so with very little information---and so the information it did use was clearly very important.<br/>So the next time you're trying to understand something, ask yourself what information you really need.<br/><p style = 'color: #8b8b8b'>vacationers</p>"
+
+[[items]]
+title = "Prickly Pear"
+image = "/img/PricklyPear_finish-web.jpg"
+thumb = "/img/PricklyPear_finish-thumb.JPG"
+alt = "A prickly pear cactus on a tan background."
+description = "Time for some more botanical illustration!<br/>This is a prickly pear cactus. When I was growing up I was really interested in cacti for a while. Then my interests shifted to manatees, then rabbits, and eventually cameras. (I've also been obsessed with space travel for most of my life.) Now I'm checking out cacti again, since they're still pretty interesting.<br/><p style = 'color: #8b8b8b'>wholesales</p>"
+
+[[items]]
+title = "South San Francisco Fog"
+image = "/img/SouthSanFranciscoFog-web.jpg"
+thumb = "/img/SouthSanFranciscoFog-thumb.JPG"
+alt = "A bank of fog at sunset, with a row of houses in front."
+description = "This image was inspired by a scene I saw from the train while leaving [CCA] one evening in 2019 or 2020. The sun had just set, so it was getting dark. The streetlights were coming on, and fog was rolling in around the houses. It was such a striking contrast between the natural and artificial worlds that I finally had to make an image of it.<br/<br/>Technical details:<br/>Blender 3.2, Cycles render, 10 minute time limit per tile. The clouds and fog were created by painting a texture in Krita and then using that to control the density of a volume material. The background is a gradient texture composited in with a Z Combine node. The windows of the houses are a Glossy/Emission mixed material, with the emission strength randomized using the Per Island output of a Geometry input node.<br/><p style = 'color: #8b8b8b'>logging</p>"
+
+[[items]]
+title = "Ionian Enchantment"
+image = "/img/IonianEnchantment_boosted-web.jpg"
+thumb = "/img/IonianEnchantment_boosted-thumb.JPG"
+alt = "A bunch of jewel-like objects in front of a blurry picture of the Earth and Moon"
+description = "Finding beauty in the laws of physics!<br/>This image is based on a concept that the scientist Edward O. Wilson called the Ionian Enchantment. This is the feeling that you get when you really think about how all the complexity of the universe is created by the same simple physical principles. For example: when light reflects off of a tree, it's doing exactly what it does when it reflects off of the Moon. Physical forces operate in the same way throughout the whole universe, and we can (approximately) understand them. There will always be uncertainties, complexities, and things we don't know---the world will always be blurry---but there are a lot of things that we do know, and it's worth taking a moment to appreciate that once in a while.<br/><br/>Inspired by the book Why does E=mc2? (And Why Should We Care?) (Brian Cox & Jeff Forshaw, 2009)<br/><p style = 'color: #8b8b8b'>vicarages</p>"
+
+[[items]]
+title = "Patience (Mariner 9)"
+image = "/img/Patience-web.jpg"
+thumb = "/img/Patience-thumb.JPG"
+alt = "A spacecraft with four solar panels in front of an hourglass shape, with several images of Mars in the background."
+description = "Sometimes you need to delay your plans and wait for things to change.<br/>This is an image inspired by Mariner 9, a space probe that was launched in 1971 to orbit Mars and map that planet's surface. While en route, a massive storm developed, covering the entire Martian surface with thick dust clouds. Fortunately, Mariner 9 was equipped with a computer that could be re-programmed while in flight---so the mission controllers simply changed the program so that it would map the planet later, when the dust had cleared.<br/>Eventually, the storm did stop, and Mariner 9 continued its mission---discovering a 3000-kilometer-long canyon system, which was named Valles Marineris in honor of the spacecraft.<br/>So sometimes, you need to change your original plan because of factors you can't control, and wait a while for conditions to improve.<br/><br/>You can buy a poster of this image <a href='https://www.zazzle.com/patience_mariner_9_spacecraft_poster-228062342115238507' target = blank>here.</a><br/><br/>References:<br/><a href='https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-051A' target=blank>Mariner 9</a><br/><a href='https://www.nasa.gov/multimedia/imagegallery/image_feature_83.html' target = blank>Valles Marineris</a><br/><br/>Further Reading:<br/><a href='https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-045A' target = blank>Mars 2</a><br/><a href='https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-049A' target = blank>Mars 3</a><br/><a href='https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-049F' target = blank>Mars 3 Lander</a><br/><a href='http://mentallandscape.com/C_CatalogMars.htm' target = blank>Soviet Mars Images</a><br/><p style = 'color: #8b8b8b'>liquidized</p>"
+
+[[items]]
+title = "Pectin Electronics"
+image = "/img/PectinElectronics-web.jpg"
+thumb = "/img/PectinElectronics-thumb.JPG"
+alt = "A jam jar, a strawberry, a bandage, some circuitry, and a bunch of molecules."
+description = "The jam in your fridge contains stuff that can be made into cutting-edge electronics.<br/>In 2017, some researchers at Caltech and ETH Zurich developed a method to make advanced electronic temperature sensors out of pectin. (Pectin is commonly encountered as the stuff that gives jam its thickness.) The resulting sensors are incredibly sensitive and flexible, which could make them useful for medical applications. Also, pectin is inexpensive and environmentally friendly to produce, so it could be used to make more sustainable electronics. You can read more <a href='https://www.caltech.edu/about/news/engineers-create-artificial-skin-feels-temperature-changes-53779' target=blank>here</a> and <a href='https://resolver.caltech.edu/CaltechAUTHORS:20170202-151758407' target=blank>here.</a><br/>Additional information from <a href='https://pubchem.ncbi.nlm.nih.gov/compound/441476' target=blank>here.</a><br/><p style = 'color: #8b8b8b'>Include microfilm</p>"
+
+[[items]]
+title = "Redwood Forest"
+image = "/img/NiseneMarks1b-finish-web.jpg"
+thumb = "/img/NiseneMarks1b-finish-thumb.JPG"
+alt = "A large redwood forest, with a small bridge over a stream."
+description = "This image was inspired by a visit to the Forest of Nisene Marks State Park, in California. When I'm in a redwood forest, I can really feel how immense and mysterious the world is. But I can also take comfort in the knowledge that I can understand some of the world's mysteries, and in the fact that I'm a part of this world too.<br/><p style = 'color: #8b8b8b'>Include a proton</p>"
+
+[[items]]
+title = "Limited Invisibility"
+image = "/img/LimitedInvisibility-web.jpg"
+thumb = "/img/LimitedInvisibility-thumb.JPG"
+alt = "A silhouette in a hallway, with a potted plant and a security camera."
+description = "Invisibility devices have long been a part of science fiction and fantasy. Technology is beginning to catch up---though existing invisibility systems are still rather limited. But a limited invisibility system might still be useful, even if using it could be a bit hair-raising. That's the premise of my latest science fiction story, Limited Invisibility, which you can read <a href='/fiction/limited-invisibility/'>here.</a><br/><p style = 'color: #8b8b8b'>Include a growl</p>"
+
+[[items]]
+title = "Adaptability"
+image = "/img/Adaptability-web.jpg"
+thumb = "/img/Adaptability-thumb.JPG"
+alt = "Three images of a spacecraft, a comet, the Earth, and the Sun."
+description = "Sometimes you do things that no one ever expected.<br/>This is an image of the International Cometary Explorer spacecraft. This spacecraft was launched in 1978 as International Sun/Earth Explorer 3, collecting data about Earth's magnetic field, the Sun, and their interactions with each other. Then, in 1982, NASA repurposed the probe to explore a comet. Using some gravity assists, the probe was sent towards Comet Giacobini-Zinner (and later, Halley's Comet), collecting data far beyond its designers' original intentions.<br/>But the story doesn't end there. In 2014, the vehicle's orbit brought it close to Earth again. An unofficial team was able to re-establish contact with the probe and briefly operate it---36 years after its launch.<br/>So you never know what you and your tools might be capable of. Even an old 1970s-era spacecraft had a lot of untapped potential, and clever thinking enabled people to accomplish a lot with it.<br/><br/>References:<br/><a href='https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-079A' target=blank>National Space Science Data Center</a><br/><a href='https://www.nbcnews.com/science/space/crowdfunded-project-reboots-36-year-old-isee-3-spacecraft-n118106' target=blank>Crowdfunded Project Reboots 36-Year-Old ISEE-3 Spacecraft</a><br/><a href='http://spacecollege.org/isee3/' target=blank>Space College: ISEE-3</a>"
+
+[[items]]
+title = "Literature for Llamas"
+image = "/img/LiteratureForLlamas-web.jpg"
+thumb = "/img/LiteratureForLlamas-thumb.JPG"
+alt = "A letter sitting in front of a wooden object with alcoves holding a pocket watch and some books."
+description = "I've released a new album of ambient/electronic music! It's called Literature for Llamas. It's not literature, and it has basically nothing to do with llamas---I'm following the Holy Roman Empire approach to product naming. You can listen to it <a href='https://benconway.bandcamp.com/album/literature-for-llamas' target=blank>here.</a>"
+
+[[items]]
+title = "Universalizability"
+image = "/img/Universalizability-web.jpg"
+thumb = "/img/Universalizability-thumb.JPG"
+alt = "A stylized black and white image of a group of people, a globe, and a single person."
+description = "It's philosophy time! <br/>This image is based on a concept thought up by the philosopher Immanuel Kant. He proposed that, to determine if an action is ethical in any particular situation, you should consider what kind of a world we'd live in if everyone did the same thing in that situation. It's not perfect (ethical concepts can't really be perfect, the subject matter is too complex), but it's a useful tool for thinking through certain dilemmas.<br/><br/>Source: Groundwork of the Metaphysics of Morals, by Immanuel Kant; as printed in Introduction to Philosophy (Perry, Bratman, and Fischer, 2016.)"
+
+[[items]]
+title = "Plant Complexity"
+image = "/img/PlantComplexity_B-web.jpg"
+thumb = "/img/PlantComplexity_B-thumb.JPG"
+alt = "A plant surrounded by particles, an atom, molecules, cells, a bee, clouds, and a globe."
+description = "Tracing the complexity of plants from the quantum to the planetary scale!<br/>Recently I was thinking about how complicated plants and ecosystems really are. They're made of fundamental particles, which form atoms, which form molecules (some simple, some very complicated), which form cells, which form plants and animals and insects, which form ecosystems, which have effects on complex weather patterns and the overall state of the planet.<br/><br/>Sources:<br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/5748352' target=blank>Chlorophyll</a><br/><a href='https://www.coursera.org/learn/basic-chemistry' target=blank>Introduction to Chemistry: Structures and Solutions</a><br/><a href='https://iupac.org/what-we-do/periodic-table-of-elements/' target=blank>Periodic Table</a><br/><a href=' https://winter.group.shef.ac.uk/orbitron/' target=blank>The Orbitron</a>"
+
+[[items]]
+title = "Finding Yourself"
+image = "/img/FindingYourself-web.jpg"
+thumb = "/img/FindingYourself-thumb.JPG"
+alt = "A vague indication of a face in front of a telephone-like switchboard."
+description = "What if there were someone whose mind was made of a bunch of different parts working together? And what if they didn't know how all those parts were supposed to be connected? That's the premise of my latest science fiction story, Finding Yourself, which you can read <a href='/fiction/finding-yourself/'>here.</a>"
+
+[[items]]
+title = "Love-in-a-mist"
+image = "/img/Love-in-a-mist-web.jpg"
+thumb = "/img/Love-in-a-mist-thumb.JPG"
+alt = "A green plant with an airship-shaped pod on it."
+description = "This is a 3D model of a love-in-a-mist plant <a href='https://hort.extension.wisc.edu/articles/love-in-a-mist-nigella-damascena/' target=blank>(Nigella damascena.)</a> When I was growing up I used to pick the seed capsules and pretend that they were spaceships and dirigibles."
+
+[[items]]
+title = "Buckeye Morning"
+image = "/img/Buckeye_Morning-web.jpg"
+thumb = "/img/Buckeye_Morning-thumb.JPG"
+alt = "A buoy floating on a lake."
+description = "This is one of a series of watercolor pencil landscapes I've done over the past year or so---this one is at Buckeye Lake State Park in central Ohio. It's not really a literal image of any specific time or place---it's a composite of several different scenes that I photographed during my visit."
+
+[[items]]
+title = "El Chorro"
+image = "/img/ElChorro-finish-b-web.jpg"
+thumb = "/img/ElChorro-finish-b-thumb.JPG"
+alt = "Rock formations, trees, and golden grass."
+description = "Watercolor pencil landscape inspired by the landscape of El Chorro Regional Park in southern California."
+
+[[items]]
+title = "Radar Ornithology"
+image = "/img/RadarOrnithology_finish-web.jpg"
+thumb = "/img/RadarOrnithology_finish-thumb.JPG"
+alt = "A bunch of birds, two cities, and a radar tower."
+description = "Using weather radar to protect migrating birds!<br/>This is an illustration about radar ornithology---specifically the <a href='https://birdcast.info/'>BirdCast project.</a> All across the US, there are radar facilities to monitor the weather---but they also detect other things, like bats and insects and birds. This isn't useful for weather prediction, but it can be used for other things. By carefully analyzing the radar data, scientists can determine which radar returns come from flocks of migrating birds.<br/>When migrating birds pass through a brightly-lit city at night, it can be dangerous for them---the bright lights confuse the birds and can make them run into buildings. But since scientists can track the birds on radar, they can warn the cities in advance---people in the birds' flight path can then shut off their non-essential lights, allowing the birds to continue on their way safely.<br/><br/> References:<br/><a href='https://mailchi.mp/cornell/release-migration-is-on-turn-lights-off-1323897?e=f0b505020c'>Migration Is On, Turn Lights Off.</a><br/><a href='https://birdcast.info/'>BirdCast.info</a><br/><a href='https://birdcast.info/news/a-primer-for-using-weather-surveillance-radar-to-study-bird-migration/'>A Primer For Using Weather Surveillance Radar To Study Bird Migration</a><br/><a href='https://www.weather.gov/bmx/radar_dualpol'>Dual-Polarization Radar</a>"
+
+[[items]]
+title = "Psychology for Penguins"
+image = "/img/PsychologyForPenguins-web.jpg"
+thumb = "/img/PsychologyForPenguins-thumb.JPG"
+alt = "A mirror and some pipes and plants in a brightly lit room."
+description = "Here's my latest album: <a href='https://benconway.bandcamp.com/album/psychology-for-penguins'>Psychology for Penguins!</a> You don't have to be a penguin to listen to it, though. (But if you are a penguin, hi! Here's an album for you!)<br/>The Song of the Tides is actually based on a <a href='/tide-sound/'>data visualization experiment</a>---I was experimenting with visualizing the tides, and I noticed that the tide graph had an interesting waveform to it. One of the Csound instruments in this song uses <a href='https://tidesandcurrents.noaa.gov/harcon.html?id=9414750'>NOAA data</a> to synthesize a similar waveform at audio frequencies---the sound of the interactions between the Moon, the Sun, and the sea.<br/>Morning Run is another experiment in a less-ambient direction---it has more of a melody and structure to it. It was partially inspired by a visit to New England in 2021.<br/>Mountain Snow was an experiment with acoustic instruments and extreme time-stretching using the Paulstretch algorithm. The whooshing sounds in the background are derived from the same recording as the primary melodic motif, just stretched out a lot.<br/>And Observe the Universe is inspired by a philosophical motto that I've been trying to live by: 'Stop worrying and observe the universe.' (The first half of the motto is much harder. I'll probably write a piece of music about that some day, too.)"
+
+[[items]]
+title = "Ranger/Persistence"
+image = "/img/RangerPersistence-B-web.jpg"
+thumb = "/img/RangerPersistence-B-thumb.JPG"
+alt = "A pile of spacecraft and the Moon."
+description = "Success isn't about never failing, it's about trying again until you succeed.<br/>This is an image based on the Ranger program, a 1960s-era project to crash a space probe into the Moon. Ranger 1 and 2 (at the bottom of the image) were prototype missions, intended to stay in Earth orbit to test the spacecraft systems. Unfortunately, they both ended up in orbits much too low to accomplish their mission. Ranger 3 (middle, left) was an ambitious mission to study the Moon up close and land a scientific instrument package on the lunar surface, but it missed the Moon entirely. Ranger 4 experienced a computer failure and made an uncontrolled crash landing on the far side of the Moon without returning any data. Ranger 5 missed the Moon again due to electrical problems. Ranger 6 was a much-simplified mission carrying only TV cameras to photograph the Moon up close---it reached the Moon all right, but then the cameras malfunctioned and didn't turn on. But finally, on July 31, 1964, Ranger 7 performed its mission perfectly---taking 4,316 pictures of the Moon and transmitting them back to Earth.<br/>So even if your previous attempts at something didn't work out, it doesn't mean that you'll never succeed.<br/><br/>Information from <a href='https://www.history.nasa.gov/SP-4210/pages/TOC.htm' target=blank>Lunar Impact: A History of Project Ranger.</a>"
+
+[[items]]
+title = "Child Kit"
+image = "/img/ChildKit-web.jpg"
+thumb = "/img/ChildKit-thumb.JPG"
+alt = "Plastic parts for a robot sitting on a table."
+description = "What if children matured completely in the course of a single day? That's the premise behind my new science fiction short story, which you can read <a href='/fiction/child-kit/'>here.</a>"
+
+[[items]]
+title = "Cepheid Variables"
+image = "/img/CepheidVariables-web.jpg"
+thumb = "/img/CepheidVariables-thumb.JPG"
+alt = "A bunch of stars and waveforms."
+description = "Measuring the cosmos with flashing stars!<br/>This is an illustration about Cepheid variables. This type of star becomes brighter and fainter according to a regular pattern. In 1912, the astronomer Henrietta Swan Leavitt discovered that the speed of a Cepheid variable's pulsation is related to how much light it produces. If you see a Cepheid variable pulsing slowly, but it looks very faint, you can tell that it's actually a bright star that's just located far away. (A closer star would have to produce less light to look that faint, and if it produced less light it would blink faster.) Astronomers used this relationship, called Leavitt's Law, to determine that the Andromeda Galaxy is in fact a galaxy, and not just a cloud in our own galaxy. Leavitt's Law continues to be used to make accurate measurements of cosmic distances.<br/><br/>References and further reading:<br/><a href='https://www.aavso.org/vsots_delcep'>Delta Cephei</a><br/><a href='https://starchild.gsfc.nasa.gov/docs/StarChild/questions/cepheids.html'>Cepheids</a><br/><a href='https://apod.nasa.gov/apod/ap110701.html'>VAR!</a><br/><a href='https://www.mso.anu.edu.au/~jerjen/researchprojects/cepheids/cepheids.html'>Cepheid Research Project</a><br/><a href='http://www.aavso.org/cosmic-distance-ladder'>Cosmic Distance Ladder</a>"
+
+[[items]]
+title = "Roger and Deer 2"
+image = "/img/RogerAndDeer2-web.jpg"
+thumb = "/img/RogerAndDeer2-thumb.JPG"
+alt = "A deer next to a pile of books."
+description = "Roger and his roommate Deer the deer are back! <a href='https://www.benconway.art/fiction/roger-and-deer-2/'> Roger and Deer 2. </a>"
+
+[[items]]
+title = "Cognitive Archaeology"
+image = "/img/CognitiveArchaeology-web.jpg"
+thumb = "/img/CognitiveArchaeology-thumb.JPG"
+alt = "Four outlines of people surrounded by stone tools."
+description = "Tracing the origin of language with ancient stone tools!<br/>This image was inspired by an interview with Cory Stade on Language Log. She brought up a really fascinating concept that I hadn't thought of before---the idea that we can detect physical traces of the cognitive and linguistic capabilities of prehistoric people. It's based on the techniques used to make stone tools. In the oldest archaeological sites, there's significant variation in the tools (and, by inference, the techniques used to make them.) But at some point, the tools and techniques become more similar. It's likely that this increased similarity was caused by the toolmakers being able to learn how to do things from each other. I think it's really cool that someone can look at an ancient stone tool and determine things about the mind of the person who made it.<br/><br/>References:<br/><a href='https://languagelog.ldc.upenn.edu/nll/?p=52804#more-52804' target=blank>Language Log interview with Cory Stade.</a><br/><a href='https://journals.plos.org/plosone/article/figures?id=10.1371/journal.pone.0177063' target=blank>Additional information from this PLoS One article.</a>"
+
+[[items]]
+title = "Forest Pond"
+image = "/img/ForestPond-web.jpg"
+thumb = "/img/ForestPond-thumb.JPG"
+alt = "A pond in the forest with a mini-submarine in it."
+description = "I've written some more short fiction! It's about exploring a pond in the middle of a forest, using a robotic mini-submarine. Here it is: <a href='/fiction/forest-pond/'>Forest Pond.</a>"
+
+[[items]]
+title = "Synchrotron Palimpsest"
+image = "/img/SynchrotronPalimpsestFinal-web.jpg"
+thumb = "/img/SynchrotronPalimpsestFinal-thumb.JPG"
+alt = "A beam of light shining from a glowing glass ring onto an old document."
+description = "Using the X-rays from relativistic electrons to unlock hidden secrets in ancient manuscripts!<br/>In ancient times, writing material (usually parchment) was expensive and hard to come by. So frequently it got reused---someone would scrape the writing off of an old document and write over it. This type of overwritten document is known as a palimpsest. Many historically-significant documents were lost in this way---but they weren't quite gone.<br/>Electrons moving at close to the speed of light produce powerful blasts of X-rays under certain conditions. Scientists working with particle accelerators thought this was a nuisance at first, but then they realized that the intense X-rays could actually be useful.<br/>And one use turned out to be retrieving the original, lost text from palimpsests. The X-rays can cause the remnants of the erased ink to fluoresce, thus allowing the missing text to be recovered. The SLAC National Accelerator Laboratory has used this technique to study a variety of ancient documents, including ones by the Greek scientist Archimedes and the Roman doctor Galen.<br/><br/>References:<br/><a href='https://www6.slac.stanford.edu/news/2018-03-22-hidden-medical-text-read-first-time-thousand-years.aspx'>Hidden Medical Text Read for the First Time in a Thousand Years.</a><br/><a href='https://www.slac.stanford.edu/gen/com/slac_pr.html'>Archimedes Palimpsest.</a><br/>Special thanks to SLAC scientist Sam Webb for his presentation on synchrotron radiation, which I saw while touring SLAC with a group from California College of the Arts."
+
+[[items]]
+title = "Navigation"
+image = "/img/NavigationCover-web.jpg"
+thumb = "/img/NavigationCover-thumb.JPG"
+alt = "A signpost on a grassy hill, with the Moon in the background."
+description = "I've released some more music! You can download it <a href='https://benconway.bandcamp.com/album/navigation' target=blank>here.</a><br/>These past few years, for some reason, I keep thinking about the concept of using external signals to figure out confusing situations. Weather radio, VOR aircraft beacons, etc. That's only vaguely related to the music here but I thought I'd mention it.<br/>These are a couple of pieces that I was planning to put on my next album, but they didn't really fit there. I realized that they worked pretty well together, so I'm releasing them as a pair. As an experiment, I'm making them available for free (you can also pay if you want, but you don't have to.) I hope you like them, and that they'll help you navigate through any confusing situations that you find yourself in."
+
+[[items]]
+title = "SETI"
+image = "/img/SETI-web.jpg"
+thumb = "/img/SETI-thumb.JPG"
+alt = "A bunch of books and gears and things, a planet and a moon, a bunch of stars, two telescopes and the letters 6EQUJ5."
+description = "There could be other civilizations out there, or we could be unique in the whole universe. We'll never know, unless we look.<br/>This image is based on the concept of the Search for Extraterrestrial Intelligence, also known as SETI. So far, there have been lots of false alarms---and one signal that we still haven't figured out yet. That signal, called the Wow Signal, was detected by a radio telescope at the Ohio State University in 1977. It was just a brief pulse of radio waves, represented by the letters 6EQUJ5. We haven't detected anything like it since then, and we still don't know what it is.<br/>We'll never know---unless we look.<br/><br/>For more about the Wow Signal, see <a href='http://www.bigear.org/wowmenu.htm'>here.</a><br/>For more about the radio telescope that detected the Wow Signal, see <a href='https://apod.nasa.gov/apod/ap980917.html'>here.</a><br/>For more about SETI, see <a href='https://www.seti.org'> here.</a>"
+
+
+[[items]]
+title = "Philosophy for Dolphins"
+image = "/img/PhilosophyForDolphins-web.jpg"
+thumb = "/img/PhilosophyForDolphins-thumb.JPG"
+alt = "A message in a bottle, floating in the ocean."
+description = "This is my latest collection of experimental ambient music, <a href='https://benconway.bandcamp.com/album/philosophy-for-dolphins'>Philosophy for Dolphins.</a> It was written mostly in the spring of 2021. It kind of ended up having a travel theme, though that wasn't really intentional, and it may not feel travel-like to anyone but me. Music is like that. You're certainly welcome to find your own meaning in these sounds.<br/>Some of the tracks on this album grew out of experiments with Csound's non-linear filter. This is a software audio processing unit which is only partially documented---the Csound manual gives only a brief explanation of it. I explored the filter's settings in a partially systematic way, producing some new sounds that are heard (along with many others) on this album.<br/>Emerald Tower was a continuation of my previous experiments in making waveforms based on visual shapes---turns out there are a lot of different uses for the shapes of trees and plants. Who knew?<br/>Existence was an experiment of a different kind---writing a piece primarily for non-software instruments. It's still processed and assembled with Csound, but most of the sound was produced with physical instruments (lap harp/dulcimer, Hammond organ, child's accordion.) I plan to use this method more in the future.<br/>So now this batch of experiments is complete, and it's time to move on to the next one. I hope you enjoy the results of my auditory wanderings."
+
+[[items]]
+title = "Prejudice Reduction"
+image = "/img/CategoryCombination-finish-web.jpg"
+thumb = "/img/CategoryCombination-finish-thumb.JPG"
+alt = "An outline of a person in profile, with two boxes and a bridge inside their head."
+description = "Lately I've been reading up on the psychological concept of prejudice reduction. There is strong evidence that various psychological exercises can have a powerful effect on reducing prejudice. <a href='/science/psychology/'>This article</a> summarizes my understanding of some scientific papers I've read about prejudice reduction."
+
+[[items]]
+title = "Electric Moose"
+image = "/img/ElectricMooseCover-web.jpg"
+thumb = "/img/ElectricMooseCover-thumb.JPG"
+alt = "A factory at night, lit by yellow lights, against a stormy sky."
+description = "My latest EP, <a href='https://benconway.bandcamp.com/album/electric-moose'>Electric Moose,</a> represents a different approach to music that I've been experimenting with for a while. Most of this music is still fairly 'ambient', but it's a rougher kind of ambient. Like music for a thunderstorm, or for a power plant in the desert. They range from rhythmic tension music (Mechanical Mountain) to music that's contemplative but unstable (Sands of Time.) I've been working on these songs concurrently with my other type of music---Mechanical Mountain was actually written before most of the music on my first album, Chess for Dogs. My music process is very experimental---I don't usually start with a specific idea I'm working toward, just a general concept of the music's feel and instrumentation. Every once in a while the music project I'm working on will develop in this direction. I finally got enough pieces like this to release them together, and I'm planning to keep making more. Enjoy!"
+
+[[items]]
+title = "Europa"
+image = "/img/Europa-web.jpg"
+thumb = "/img/Europa-thumb.JPG"
+alt = "An icy moon and Jupiter and a spacecraft on a wavy background."
+description = "This is an illustration about Jupiter's moon Europa. Europa's center is a rocky core that may have active volcanoes. Its surface is icy, with strange geological formations and occasional geysers. And below the ice, there's an ocean---an ocean that may contain life. NASA is currently preparing to send the robotic Europa Clipper probe to investigate further. Getting approval to build Europa Clipper was an adventure in itself. I recommend David Brown's book The Mission for a look inside the intense world of planetary science and mission planning. The concept of a Europa mission has been around for decades, and it's taken this long for the plan to be revised, cancelled, revised, cancelled, revised, and finally approved through some impressive political maneuvering. I have to congratulate the scientists who planned this mission for their fortitude and courage in seeing the mission through those difficult times. And now Europa Clipper is under construction, and scheduled for launch in 2024. I look forward to seeing what it discovers.<br/><br/>References:<br/><a href='https://europa.nasa.gov/spacecraft/meet-europa-clipper/'>Meet Europa Clipper</a><br/><a href='https://photojournal.jpl.nasa.gov/catalog/PIA23809'>PIA23809</a><br/><a href='https://photojournal.jpl.nasa.gov/catalog/PIA19048'>PIA19048</a><br/><a href='https://photojournal.jpl.nasa.gov/catalog/PIA21443'>PIA21443</a><br/><a href='https://europa.nasa.gov/news/29/nasas-europa-clipper-builds-hardware-moves-toward-assembly/'>Europa Clipper Builds Hardware, Moves Toward Assembly</a><br/><a href='https://europa.nasa.gov/news/31/potential-plumes-on-europa-could-come-from-water-in-the-crust/'>Potential Plumes on Europa Could Come From Water In The Crust</a><br/><a href='https://europa.nasa.gov/news/32/europas-interior-may-be-hot-enough-to-fuel-seafloor-volcanoes/'>Europa's Interior May Be Hot Enough To Fuel Seafloor Volcanoes.</a><br/>The Mission. David Brown, 2021."
+
+[[items]]
+title = "Earth Looking Out"
+image = "/img/EarthLookingOut-web.jpg"
+thumb = "/img/EarthLookingOut-thumb.JPG"
+alt = "Earth surrounded by planets and stars and galaxies and comets."
+description = "We're a part of the universe.<br/>There's a lot of wonder out there in the universe---comets, planets, stars, galaxies. There's also a lot of wonder right here on Earth---plants, animals, mountains, the human condition. And it's all a part of the same thing---we're produced by the same fundamental physical forces. The universe is beautifully big and complex and intricate, and we're a part of it. <br/>Poster available <a href='https://www.zazzle.com/earth_looking_out_poster-228154753694117729' target=blank>here.</a>"
+
+[[items]]
+title = "Photosynthesis"
+image = "/img/Photosynthesis_Color-web.jpg"
+thumb = "/img/Photosynthesis_Color-thumb.JPG"
+alt = "A sunburst on a black background, surrounded by molecules."
+description = "The Story of Energy.<br/>This story starts inside the Sun, where hydrogen atoms (the oldest atoms in the universe) combine in a powerful fusion reaction to release energy. The energy then spends the next 170,000 years or so (!) making its way to the surface of the Sun. Once it reaches the surface, the light crosses the 93-million-mile void to Earth in about eight minutes. Upon arriving on Earth, some of that energy is captured by plants using chlorophyll and chemically stored as glucose, which then powers much of the planet's biosphere directly or indirectly. <br/>Poster available <a href='https://www.zazzle.com/story_of_energy_poster-228038394904112230' target=blank>here.</a><br/><br/>References:<br/><a href='https://solarsystem.nasa.gov/solar-system/sun/in-depth/' target=blank>Sun In Depth</a><br/><a href='https://www.nasa.gov/specials/ocean-worlds/' target=blank>Ocean Worlds</a><br/><a href='https://apod.nasa.gov/apod/ap160125.html' target=blank>Astronomy Picture of the Day</a><br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/16667503' target=blank>Chlorophyll</a><br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/5793' target=blank>Glucose</a><br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/280' target=blank>Carbon dioxide</a><br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/977' target=blank>Oxygen</a><br/><a href='https://pubchem.ncbi.nlm.nih.gov/compound/962' target=blank>Water</a><br/><a href='https://ssec.si.edu/stemvisions-blog/what-photosynthesis' target=blank>What Is Photosynthesis?</a>"
+
+
+[[items]]
+title = "Robot Sheep"
+image = "/img/RobotSheep_Combined-web.jpg"
+thumb = "/img/RobotSheep_Combined-thumb.JPG"
+alt = "A robotic sheep and a normal sheep."
+description = "New Robot/Animals---Sheep and Robot Sheep! They like exploring their farm together, making ice cream, and reading. Robot Sheep also likes to identify plants. They're both very happy, and they want you to be happy too. Tote bag featuring Sheep and Robot Sheep now available on <a href='https://www.zazzle.com/robot_sheep_tote_bag-149233464764028787' target=blank>Zazzle.</a>"
+
+[[items]]
+title = "Lucy Mission"
+image = "/img/LucyMission-web.jpg"
+thumb = "/img/LucyMission-thumb.JPG"
+alt = "A spacecraft between two rows of images, with an orbit diagram behind it."
+description = "This is an illustration of NASA's Lucy mission, which launched in October 2021 to visit the Trojan asteroids. The Trojan asteroids are small objects caught between the gravity of a planet (in this case Jupiter) and the Sun, causing them to follow the same orbit as the planet. They are suspected to hold clues about the origin of the Solar System.<br/>Along the top of the image are the different types of data the mission plans to collect (thermal data, images, and spectra), and along the bottom are the instruments that will collect that data. In the middle, there's the Lucy vehicle itself and the trajectory through space that it will follow on its mission.<br/><br/>References: <br/><a href='https://www.nasa.gov/feature/goddard/2021/first-mission-to-trojans-installs-final-instrument' target=blank>First Mission to Trojans Installs Final Instrument</a><br/><a href='https://www.nasa.gov/feature/goddard/2021/first-mission-to-the-trojan-asteroids-integrates-its-second-scientific-instrument' target=blank>First Mission to Trojans Integrates Its Second Scientific Instrument</a><br/><a href='https://www.nasa.gov/feature/goddard/2020/first-scientific-instrument-installed-on-lucy-spacecraft' target=blank>First Scientific Instrument Installed On Lucy Spacecraft</a><br/><a href='https://www.nasa.gov/mission_pages/lucy/overview/index' target=blank>Lucy Overview</a><br/><a href='https://www.nasa.gov/content/lucy-spacecraft-and-payload' target=blank>Lucy Spacecraft and Payload</a><br/><a href='https://www.nasa.gov/image-feature/goddard/2020/lucy-spacecraft' target=blank>Lucy Spacecraft</a><br/><a href='http://lucy.swri.edu/2019/01/20/1000days.html' target=blank>1000 Days to Launch</a>"
+
+[[items]]
+title = "Physics for Squirrels"
+image = "/img/PhysicsForSquirrels-modified-web.jpg"
+thumb = "/img/PhysicsForSquirrels-modified-thumb.JPG"
+alt = "A drawing of a squirrel, surrounded by equations and physics experiments."
+description = "Album cover for my latest album of ambient music, <a href='https://benconway.bandcamp.com/album/physics-for-squirrels' target=blank>Physics for Squirrels.</a> The music was created over several months in 2020, primarily using the Csound audio programming language. The general intent of this music is to explore new approaches to sound creation while also moving the listener to a calmer state of mind. Most of the pieces on this album began as experiments with different aspects of the Csound language, which were then expanded into full tracks. For instance, Skyline began as an experiment with wave-terrain synthesis. Resilience and Rustic began as different ways to process recordings of a children's accordion. Other tracks on this album (in particular Blue and Winter Garden) were experiments in creating <a href='/wavetables/'>new waveforms based on the shapes of leaves and trees.</a>"
+
+[[items]]
+title = "Mars 2020"
+image = "/img/Mars2020-web.jpg"
+thumb = "/img/Mars2020-thumb.JPG"
+alt = "A rover being lowered onto a red planet, with a curved line connecting it to a blue planet."
+description = "Happy landing, Perseverance! And congratulations to everyone who worked on that project!"
+
+[[items]]
+title = "Laser Interferometer Gravity Observatory"
+image = "/img/LIGO-web.jpg"
+thumb = "/img/LIGO-thumb.JPG"
+alt = "A wavy image of two sets of crossed laser beams."
+description = "This is an illustration of the Laser Interferometer Gravity Observatory, or LIGO. LIGO detects gravitational waves, which are (very) subtle changes in space itself. These waves are emitted by powerful events like collisions between black holes and neutron stars, and cause space to expand and contract in a predictable pattern. LIGO's detectors are sensitive enough to measure these extremely small changes, and thus observe amazing astronomical events in a completely different way from conventional telescopes.<br/>References:<br/><a href='https://www.ligo.caltech.edu/page/ligos-ifo'>LIGO's Interferometer</a><br/><a href='https://www.ligo.caltech.edu/news/ligo20200623'>LIGO Finds Mystery Object In Mass Gap</a><br/><a href='https://www.ligo.caltech.edu/page/what-is-ligo'>What is LIGO?</a><br/><a href='https://www.ligo.caltech.edu/page/what-is-interferometer'>What is an Interferometer?</a><br/><a href='https://www.ligo.caltech.edu/page/ligo-detectors'>LIGO Detectors</a><br/><a href='https://www.ligo.caltech.edu/page/laser'>LIGO's Laser</a><br/><a href='https://www.ligo.caltech.edu/system/media_files/binaries/303/original/ligo-educators-guide.pdf?1455165573'>LIGO Educator's Guide (PDF)</a>"
+
+[[items]]
+title = "Desert Gardens (Expanded)"
+image = "/img/DesertGardens_Expanded/Vehicle-web.jpg"
+thumb = "/img/DesertGardens_Expanded/Vehicle-thumb.JPG"
+alt = "A wind-powered cart with a plant growing in it."
+description = "<a href='/fiction/desert-gardens-expanded'>Short story</a> and <a href='https://benconway.bandcamp.com/album/desert-gardens-expanded'>music EP</a> about wind-powered robotic gardens. It's a longer version of a project I released a few months ago. I expanded the story to give more details, made new illustrations, and wrote a few more pieces of music for it. There's also a What's Real section so you can learn about the real-world equivalents of the things in the story."
+
+[[items]]
+title = "Seek Wonder"
+image = "/img/SeekWonder-web.jpg"
+thumb = "/img/SeekWonder-thumb.JPG"
+alt = "A bunch of natural objects and scientific instruments."
+description = "Why discover new things? I think it has to do with seeking wonder. Finding new things out there that aren't what we're used to, and getting a new perspective on things we see every day. From fundamental particles, to coral reefs, to stars and distant galaxies---there's so much out there to see. This image is available as a poster from <a href='https://www.zazzle.com/print_value_poster_paper_matte-228825113765701999' target=blank>Zazzle.</a><br/><br/>References:<br/><a href='https://deepseacoraldata.noaa.gov/gallery/southern-california-bight'>NOAA Deep Sea Coral Data</a><br/><a href='https://oceanexplorer.noaa.gov/technology/subs/kraken2/kraken2.html'>Kraken 2</a><br/><a href='https://oceanexplorer.noaa.gov/technology/subs/alvin/alvin.html'>Alvin</a><br/><a href='https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells'>OpenStax Biology 2e</a><br/><a href='https://photojournal.jpl.nasa.gov/gallery/universe?subselect=Target%3AGalaxy+NGC+3310%3A'>Starburst Galaxy NGC3310</a><br/><a href='https://www.missionjuno.swri.edu/junocam/processing?source=junocam'>JunoCam</a>"
+
+[[items]]
+title = "Unicorn Spacecraft"
+image = "/img/UnicornSpacecraft/Cover-reworked-web.png"
+thumb = "/img/UnicornSpacecraft/Cover-reworked-thumb.png"
+alt = "Unicorn Spacecraft"
+description = "<a href='/fiction/unicorn-spacecraft'>Hard science fiction story</a> with unicorns in it. It's fairly grounded in actual science. The story focuses on the construction of solar sails---these are real and several have been launched. It also involves space elevators---these could exist in the future, if we can figure out how to make strong enough materials. Most science fiction writers just hand-wave through the 'making strong enough materials' part, so I figured I'd use unicorn hair in this story since unicorns are cool."
+
+[[items]]
+title = "Earth Observation"
+image = "/img/EarthObservation_web.png"
+thumb = "/img/EarthObservation_thumb.png"
+alt = "Earth Observation"
+description = "Earth observation satellites are really cool and lots of people don't know much about them. This is an illustration of NASA's Terra satellite, launched in 1999 to study Earth's surface and atmosphere. It flies over everywhere on Earth---rainforests, deserts, polar tundra---every 16 days. Information from the <a href ='https://terra.nasa.gov/wp-content/uploads/2014/04/Terra-Press-Kit-terra_press_kit.pdf'>Terra Press Kit</a>, <a href ='https://www.nasa.gov/mission_pages/terra/spacecraft/index.html'>Terra Spacecraft Page</a>, <a href='https://photojournal.jpl.nasa.gov/catalog/PIA04498'>Artist's Concept of Terra Satellite with MISR Onboard</a>, and the <a href ='https://www.nasa.gov/mission_pages/terra/science/index.html'>Terra Science Page.</a>"
+
+[[items]]
+title = "Roger and Deer"
+image = "/img/RogerAndDeer_web.png"
+thumb = "/img/RogerAndDeer_web.png"
+alt = "Roger and Deer"
+description = "<a href = '/fiction/roger-and-deer/'>This</a> is a short story about a person named Roger whose roommate is a deer who likes electronic dance music."
+
+[[items]]
+title = "Better Future 3"
+image = "/img/BetterFuture3.png"
+thumb = "/img/BetterFuture3-thumb.png"
+alt = "Better Future 3"
+description = "This piece was inspired by Comet NEOWISE. Observing the sky makes me think about the fact that we're all a part of the same universe: the sky is there for everyone. It's something that we all have in common. I think that's an important thing to remember in times like this."
+
+[[items]]
+title = "Better Future 2"
+image = "/img/BetterFuture2-web.png"
+thumb = "/img/BetterFuture2-thumb.png"
+alt = "Better Future 2"
+description = "We can choose a better future. This is what that future could look like. Climate change is a big problem, but if we make the right decisions now we can fix it.<br/><br/>This image was inspired by the Intergovernmental Panel on Climate Change's 2014 Synthesis Report Summary for Policymakers, and by information from the <a href='http://www.fao.org/conservation-agriculture/en/'>United Nations Food and Agriculture Organization.</a>"
+
+[[items]]
+title = "Deep Canvassing"
+image = "/img/DeepCanvassing-web.png"
+thumb = "/img/DeepCanvassing-thumb.png"
+alt = "Deep Canvassing"
+description = "This is an image based on the psychological concept of deep canvassing. This is a technique for reducing bias and increasing empathy, by having individuals compare other people's experiences and perspectives with their own. <br/><br/>Inspired by information from <a href='https://www.happinesslab.fm/season-2-episodes/episode-9-the-war-for-kindness'>The Happiness Lab</a> and the paper <a href='https://science.sciencemag.org/content/352/6282/220'>Durably Reducing Transphobia: A field experiment on door-to-door canvassing.</a>"
+
+[[items]]
+title = "Neutrinos"
+image = "/img/Neutrinos-web.png"
+thumb = "/img/Neutrinos-thumb.png"
+alt = "Neutrinos"
+description = "This image represents neutrinos, a type of fundamental particle. Neutrinos pass right through normal matter because they are largely unaffected by the forces that block other particles. This image was also intended to counter common misconceptions about fundamental particles. Fundamental particles have no size, they are simply points in space which interact with certain forces---so they are represented here as diffuse lights.<br/><br/>This image was inspired by the episode <a href='https://www.iheart.com/podcast/105-daniel-and-jorge-explain-t-29862087/episode/what-is-a-neutrino-30262518/'>'What is a Neutrino?'</a> from the podcast Daniel and Jorge Explain the Universe."
+
+[[items]]
+title = "Scientific Method"
+image = "/img/ScientificMethod-web.png"
+thumb = "/img/ScientificMethod-thumb.png"
+alt = "Scientific Method"
+description = "This illustration shows the steps of the scientific method. The Thinker observes a ball falling. They form an idea based on this---that heavier objects will fall faster. They test this hypothesis with an experiment---dropping two balls. They both fall at the same speed, prompting a revision of the hypothesis. The Thinker then observes a leaf falling in an unexpected way, leading to further questions. (Objects like leaves and feathers fall more slowly on Earth due to air resistance. If you drop a hammer and feather in an airless environment, <a href='https://apod.nasa.gov/apod/ap111101.html'>as astronaut David Scott did during the Apollo 15 mission,</a> they will fall at the same speed.)"
+
+[[items]]
+title = "Robot Animal Squirrel"
+image = "/img/Squirrel-web.png"
+thumb = "/img/Squirrel-thumb.png"
+alt = "Squirrel"
+description = "This is the latest installment in the Robot Animal series, featuring a Mars-rover-inspired robot squirrel on one side and a regular squirrel on the other. It's available on <a href='https://www.zazzle.com/white_lunchbox-256958280394114733'>lunchboxes</a> and <a href='https://www.zazzle.com/robot_squirrel_tote_bag-149569353935518416'>tote bags.</a><br/><br/>Information for the Mars rover design was obtained from <a href='https://commons.m.wikimedia.org/wiki/File:Mars_Science_Laboratory_wheels.jpg'>this image</a> and <a href='https://space.stackexchange.com/questions/18270/planetary-rovers-six-wheels-vs-four/18271#18271'>this Stack Exchange answer.</a>"
+
+[[items]]
+title = "Better Future"
+image = "/img/BetterFuture.png"
+thumb = "/img/BetterFuture-thumb.png"
+alt = "Better Future"
+description = "This image shows positive things that can be done to solve the environmental crisis, including: <br/>+ Renewable electricity generation.<br/>+ Green infrastructure and distributed agriculture.<br/>+ Public transit.<br/>+ Improved insulation of buildings.<br/>+ Permeable pavement.<br/>+ Rainwater collection and improved drainage.<br/>+ Remote work.<br/>+ Repairing broken things instead of replacing them.<br/>+ Increased adoption of plant-based diets.<br/>The main information source for this image was the Intergovernmental Panel on Climate Change's 2014 Synthesis Report Summary for Policymakers. Some additional information was obtained from the article <a href='https://iopscience.iop.org/article/10.1088/1748-9326/aa7541#erlaa7541r22'> The Climate Mitigation Gap.</a>"
+
+[[items]]
+title = "Chess for Dogs"
+image = "/img/AlbumCover-low.png"
+thumb = "/img/AlbumCover-thumb.png"
+alt = "Chess for Dogs Album Cover"
+description = "This is the cover for my first album of ambient music, Chess for Dogs, which can be purchased on <a href='https://benconway.bandcamp.com/album/chess-for-dogs'>Bandcamp.</a> The objects in the cabinet reflect my musical process and the things that inspire me: travel and nature. The pieces of paper pinned to the back wall of the cabinet include snippets of Csound code. (Csound is the audio programming environment that I create most of my music with.) The chess piece, musical note, and metronome represent the fact that I create music by arranging sounds in a carefully planned fashion as opposed to improvising. The Erlenmeyer flask represents the process of experimenting with new sounds. The vehicle in the top center is the pop-top camper van that my family traveled in when I was growing up."
+
+[[items]]
+title = "Natural Cycles"
+image = "/img/NaturalCycles-low.png"
+thumb = "/img/NaturalCycles-thumb.png"
+alt = "Natural Cycles"
+description = "This is an illustration of the Earth's nitrogen, water, and carbon cycles. These natural processes are important to the entire ecosystem. Most images only show one of these cycles, so I decided to create an image that showed all three together. You can read more <a href = '/science/natural_cycles/'> here.</a>"
+
+[[items]]
+title = "Peripheral Vision"
+image = "/img/Interfaces-low.png"
+thumb = "/img/Interfaces-thumb.png"
+alt = "Peripheral Vision"
+description = "This piece is based on the effects that the urban environment has on animals. It's set in a fictional world not much different from our own, in which the animals start to become more intelligent due to the effects of the city. Signs of intelligence include tool use, collaboration, use of public transit, and literacy (shown here by a squirrel reading a newspaper over someone's shoulder.)</br></br>\"The animals are adapting to the city environment. They're making tools from trash and learning to communicate. Despite toxic chemicals and other hazards, they're thriving. At the edges, in the forgotten and worn-down patches of green space, a new civilization is emerging.\""
+
+[[items]]
+title = "Robot Animal"
+image = "/img/pillow-example-low.png"
+thumb = "/img/pillow-example-thumb.png"
+alt = "Robot Animal"
+description = "This is a development of a CCA surface design project. It's a fabric pattern for making a pillow, showing two animals and their whimsical robotic counterparts. Both robots have rather unusual designs---the deer is modeled after the aesthetics of classic cameras, the rabbit is modeled after 1960s electronics lab equipment. You can see the pillows I made <a href='making/pillows/'>here.</a> The fabric for making the pillows is available <a href='https://www.spoonflower.com/designs/9738353-robot-animal-diy-pillow-by-benconwayart'> on Spoonflower,</a> if you order it make sure you choose Lightweight Cotton Twill as the fabric type so it will be the right size."
+
+[[items]]
+title = "Orrery"
+image = "/img/Orrery-low.png"
+thumb = "/img/Orrery-thumb.png"
+alt = "Orrery"
+description = "This is an illustration depicting the environment of my short story, The Orrery. The story is <a href = '/fiction/orrery/'> here,</a> along with the piece of music I wrote to go with it. The music was created using the Csound audio programming environment. I've been interested in the possibility of combining visual art, music, and writing for a long time. This is my first significant foray in that direction, I intend to do more projects like this."
+
+[[items]]
+title = "Whimsy Mug"
+image = "/img/mug-anim.gif"
+thumb = "/img/mug-thumb.png"
+alt = "Whimsy Mug"
+description = "This is another CCA surface design class project. It's another project in my more whimsical style, though a bit less complex than some of the other whimsy projects I've done. See if you can spot the Erlenmeyer flask and the person wearing a hat."
+
+[[items]]
+title = "Theobroma Box"
+image = "/img/theobroma-1.png"
+thumb = "/img/theobroma-1-thumb.png"
+alt = "Theobroma Box"
+description = "This was a CCA surface design class assignment to create a packaging design for fair-trade chocolate. I based my design off of the chemical structure of theobromine, the main chemical constituent of the flavor of chocolate---the hexagon-pentagon shape all over the package is the <a href='https://pubchem.ncbi.nlm.nih.gov/compound/theobromine'>theobromine molecule.</a> Also featured on the package is the shape of <a href='http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:320783-2'>the cacao pod and the cacao leaf.</a> The edge of each package features some subtle elements related to the flavor of chocolate in the package. You can see other images of this project <a href='/surface/theobroma'>here.</a>"
+
+[[items]]
+title = "Arrival"
+image = "/img/arrival-low.png"
+thumb = "/img/arrival-thumb.png"
+alt = "Arrival"
+description = "This is one of the pieces I did during my internship at the Jet Propulsion Laboratory in 2019, in connection with the Psyche mission. The Psyche mission is a NASA mission to the asteroid 16 Psyche, which is a unique asteroid believed to be composed largely of metal. This image shows the Psyche space vehicle arriving at its destination. You can learn more about the mission <a href = 'https://psyche.asu.edu/mission/'> here.</a>"
+
+[[items]]
+title = "Eclipse"
+image = "/img/eclipse-low.png"
+thumb = "/img/eclipse-thumb.png"
+alt = "Eclipse"
+description = "This is another illustration that I did during my JPL internship. It shows the Psyche space vehicle orbiting 16 Psyche. While creating the images for this project I referred to mission planning documents to ensure accuracy of the details, including the orientation of the space vehicle relative to the asteroid and sun."
+
+[[items]]
+title = "Deep Space Optical Communications"
+image = "/img/DSOC-low.png"
+thumb = "/img/DSOC-thumb.png"
+alt = "Deep Space Optical Communications"
+description = "This image shows the Deep Space Optical Communications (DSOC) system that will be carried aboard the Psyche vehicle. DSOC uses lasers to communicate between the vehicle and Earth at a higher bandwidth than is possible using radio-based communication. You can read more about DSOC <a href = 'https://www.jpl.nasa.gov/news/news.php?feature=6967'> here.</a>"
+
+[[items]]
+title = "Road Trip"
+image = "/img/Roadtrip-low.png"
+thumb = "/img/Roadtrip-thumb.png"
+alt = "Road Trip"
+description = "This image shows the journey of the Psyche space probe as if it were a road trip. In reality, the vehicle is planned to launch in 2022, fly past Mars in 2023, and arrive at 16 Psyche in 2026. You can see the mission timeline <a href='https://psyche.asu.edu/timeline/'> here.</a>"
+
+[[items]]
+title = "Delta-DOR"
+image = "/img/Delta-DOR-low.png"
+thumb = "/img/Delta-DOR-thumb.png"
+alt = "Delta-DOR"
+description = "This illustration shows the delta differential one-way range technique for spacecraft navigation, which was explained to me by Sarah Bairstow of the Jet Propulsion Laboratory. Delta-DOR involves measuring the space vehicle's position from two ground stations, and calibrating these measurements by also measuring the radio emissions from a quasar. There isn't much information on Delta-DOR available online but there is a brief discussion of in on page 3 of <a href='https://www.jpl.nasa.gov/nmp/ds1/DS1_conclusion.pdf'> this PDF about a different mission.</a>"
+
+[[items]]
+title = "Clock"
+image = "/img/Clock-low.png"
+thumb = "/img/Clock-thumb.png"
+alt = "Clock"
+description = "This is a clock made from laser-cut wood, with LED lighting. I am planning to make a larger one in the future. The imagery on the clock is in a more whimsical style that's different from most of the other images on this page, but it's a style that I have worked with previously and plan to keep working with in the future."
+
+[[items]]
+title = "Whimsy"
+image = "/img/Whimsy-low.png"
+thumb = "/img/Whimsy-thumb.png"
+alt = "Whimsy"
+description = "This is an experimental piece. Basically the idea is to begin with a rough idea of what I want the picture to look like and then keep adding humorous details until I run out of good places to put them. The clock was developed in a similar fashion."
+
+[[items]]
+title = "Still Life"
+image = "/img/StillLife-low.png"
+thumb = "/img/StillLife-thumb.png"
+alt = "Still Life"
+description = "This is an illustration from my botanical observation class. The assignment was to create a still life showing our personality, and including some plants. I created an image of my studio, featuring a lemon and a leaf of miner's lettuce."
+
+[[items]]
+title = "Spacejunk"
+image = "/img/Spacejunk-low.png"
+thumb = "/img/Spacejunk-thumb.png"
+alt = "Spacejunk"
+description = "For my senior thesis project I developed a board game. This photo shows the game set up the way it would be played. I used <a href='https://www.jpl.nasa.gov/edu/teach/activity/build-a-satellite/'> this article</a> as a source for information during the development process. The basic premise of the game involves searching through a junkyard to find parts to assemble a space probe. Each tile begins face-down so the players can't tell what's under it. On each turn, the players can flip tiles over, collect parts, and move around the board."
+
+[[items]]
+title = "Spacejunk Box"
+image = "/img/Box-low.jpg"
+thumb = "/img/Box-thumb.jpg"
+alt = "Spacejunk Box"
+description = "This is another image from the Spacejunk project, showing the box that the game is stored in. It shows a Spacejunk spacecraft along with the historical, real spacecraft <a href='https://history.nasa.gov/SP-349/contents.htm'>Pioneer 11</a> and <a href='https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1964-077A'>Mariner</a><a href='https://mars.nasa.gov/embed/6768/'> 4.</a>"
+
+[[items]]
+title = "Spacejunk Ion Propulsion"
+image = "/img/IonPropulsion-low.jpg"
+thumb = "/img/IonPropulsion-thumb.jpg"
+alt = "Spacejunk Ion Propulsion"
+description = "This is another image from the Spacejunk project. It shows an ion engine, which is a type of spacecraft propulsion system. This illustration was created using a hybrid process involving 3D rendering and traditional acrylic painting. Information about ion propulsion was obtained from <a href='https://psyche.asu.edu/2018/01/19/electric-thrusters-psyche-spacecraft-work/'> this source.</a>"
+
+[[items]]
+title = "Spacejunk Story 2"
+image = "/img/Story2-lowres.jpg"
+thumb = "/img/Story2-thumb.jpg"
+alt = "Spacejunk Story 2"
+description = "This Spacejunk image represents the hope that space exploration can give to people. The background is an acrylic painting that was photographed and brought into the 3D modeling program. The astronaut figure was then added digitally."
+
+[[items]]
+title = "Pioneer"
+image = "/img/pioneer.png"
+thumb = "/img/pioneer-thumb.png"
+alt = "Pioneer"
+description = "Image of the Pioneer 11 spacecraft, in front of a stylized representation of its mission---crossing the asteroid belt, flying by Jupiter and Saturn, and then exploring the outermost reaches of the Solar System. While modeling the spacecraft, I referred to the NASA publication <a href='https://history.nasa.gov/SP-349/contents.htm'>SP-349</a> and the article <a href='https://www.nasa.gov/centers/ames/news/2013/pioneer11-40-years.html'>NASA Celebrates Four Decades of Plucky Pioneer 11.</a> I also used data from <a href='https://ssd.jpl.nasa.gov/?satellites'>JPL Solar System Dynamics</a> to ensure accuracy in the placement and size of the planets' moons."
+
+[[items]]
+title = "Music Lesson"
+image = "/img/music-lesson.png"
+thumb = "/img/music-lesson-thumb.png"
+alt = "Music Lesson"
+description = "This image shows a human musician taking music lessons from a whimsically-designed (but still relatively realistic) robot. It's intended to communicate a story of peaceful and beneficial interaction between humans and machines."
+
+[[items]]
+title = "Hyperion"
+image = "/img/hyperion.png"
+thumb = "/img/hyperion-thumb.png"
+alt = "Hyperion"
+description = "This image was inspired by Saturn's moon Hyperion, which is suspected to have an elaborate maze of caves below its surface. I referred to various NASA Astronomy Picture of the Day pages (including <a href='https://apod.nasa.gov/apod/ap180514.html'>this one</a>) to get information on Hyperion's appearance, and then imagined this view of the exploration of moon's interior. The astronauts' space suits and equipment are imagined, but intended to be realistic."
+
+[[items]]
+title = "Eclipse"
+image = "/img/eclipse-painted.png"
+thumb = "/img/eclipse-painted-thumb.png"
+alt = "Eclipse"
+description = "This piece is inspired by the 2017 total solar eclipse. It represents both the actual mechanics of how eclipses work as well as the feeling which the eclipse inspires---the realization that you are standing on a spherical planet with a giant rock orbiting it, realizing the size of the universe, realizing that you yourself are a part of the universe."
+
+[[items]]
+title = "Fog"
+image = "/img/fog.png"
+thumb = "/img/fog-thumb.png"
+alt = "Fog"
+description = "This piece was inspired by early morning fog near Daly City, which I observed one morning from BART on my way to school. The combination of moonlight and city lights provided interesting illumination for the fog, and the dark hills and tree shapes provided an interesting contrast---a good subject for a monochromatic digital painting."
+
+[[items]]
+title = "Abandoned City"
+image = "/img/abandoned-city.png"
+thumb = "/img/abandoned-city-thumb.png"
+alt = "Abandoned City"
+description = "This illustration represents a group of explorers landing in an abandoned ancient city. My interest in science is evident here with the image's themes of exploration and discovery. The overall mood of the image is intended to be mysterious with a slight sense of wonder: Where is this place? What happened here?"
+
+[[items]]
+title = "Circles"
+image = "/img/circles-final.png"
+thumb = "/img/circles-thumb.png"
+alt = "Circles"
+description = "Abstract digital painting, working with color and shape as well as digital brushwork. I created the linework using a Python program I wrote myself, and added the colors and brushwork with the open-source digital painting program Krita."
+
+[[items]]
+title = "Discover the World of Reading"
+image = "/img/library.png"
+thumb = "/img/library-thumb.png"
+alt = "Library"
+description = "Illustration of the concept of reading. Books fly off the shelves, begin glowing, and carry ideas away to other places. On the table, paper and a pencil await the viewer's own story. This is a 3D rendering created in Blender, with trees produced by Blender's tree generator."
+
+[[items]]
+title = "Tower"
+image = "/img/tower-bw.png"
+thumb = "/img/tower-thumb.png"
+alt = "Tower"
+description = "3D image of a tower casting its shadow onto a cloud bank. This was created as a study of lighting and cloud effects, and was inspired by a storm I observed near Mono Lake. The tower was intended to give a type of retro-futuristic appearance, while the blue tint suggests a more contemplative mood for the piece and creates more of a focus on value and shadow."
