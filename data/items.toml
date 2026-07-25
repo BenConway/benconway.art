@@ -1,4 +1,32 @@
 [[items]]
+title = "Oak Tree"
+image = "/img/OakTree-web.jpg"
+thumb = "/img/OakTree-thumb.JPG"
+alt = "An oak tree on a green hillside, surrounded by symbols."
+description = "The fundamental ingredients of a landscape: sunlight, air, water, biology, and geology."
+
+[[items]]
+title = "Valley"
+image = "/img/Valley1-web.jpg"
+thumb = "/img/Valley1-thumb.JPG"
+alt = "A pair of trees in a grassy valley."
+description = "Experimenting with using Blender's Geometry Nodes system to make realistic nature scenes."
+
+[[items]]
+title = "Peaceful Garden"
+image = "/img/Garden1-web.jpg"
+thumb = "/img/Garden1-thumb.JPG"
+alt = "A view of a garden, with trees and hedges and stone walls."
+description = "I figured we could all use a peaceful garden scene these days."
+
+[[items]]
+title = "Redwood Forest"
+image = "/img/MtMadonna-web.jpg"
+thumb = "/img/MtMadonna-thumb.JPG"
+alt = "A drawing of the interior of a redwood forest."
+description = "Semi-abstract picture of a redwood forest, based on a quick sketch I did at Mount Madonna last year."
+
+[[items]]
 title = "Song of Resilience"
 image = "/img/Haven1-web.jpg"
 thumb = "/img/Haven1-web.jpg"
