@@ -1,4 +1,11 @@
 [[items]]
+title = "Oak Tree"
+image = "/img/OakTree-web.jpg"
+thumb = "/img/OakTree-thumb.JPG"
+alt = "An oak tree on a green hillside, surrounded by symbols."
+description = "The fundamental ingredients of a landscape: sunlight, air, water, biology, and geology."
+
+[[items]]
 title = "Lichen"
 image = "/img/Lichen-web.jpg"
 thumb = "/img/Lichen-thumb.JPG"
